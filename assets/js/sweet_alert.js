@@ -2,8 +2,8 @@
 Swal.fire({
 	// title:
 	// text: '/assets/archivos/pdf/2022/ficha_de_inscripcion_2022.xlsx',
-	html: 'Descarga el  , ' +
-    '<a href="/COBAT/assets/archivos/pdf/2022/PVMS_Convocatoria_2023-2024_COBACH_TLAXCALA.pdf">pdf</a> ',
+	// html: 'Descarga el  , ' +
+    // '<a href="/COBAT/assets/archivos/pdf/2022/PVMS_Convocatoria_2023-2024_COBACH_TLAXCALA.pdf">pdf</a> ',
 	// icon:
 	// confirmButtonText:
 	// footer:
@@ -55,7 +55,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: '/COBAT/assets/images/slider/usicamm.jpg'
+	imageUrl: 'assets/images/slider/3er_coloqio.png'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
