@@ -1,16 +1,16 @@
 
 Swal.fire({
 	// title:
-	// text: '/assets/archivos/pdf/2022/ficha_de_inscripcion_2022.xlsx',
-	// html: 'Descarga el  , ' +
-    // '<a href="/COBAT/assets/archivos/pdf/2022/PVMS_Convocatoria_2023-2024_COBACH_TLAXCALA.pdf">pdf</a> ',
+	//text: '/assets/archivos/pdf/2022/ficha_de_inscripcion_2022.xlsx',
+	html: 'Descarga el, ' +
+    '<a href="/COBAT/assets/archivos/pdf/2023/convocatoria_ponencias.pdf">(PDF)</a> ',
 	// icon:
 	// confirmButtonText:
 	// footer:
 	// width:
 	// padding:
 	// background:
-	grow: 'fullscreen',
+	grow: 'row',
 	// backdrop:
 	//timer: '50000',
 	//timerProgressBar: 'true',
