@@ -2,7 +2,7 @@ Swal.fire({
     html: `<h1>TERCER COLOQUIO</h1>
     <p>INTERNACIONAL<strong> COBAT</strong></p>
     <br>
-    <a href="/assets/archivos/pdf/2023/convocatoria_ponencias.pdf">Imprimir PDF</a>
+    <a href="/assets/archivos/pdf/2023/Convocatorias.pdf" target="_blank">Imprimir PDF</a>
     `,
 	imageUrl: '/assets/images/img_actividades_cult_depor/3er_coloqio.png',
 });
