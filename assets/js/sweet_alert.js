@@ -1,10 +1,10 @@
 Swal.fire({
-    html: `<h1>TERCER COLOQUIO</h1>
-    <p>INTERNACIONAL<strong> COBAT</strong></p>
+    html: `<h1></h1>
+    <p><strong></strong></p>
     <br>
-    <a href="/COBAT/assets/archivos/pdf/2023/Convocatorias.pdf" target="_blank">Imprimir PDF</a>
+    <a href="/COBAT/assets/archivos/pdf/2023/libro_Celia_Carro.pdf" target="_blank">Imprimir PDF</a>
     `,
-	imageUrl: '/COBAT/assets/images/img_actividades_cult_depor/3er_coloqio.png',
+	imageUrl: '/COBAT/assets/images/img_actividades_cult_depor/Banner_Manual_de_Cancer.jpg',
 });
 
 // ORIGINAL
