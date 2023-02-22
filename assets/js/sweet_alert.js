@@ -2,9 +2,9 @@ Swal.fire({
     html: `<h1></h1>
     <p><strong></strong></p>
     <br>
-    <a href="/assets/archivos/pdf/2023/TLAX_COBACH_23-24.pdf" target="_blank">Descargar PDF</a>
+    <a href="/COBAT/assets/archivos/pdf/2023/TLAX_COBACH_23-24.pdf" target="_blank">Descargar PDF</a>
     `,
-	imageUrl: '/assets/images/img_actividades_cult_depor/BANNER_CONVOCATORIA_USICAMM_ADMISION_23_24.jpg',
+	imageUrl: '/COBAT/assets/images/img_actividades_cult_depor/BANNER_CONVOCATORIA_USICAMM_ADMISION_23_24.jpg',
 });
 
 // ORIGINAL
