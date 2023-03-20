@@ -4,7 +4,7 @@ Swal.fire({
     <br>
     
     `,
-	imageUrl: '/assets/images/img_actividades_cult_depor/convocatoria.png',
+	imageUrl: '/COBAT/assets/images/img_actividades_cult_depor/convocatoria.png',
 });
 //<a href="/COBAT/assets/archivos/pdf/2023/TLAX_COBACH_23-24.pdf" target="_blank">Descargar PDF</a>
 // ORIGINAL
