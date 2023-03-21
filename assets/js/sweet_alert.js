@@ -2,9 +2,9 @@ Swal.fire({
     html: `<h1></h1>
     <p><strong></strong></p>
     <br>
-    
+    <a href="http://189.204.49.118/sistema.php" target="_blank">Clic Aquí</a>
     `,
-	imageUrl: '/COBAT/assets/images/img_actividades_cult_depor/convocatoria.png',
+	imageUrl: '/COBAT/assets/images/img_actividades_cult_depor/Convocatoria Preinscripciones 2023.png',
 });
 //<a href="/COBAT/assets/archivos/pdf/2023/TLAX_COBACH_23-24.pdf" target="_blank">Descargar PDF</a>
 // ORIGINAL
