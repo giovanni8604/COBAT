@@ -20,9 +20,9 @@ Swal.fire({
 	// width:
 	// padding:
 	// background:
-	grow: 'row',
+	grow: 'false',
 	// backdrop:
-	timer: '10000',
+	timer: '5000',
 	timerProgressBar: 'true',
 	// toast:
 	// position:
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/logo intercolegial de baile.jpg'
+	imageUrl: 'assets/images/slider/violencia_pareja.jpg'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
