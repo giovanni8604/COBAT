@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/violencia_pareja.jpg'
+	imageUrl: 'assets/images/slider/nueva_hidtoria_seguridad.jpg'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
