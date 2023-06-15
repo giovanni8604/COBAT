@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/nueva_hidtoria_seguridad.jpg'
+	imageUrl: 'assets/images/slider/cange_de_armas.jpg'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
