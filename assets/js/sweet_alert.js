@@ -22,7 +22,7 @@ Swal.fire({
 	// background:
 	grow: 'false',
 	// backdrop:
-	timer: '5000',
+	timer: '8000',
 	timerProgressBar: 'true',
 	// toast:
 	// position:
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/cange_de_armas.jpg'
+	imageUrl: 'assets/images/slider/Aspirantes COBAT 2023.jpg'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
