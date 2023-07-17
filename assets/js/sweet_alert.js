@@ -11,9 +11,9 @@
 // ORIGINAL
 Swal.fire({
 	// title:
-	//text: '/assets/archivos/pdf/2022/ficha_de_inscripcion_2022.xlsx',
-	// html: 'Descarga el, ' +
-    // '<a href="/COBAT/assets/archivos/pdf/2023/convocatoria_ponencias.pdf">(PDF)</a> ',
+	//text: '/assets/archivos/pdf/2023/Convocatoria.pdf',
+	 html: 'Descarga el, ' +
+    '<a href="/COBAT/assets/archivos/pdf/2023/Convocatoria.pdf">(PDF)</a> ',
 	// icon:
 	// confirmButtonText:
 	// footer:
@@ -22,7 +22,7 @@ Swal.fire({
 	// background:
 	grow: 'false',
 	// backdrop:
-	timer: '8000',
+	timer: '10000',
 	timerProgressBar: 'true',
 	// toast:
 	// position:
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/Aspirantes COBAT 2023.jpg'
+	imageUrl: 'assets/images/slider/Convocatoria.png'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
