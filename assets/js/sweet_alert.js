@@ -12,8 +12,8 @@
 Swal.fire({
 	// title:
 	//text: '/assets/archivos/pdf/2023/Convocatoria.pdf',
-	 html: 'Descarga el, ' +
-    '<a href="/COBAT/assets/archivos/pdf/2023/jornada_academica_2023-B.pdf">(PDF)</a> ',
+	//  html: 'Descarga el, ' +
+    // '<a href="/COBAT/assets/archivos/pdf/2023/jornada_academica_2023-B.pdf">(PDF)</a> ',
 	// icon:
 	// confirmButtonText:
 	// footer:
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/jornada_academica_2023-B.png'
+	imageUrl: 'assets/images/slider/esquela.png'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
