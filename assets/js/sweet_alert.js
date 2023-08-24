@@ -12,8 +12,8 @@
 Swal.fire({
 	// title:
 	//text: '/assets/archivos/pdf/2023/Convocatoria.pdf',
-	//  html: 'Descarga el, ' +
-    // '<a href="/COBAT/assets/archivos/pdf/2023/jornada_academica_2023-B.pdf">(PDF)</a> ',
+	  html: 'Descarga el, ' +
+     '<a href="/COBAT/assets/archivos/pdf/2023/Acuerdo 001-23 caf y pap.pdf">(PDF)</a> ',
 	// icon:
 	// confirmButtonText:
 	// footer:
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/esquela.png'
+	imageUrl: 'assets/images/slider/Acuerdo 001-23 caf y pap.jpg'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
