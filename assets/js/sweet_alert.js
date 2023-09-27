@@ -12,8 +12,8 @@
 Swal.fire({
 	// title:
 	//text: '/assets/archivos/pdf/2023/Convocatoria.pdf',
-	  html: 'Descarga el, ' +
-     '<a href="/COBAT/assets/archivos/pdf/2023/Acuerdo 001-23 caf y pap.pdf">(PDF)</a> ',
+	//  html: 'Descarga el, ' +
+    // '<a href="/COBAT/assets/archivos/pdf/2023/Acuerdo 001-23 caf y pap.pdf">(PDF)</a> ',
 	// icon:
 	// confirmButtonText:
 	// footer:
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/Acuerdo 001-23 caf y pap.jpg'
+	imageUrl: 'assets/images/slider/Conferencia_Virtual_2023.jpg'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
