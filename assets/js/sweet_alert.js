@@ -20,7 +20,7 @@ Swal.fire({
 	// width:
 	// padding:
 	// background:
-	grow: 'false',
+	grow: 'fullscreen',
 	// backdrop:
 	timer: '10000',
 	timerProgressBar: 'true',
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/Conferencia_Virtual_2023.jpg'
+	imageUrl: 'assets/images/slider/portada_informe_2023.jpg'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
