@@ -161,7 +161,7 @@ body {
 .main-button-red a {
   font-size: 13px;
   color: #fff;
-  background-color: #3a1f58;
+  background-color: #c1c1c1;/*3a1f58* veda*/
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
@@ -1388,7 +1388,7 @@ section.contact-us #contact textarea {
 section.contact-us #contact button {
   font-size: 13px;
   color: #fff;
-  background-color: #3a1f58;
+  background-color: #b8b8b8;/*3a1f58*/
   padding: 12px 30px;
   display: inline-block;
   border-radius: 22px;
