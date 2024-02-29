@@ -1460,7 +1460,7 @@ heading page
 */
 
 section.heading-page {
-  background-image: url(../images/img_boletines/boletin.jpg);
+  background-image: url(../images/img_boletines/boletin_veda.jpg);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -1496,7 +1496,7 @@ upcoming meetings page
 */
 
 section.meetings-page {
-  background-image: url(../images/template/textura_mandala.png);
+  background-image: url(../images/template/veda_cuenta_publica.png);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1512,7 +1512,7 @@ section.meetings-page .filters {
 
 section.meetings-page .filters li {
   font-size: 13px;
-  color: #a12c2f;
+  color: #707070;/*a12c2f*/
   background-color: #fff;
   padding: 11px 30px;
   display: inline-block;
@@ -1526,7 +1526,7 @@ section.meetings-page .filters li {
 
 section.meetings-page .filters ul li.active,
 section.meetings-page .filters ul li:hover {
-  background-color: #a12c2f;
+  background-color: #707070;/*a12c2f*/
   color: #fff;
 }
 
