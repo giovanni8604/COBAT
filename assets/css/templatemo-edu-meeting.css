@@ -274,7 +274,7 @@ header
 }
 
 .header-area {
-  background-color: #b8b8b8;/*3a1f587c*/
+  background-color: #747474b4;/*3a1f587c*/
   position: absolute;
   top: 40px;
   left: 0;
@@ -1087,7 +1087,7 @@ section.apply-now .item p {
   transition: transform 200ms ease-in-out;
 }
 .accordion-head.is-open {
-  color: #80b13e;
+  color: #717171;/*80b13e*/
   border-bottom: none;
 }
 .accordion-head.is-open .icon {
@@ -1292,7 +1292,7 @@ section.our-facts h2 {
 
 .count-digit {
     margin: 5px 0px;
-    color: #80b13e;
+    color: #6a6a6a;/*80b13e*/
     font-weight: 700;
     font-size: 56px;
 }
