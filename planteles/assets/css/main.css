@@ -213,10 +213,11 @@ section {
   color: var(--color-white);
 }
 
-.scroll-top.active {
+/*-----------------------------SE COMENTA SCROLL------------------------*/
+/* .scroll-top.active {
   visibility: visible;
   opacity: 1;
-}
+} */
 
 /*--------------------------------------------------------------
 # Disable aos animation delay on mobile devices
@@ -593,7 +594,7 @@ section {
 }
 
 .hero-animated h2 span {
-  color: #981861;
+  color: #787878;/*981861*/
 }
 
 .hero-animated p {
@@ -652,20 +653,20 @@ section {
 }
 
 .hero-animated .btn-watch-video i {
-  color: #981861;
+  color: #555555;
   font-size: 32px;
   transition: 0.3s;
   line-height: 0;
   margin-right: 8px;
 }
 
-.hero-animated .btn-watch-video:hover {
+/* -------------------- VEDA .hero-animated .btn-watch-video:hover {
   color: #3a1f58;
 }
 
 .hero-animated .btn-watch-video:hover i {
   color: #3a1f58;
-}
+} */
 
 @media (max-width: 640px) {
   .hero-animated h2 {
@@ -3118,12 +3119,12 @@ section {
 # Footer
 --------------------------------------------------------------*/
 .footer {
-  color: #981861;
+  color: #616161;/*981861*/
   font-size: 14px;
 }
 
 .footer .footer-content {
-  background-image: url("../img/template/textura_mandala.png");
+  background-image: url("../img/template/veda_1.png");/* VEDA         "../img/template/textura_mandala.png"*/
   padding: 60px 0 30px 0;
 }
 
@@ -3141,7 +3142,7 @@ section {
 }
 
 .footer .footer-content .footer-info h3 span {
-  color: #981861;
+  color: #545454;/*981861*/
 }
 
 .footer .footer-content .footer-info p {
@@ -3149,13 +3150,13 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: var(--font-primary);
-  color: #981861;
+  color: #545454;/*981861*/
 }
 
 .footer .footer-content h4 {
   font-size: 16px;
   font-weight: 600;
-  color: #981861;
+  color: #545454;/*981861*/
   position: relative;
   padding-bottom: 12px;
   margin-bottom: 15px;
@@ -3167,7 +3168,7 @@ section {
   display: block;
   width: 20px;
   height: 2px;
-  background: var(--color-primary);
+  /* background: var(--color-primary); VEDA---------------*/
   bottom: 0;
   left: 0;
 }
@@ -3184,7 +3185,7 @@ section {
 
 .footer .footer-content .footer-links ul i {
   padding-right: 2px;
-  color: #981861;
+  color: #545454;/*981861*/
   font-size: 12px;
   line-height: 1;
 }
@@ -3200,7 +3201,7 @@ section {
 }
 
 .footer .footer-content .footer-links ul a {
-  color: #981861;
+  color: #545454;/*981861*/
   transition: 0.3s;
   display: inline-block;
   line-height: 1;
@@ -3249,7 +3250,7 @@ section {
 
 .footer .footer-legal {
   padding: 30px 0;
-  background-image: url("../img/template/textura_mandala.png");
+  background-image: url("../img/template/veda.png");/* VEDA    "../img/template/textura_mandala.png"*/
   }
 
 .footer .footer-legal .credits {
@@ -3259,7 +3260,7 @@ section {
 }
 
 .footer .footer-legal .credits a {
-  color: #981861;
+  color: #545454;/*981861*/
 }
 
 .footer .footer-legal .social-links a {
