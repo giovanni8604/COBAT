@@ -2,7 +2,7 @@ body{
     margin:0;
     padding:0;
     font-family:'montserrat';
-    background-image: url(../assets/images/template/textura_mandala.png);
+    background-image: url(../assets/images/template/veda_cuenta_publica.png);
     /* background:#e3e9f7;*/
 }
 
@@ -18,7 +18,7 @@ nav ul{
     position:fixed;
     top:0;
     left:0;
-    background-color:rgba(255, 255, 255, 0.762);
+    background-color:rgba(120, 120, 120, 0.762);
 }
 
 nav ul li{
@@ -32,7 +32,7 @@ nav ul li a{
     text-decoration:none;
     text-transform:uppercase;
     font-size:17px;
-    color:#3a1f58;
+    color:#ffffff;
     position:relative;
     padding:15px 0px 15px 25px;
     transition:all 0.5s;
@@ -44,7 +44,7 @@ nav ul li a:before{
     top:0;
     right:0;
     height:100%;
-    background:#98186191;
+    background:#ffffff91;
     border-radius:40px 0 0 40px;
     z-index:-1;
     transition:all 1s;
