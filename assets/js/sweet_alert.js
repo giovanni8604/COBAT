@@ -12,17 +12,17 @@
 Swal.fire({
 	// title:
 	//text: '/assets/archivos/pdf/2023/Convocatoria.pdf',
-	//  html: 'Descarga el, ' +
-    // '<a href="/COBAT/assets/archivos/pdf/2023/Acuerdo 001-23 caf y pap.pdf">(PDF)</a> ',
+	html: 'Descarga tu guía , ' +
+    '<a href="/COBAT/assets/archivos/pdf/2024/EDIEMS_Guia_2024_2025.pdf">(aquí!!!!)</a> ',
 	// icon:
-	// confirmButtonText:
+	// confirmButtonText: 
 	// footer:
 	// width:
 	// padding:
 	// background:
 	grow: 'fullscreen',
 	// backdrop:
-	timer: '10000',
+	timer: '50000',
 	timerProgressBar: 'true',
 	// toast:
 	// position:
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/portada_informe_2023.jpg'
+	imageUrl: 'assets/images/slider/Banner guía de estudios.png'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
