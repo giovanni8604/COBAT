@@ -12,8 +12,8 @@
 Swal.fire({
 	// title:
 	//text: '/assets/archivos/pdf/2023/Convocatoria.pdf',
-	html: 'Descarga tu guía , ' +
-    '<a href="/COBAT/assets/archivos/pdf/2024/EDIEMS_Guia_2024_2025.pdf">(aquí!!!!)</a> ',
+	html: 'Descargalo, ' +
+    '<a href="/COBAT/assets/archivos/pdf/2024/Infografía Ediems 2024.png">(aquí!!!!)</a> ',
 	// icon:
 	// confirmButtonText: 
 	// footer:
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/Banner guía de estudios.png'
+	imageUrl: 'assets/images/slider/Infografía Ediems 2024.png'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
