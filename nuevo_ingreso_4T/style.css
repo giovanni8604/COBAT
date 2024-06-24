@@ -1,10 +1,10 @@
-body{
+ body{
     margin:0;
     padding:0;
     font-family:'montserrat';
-    background-image: url(../assets/images/template/veda_cuenta_publica.png);
+    background-image: url("/assets/images/template/textura.png");
     /* background:#e3e9f7;*/
-}
+} 
 
 .logo{
     padding:20px;
@@ -18,7 +18,7 @@ nav ul{
     position:fixed;
     top:0;
     left:0;
-    background-color:rgba(120, 120, 120, 0.762);
+    background-color: #3a1f58aa;
 }
 
 nav ul li{
