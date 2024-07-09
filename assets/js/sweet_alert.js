@@ -13,14 +13,14 @@ Swal.fire({
 	// title:
 	//text: '/assets/archivos/pdf/2023/Convocatoria.pdf',
 	html: 'Descargalo, ' +
-    '<a href="/COBAT/assets/archivos/pdf/2024/Infografía Ediems 2024.png">(aquí!!!!)</a> ',
+    '<a href="/COBAT/assets/archivos/pdf/2024/Programacion Academias 2024-B.pdf">(aquí!!!!)</a> ',
 	// icon:
 	// confirmButtonText: 
 	// footer:
 	// width:
 	// padding:
 	// background:
-	grow: 'fullscreen',
+	grow: 'column',
 	// backdrop:
 	timer: '50000',
 	timerProgressBar: 'true',
@@ -65,7 +65,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/Infografía Ediems 2024.png'
+	imageUrl: 'assets/images/slider/jornada_academica_2024.jpg'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
