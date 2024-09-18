@@ -139,13 +139,15 @@ body {
 }
 .centrado {
   height: 100vh;
-  background-color: #ffffff82;
+  background-color: #ffffff;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-
-
+.lds-grid {
+  /* change color here */
+  color: #3a1f58
+}
 .lds-grid,
 .lds-grid div {
   box-sizing: border-box;
