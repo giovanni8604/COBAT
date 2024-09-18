@@ -7,5 +7,5 @@ window.onload = () => {
     let loading = document.getElementById('onload');
     setTimeout(() => {
     loading.style.display = 'none';
-    }, 5000)
+    }, 1500)
 }
