@@ -136,6 +136,7 @@ body {
   background-image: url("/COBAT/assets/images/template/textura.png");
 }
 
+
 [tabindex="-1"]:focus {
   outline: none !important;
 }
