@@ -13,7 +13,7 @@ Swal.fire({
 	// title:
 	text: '/assets/archivos/pdf/2023/Convocatoria.pdf',
 	html: 'Inscribete, ' +
-    '<a href="https://forms.gle/YTUV8GLHQFNLJEE36">(aquí!!!!)</a> ',
+    '<a href="https://forms.gle/YTUV8GLHQFNLJEE36">(aquí)</a> ',
 	// icon:
 	// confirmButtonText: 
 	// footer:
