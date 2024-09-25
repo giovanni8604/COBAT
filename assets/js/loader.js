@@ -7,5 +7,5 @@ window.onload = function(){
 //     let loading = document.getElementById('onload');
 //     setTimeout(() => {
 //     loading.style.display = 'none';
-//     }, 1500)
+//     }, 15500)
 // }

@@ -25,10 +25,10 @@ Swal.fire({
 	timerProgressBar: 'true',
 	// toast:
 	// position:
-	// allowOutsideClick:
-	// allowEscapeKey:
-	// allowEnterKey:
-	// stopKeydownPropagation:
+	// allowOutsideClick: 'false',
+	// allowEscapeKey: 'false',
+	// allowEnterKey: 'false',
+	// stopKeydownPropagation: 'false',
 
 	// input:
 	// inputPlaceholder:
