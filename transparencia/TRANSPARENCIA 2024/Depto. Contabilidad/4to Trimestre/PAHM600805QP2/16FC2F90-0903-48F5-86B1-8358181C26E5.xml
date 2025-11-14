@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="B" Folio="74" Fecha="2024-12-26T10:38:27" Sello="jBVJEmCWxPa1e+MPPhB6bk0NR0sMzbD0VvKEtBRJdhuMB2w8Uiz22n1SXWnkiYok4LxZtuX7RF1qao5ZURJ514fcAAKT8RCbFFz1D+xnuB84dUVXhzuM8DzQfY7foYgctb8tgFncFoXOx+hQptmsK6mst6m0FAz0qFE4shUFL4L4P9ZHzbQFJcvpz7auTj7D6kRCmcfPhwTA0vjy8q7ekaAew+Dx4YkWEaLz7nWiRRx97wgVxhXd3yei9eceTbHR/cD3OvV2q/J5CjtjqmHhsqvluVAS8jh6J6+AyEK/ccQSy5kxOLsmrFFGnOy7/gEpth9EalF5xpbQJGdWCJpfGQ==" FormaPago="03" NoCertificado="00001000000704028049" Certificado="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" SubTotal="122618.00" Moneda="MXN" Total="140704.15" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90456" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="PAHM600805QP2" Nombre="MIGDIO OSVALDO PALMA HERNANDEZ" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="43211500" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="DELL G15 5530 LAPTOP 15.6 PULGADAS FHD 165 HZ 13ª GENERACIÓN INTEL 24-CORE I9-13900HX GEFORCE RTX 4060 64 GB DDR5 2TB SSD RGB RETROILUMINADO KB WIFI 6 WIN 11 PRO Y MICROSOFT DELL" ValorUnitario="83000.00" Importe="83000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="83000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13280.00" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="83000" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="1037.50" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43211600" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PROCESADOR INTEL CORE I9-14900KS / 24 NÚCLEOS (8 NÚCLEOS P + 16 NÚCLEOS ELECTRÓNICOS) / 36 MB DE CACHÉ / HASTA 6.2 GHZ / BX8071514900KS" ValorUnitario="18826.00" Importe="18826.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="18826.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3012.16" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="18826.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="235.33" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43211600" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="DISPARADOR PARA CPU COOPLER MASTER HYPER 212 EVO V2 NEGRO/PLATA/ 120 MM / 650-1800RPM/ RR-2V2-18PK-R2" ValorUnitario="1049" Importe="1049.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1049.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="167.84" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="1049" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="13.11" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="56112003" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TARJETA MADRE ASUS ATX ROG STRIX Z790-A GAMING WIFI II/LGA1700 /INTEL Z790/ HDMI/ UP TO 192 GB DDR5 /ROG STRIX Z790-A GAMING WIFI II" ValorUnitario="5199.00" Importe="5199.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5199.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="831.84" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="5199.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="64.99" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43211600" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MEMORIA RAM 16GB DDR5 KINGSTON FURY BEAST 600MHZ/ UN MODULO 16GB/ XMP 3.0/ KF560C40BB-16" ValorUnitario="994.00" Importe="994.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="994.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="159.04" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="994" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="12.43" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43211600" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="UNIDAD DE ESTADO SÓLIDO SSD M.2 NVME PCI-E 4.0 1TB SEAGATE FIRECUDA GAMING 520 SERIES/ ZP1000GM3A002" ValorUnitario="1961.00" Importe="1961.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1961.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="313.76" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="1961" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="24.51" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43211600" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="GABINETE GAMER XZEAL XZ130 WHITE / ATX / INCLUYE 3 VENTILADORES RGB / USB 3.0 / VENTANA LATERAL / LED RGB / XZCGB06W / PROMOXZEAL" ValorUnitario="1081.00" Importe="1081.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1081.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="172.96" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="1081.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="13.51" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43211500" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="DELL S3221QS 32 PULGADAS CURVADO 4K UHD MONITOR DE BISEL ULTRAFINO VA AMD FREESYNC HDMI DISPLAYPORT ALTAVOCES INTEGRADOS CERTIFICADO VESA COLOR PLATEADO" ValorUnitario="8889.00" Importe="8889.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8889.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1422.24" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="8889" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="111.11" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43211600" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FUENTE DE PODER CORSAIR CX550 80+ BRONZE / ATX / 120MM / 550W / CP-9020277-NA" ValorUnitario="1619.00" Importe="1619.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1619.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="259.04" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="1619.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="20.24" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="19618.88" TotalImpuestosRetenidos="1532.73">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="1532.73" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="122618.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="19618.88" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="16FC2F90-0903-48F5-86B1-8358181C26E5" FechaTimbrado="2024-12-26T10:40:05" RfcProvCertif="SAT970701NN3" SelloCFD="jBVJEmCWxPa1e+MPPhB6bk0NR0sMzbD0VvKEtBRJdhuMB2w8Uiz22n1SXWnkiYok4LxZtuX7RF1qao5ZURJ514fcAAKT8RCbFFz1D+xnuB84dUVXhzuM8DzQfY7foYgctb8tgFncFoXOx+hQptmsK6mst6m0FAz0qFE4shUFL4L4P9ZHzbQFJcvpz7auTj7D6kRCmcfPhwTA0vjy8q7ekaAew+Dx4YkWEaLz7nWiRRx97wgVxhXd3yei9eceTbHR/cD3OvV2q/J5CjtjqmHhsqvluVAS8jh6J6+AyEK/ccQSy5kxOLsmrFFGnOy7/gEpth9EalF5xpbQJGdWCJpfGQ==" NoCertificadoSAT="00001000000705250068" SelloSAT="fU16CqWiibeBUd8qXJfMXtSdUVTEWHWrkPbAljC8MSDAyY0zeo3Uyyf+gCiJY09J05hOhBJdI3uBYkI65wK2aDyVVnb+CrDZwAOL/tm7FrDQg5Z8EFryCRczNKyELoQi6cU67busycNftBCZ304nuT0nOBAJwo1QHO3lPuaJEGSm/kB3RW8M8Oaniwl7OWntqevZci0hce0oiOWEIQ60LPRa5AA/4nr1LwgDYk41yEe9k/9XuA+dN9W20nKIn5Jxtszan8zekfU33k7EJN/HG55gWweTqwthAPZEqof1VAma1h5joMQ7OoAPWdDHbRCv+oSO4jcuoG2BZMtPkiSaoQ==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

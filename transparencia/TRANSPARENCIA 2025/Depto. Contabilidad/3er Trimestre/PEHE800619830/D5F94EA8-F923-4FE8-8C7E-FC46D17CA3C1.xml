@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2025-07-10T14:20:32" Sello="W9Jfts9PeIIvLScU7vrJh3NJx9GqOjeHTfjOT+yr3A/lEWa59i2YYYHz9kqrDUJjIqz+hiAW5ZXDNYp5Tyl7XOdMwEXQqyz76CYn7SDsbPh+7201wurUhUEpYAIQ/7gqI6DlJ8b/CrNooGJbYPO3dKPPuisERaMpwa/qVc49bAD9bPlPtylaHUjaZmgHEUb2umHP3Xq8/u9IR3gR9EZgDWImraKfjP/I01EGu21GTqc7p4Biunob5z5UFelgXqa6zjUNtyNHRIoiGngmMmXRGAsTZyDxeqaC+mRwKjN3oJj0C3hQlmGt7PTCjEFzYb2V7/b7J7Vlq0Xzt1RrWG4tQQ==" FormaPago="03" NoCertificado="00001000000716141268" Certificado="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" SubTotal="4005.30" Moneda="MXN" Total="4646.15" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90100" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="PEHE800619830" Nombre="ERICK PEREZ HERNANDEZ" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50202306" Cantidad="3.00" ClaveUnidad="XPK" Unidad="Paquete" Descripcion="Coca cola mini 355 ml con 12 piezas" ValorUnitario="174.11" Importe="522.330000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="522.330000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="83.572800" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202306" Cantidad="3.00" ClaveUnidad="XPK" Unidad="Paquete" Descripcion="Coca cola mini (sin azucar) con 12 piezas" ValorUnitario="161.00" Importe="483.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="483.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="77.280000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50161800" Cantidad="2.00" ClaveUnidad="XEC" Unidad="Bolsa de plástico" Descripcion="Bolsas grandes de chiclosos de leche surtidos (montes) c/100 piezas" ValorUnitario="87.50" Importe="175.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="175.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="28.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50405500" Cantidad="2.00" ClaveUnidad="XEC" Unidad="Bolsa de plástico" Descripcion="Cacahuate members mark (mezcla enchilada)" ValorUnitario="126.58" Importe="253.160000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="253.160000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.505600" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50161814" Cantidad="2.00" ClaveUnidad="XBX" Unidad="Caja" Descripcion="Sustituto de azucar (splenda-stevia) c/350 sobres de 1 gr c/u" ValorUnitario="287.50" Importe="575.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="575.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="92.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50101716" Cantidad="4.00" ClaveUnidad="XBQ" Unidad="Botella cilíndrica p" Descripcion="Nueces de la india" ValorUnitario="395.14" Importe="1580.560000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1580.560000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="252.889600" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="47131502" Cantidad="2.00" ClaveUnidad="XBQ" Unidad="Botella cilíndrica p" Descripcion="Toallas desinfectantes lysol con 80 toallitas" ValorUnitario="161.25" Importe="322.500000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="322.500000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="51.600000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111705" Cantidad="3.00" ClaveUnidad="XBX" Unidad="Caja" Descripcion="Kleenex de 90 hojas" ValorUnitario="31.25" Importe="93.750000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="93.750000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="640.85">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="4005.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="640.85" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="D5F94EA8-F923-4FE8-8C7E-FC46D17CA3C1" FechaTimbrado="2025-07-10T14:20:56" RfcProvCertif="SAT970701NN3" SelloCFD="W9Jfts9PeIIvLScU7vrJh3NJx9GqOjeHTfjOT+yr3A/lEWa59i2YYYHz9kqrDUJjIqz+hiAW5ZXDNYp5Tyl7XOdMwEXQqyz76CYn7SDsbPh+7201wurUhUEpYAIQ/7gqI6DlJ8b/CrNooGJbYPO3dKPPuisERaMpwa/qVc49bAD9bPlPtylaHUjaZmgHEUb2umHP3Xq8/u9IR3gR9EZgDWImraKfjP/I01EGu21GTqc7p4Biunob5z5UFelgXqa6zjUNtyNHRIoiGngmMmXRGAsTZyDxeqaC+mRwKjN3oJj0C3hQlmGt7PTCjEFzYb2V7/b7J7Vlq0Xzt1RrWG4tQQ==" NoCertificadoSAT="00001000000705250068" SelloSAT="YGI2lZRadYRewcyI6qrcJUDpJWvNWnmhDMDJeMNlHAHiDneZr2dcFH2mJOwoqaTmEkocPzxuXG13ay5FeHITCR0mcFSHTDr/fefwm8PDgnwP1xHqyQoUDNxalhk+UQdtpGenZxF3y8V+qXIUl1TdbLNw6h6mWZn3Ruj7URKu0XT2hvZjVu787ugyg1fZsWkYiU5QNJywGGvq+P+Q23bXyLC9YG3ji91ba9a6kBhouH3/83dEDw3GaUxjNNQkfC7L/vJ1iMUzfntrqIlPpzZE2+N2Hr2UnPLY+MXvfYfboeRkP7qVemwB21jdv66/lNuXeTWiyrt9I7xwJ8DNRGlSjg==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

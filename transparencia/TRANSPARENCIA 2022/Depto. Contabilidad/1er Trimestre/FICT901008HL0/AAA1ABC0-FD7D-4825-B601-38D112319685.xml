@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="90355" MetodoPago="PUE" TipoDeComprobante="I" Total="152549.28" Moneda="MXN" Certificado="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" SubTotal="131508.00" NoCertificado="00001000000504465028" FormaPago="03" Sello="PAwZu4Eh9F4v3B72beaMn9Kzc6e9wD+EUWG8HksU/cY2cjd7tHmF8IAsv3Qm1NdpJQbu7B6T22YuP8DRxP3P36lxPycZIudtHDnrNrhwZjgpyd2S31AY+UyOZH5e7uc+UW3hT3a5XIQylhOgrk7jBM8YCG149Rzvb0xkudqtSZiL5qN2xp7BZx63NvOnTH0voz+Czl776HFpiSJgXj8+jdyDWXilKJlFnXrNNtwBNz0TI+szlMrMJ6WxYXywtBf/3pQLhYkPd9FThwqvyp/r9E80Iu1a8UwI8tgmitzhgeKtfwyiO2kCahYjL+6jUTRhyYL+vGnhrz1dKV1gjPT40w==" Fecha="2022-02-28T21:26:06" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="FICT901008HL0" Nombre="TANIA FIERRO CORONA" RegimenFiscal="612"></cfdi:Emisor>
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" UsoCFDI="G03"></cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="44121700" Cantidad="22" ClaveUnidad="XBX" Descripcion="Hojas de papel Bond T/ carta c/ 10 paquetes cada una marca Duplicador porcentaje de blancura 97% mínimo" ValorUnitario="1225.00" Importe="26950.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="26950.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4312.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="75" ClaveUnidad="XBX" Descripcion="Rollo de papel bobina para WC con 12 pzas C/U" ValorUnitario="378.00" Importe="28350.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="28350.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4536.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="10" ClaveUnidad="XBX" Descripcion="Corrector tipo lápiz con 12 piezas" ValorUnitario="158.40" Importe="1584.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1584.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="253.44"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="40" ClaveUnidad="H87" Descripcion="Masking tape 48mm x 50 mm" ValorUnitario="64.80" Importe="2592.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2592.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="414.72"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="30" ClaveUnidad="H87" Descripcion="Masking tape 24mm x 50 mm" ValorUnitario="37.00" Importe="1110.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1110.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="177.60"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="5" ClaveUnidad="XBX" Descripcion="Sacapuntas metálico, de un orificio caja con 24 piezas" ValorUnitario="80.00" Importe="400.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="400.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="64.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="5" ClaveUnidad="XBX" Descripcion="Goma Factis softer con 20 piezas" ValorUnitario="214.00" Importe="1070.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1070.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="171.20"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="4" ClaveUnidad="XBX" Descripcion="Lapicero color rojo con 12 piezas c/u" ValorUnitario="56.00" Importe="224.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="224.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="35.84"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="2" ClaveUnidad="XBX" Descripcion="CD RW, capacidad 700 MB, 80 min, regrabable con 50 C/U" ValorUnitario="281.00" Importe="562.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="562.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="89.92"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="50" ClaveUnidad="XEC" Descripcion="Cuchara pastelera con 50 piezas" ValorUnitario="15.00" Importe="750.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="750.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="120.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="100" ClaveUnidad="XPK" Descripcion="Vasos reciclable de cartón no.8 con 50 piezas" ValorUnitario="68.00" Importe="6800.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6800.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1088.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111705" Cantidad="125" ClaveUnidad="XPK" Descripcion="Servilleta de 100 pizas, medidas 24x27 cm" ValorUnitario="36.00" Importe="4500.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="720.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111705" Cantidad="50" ClaveUnidad="XPK" Descripcion="Plato de cartón pastelero con 50 piezas c/u, medida 21cm" ValorUnitario="73.00" Importe="3650.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3650.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="584.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="24111500" Cantidad="250" ClaveUnidad="H87" Descripcion="Bolsa negra para basura T/J medidas 90x120cm calibre 32" ValorUnitario="25.00" Importe="6250.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6250.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1000.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="24111500" Cantidad="250" ClaveUnidad="H87" Descripcion="Bolsa negra para basura T/M medidas 70x90cm calibre 32" ValorUnitario="23.00" Importe="5750.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5750.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="920.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="83" ClaveUnidad="XPK" Descripcion="Lápiz mirado 2 1/2 con 12 piezas c/u" ValorUnitario="41.00" Importe="3403.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3403.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="544.48"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121500" Cantidad="7" ClaveUnidad="XBX" Descripcion="Dedales no. 10 con 10 piezas c/u" ValorUnitario="65.00" Importe="455.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="455.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="72.80"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121500" Cantidad="7" ClaveUnidad="XBX" Descripcion="Dedales no. 11 con 10 piezas c/u" ValorUnitario="65.00" Importe="455.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="455.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="72.80"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="7" ClaveUnidad="XBX" Descripcion="Dedales No.12 con 10 piezas c/u" ValorUnitario="65.00" Importe="455.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="455.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="72.80"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52151703" Cantidad="25" ClaveUnidad="XBX" Descripcion="Tenedor de plástico c/25 piezas" ValorUnitario="32.80" Importe="820.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="820.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="131.20"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="15" ClaveUnidad="H87" Descripcion="Tinta p/sello Pelikan giraplica rollon color negro" ValorUnitario="34.80" Importe="522.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="522.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="83.52"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="15" ClaveUnidad="H87" Descripcion="Tinta p/sello Pelikan giraplica rollon color rojo" ValorUnitario="34.80" Importe="522.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="522.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="83.52"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="40" ClaveUnidad="XBX" Descripcion="Grapas estándar c /5000" ValorUnitario="38.00" Importe="1520.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1520.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="243.20"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="35" ClaveUnidad="H87" Descripcion="Quita grapas" ValorUnitario="25.00" Importe="875.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="875.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="140.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="35" ClaveUnidad="XBX" Descripcion="Lapicero negro punto fino con 12 piezas c/u" ValorUnitario="41.00" Importe="1435.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1435.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="229.60"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="35" ClaveUnidad="XBX" Descripcion="Lapicero negro punto mediano con 12 piezas c/u" ValorUnitario="65.00" Importe="2275.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2275.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="364.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="10" ClaveUnidad="XBX" Descripcion="Lapicero rojo punto mediano con 12 piezas" ValorUnitario="65.00" Importe="650.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="650.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="104.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="20" ClaveUnidad="XBX" Descripcion="Lapicero azul punto fino con 12 piezas" ValorUnitario="65.00" Importe="1300.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1300.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="208.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="25" ClaveUnidad="XBX" Descripcion="Lapicero azul punto mediano con 12 piezas" ValorUnitario="65.00" Importe="1625.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1625.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="260.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="24111500" Cantidad="1500" ClaveUnidad="H87" Descripcion="Bolsa para basura con asa" ValorUnitario="3.50" Importe="5250.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5250.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="840.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="15" ClaveUnidad="H87" Descripcion="Engrapadora" ValorUnitario="126.00" Importe="1890.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1890.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="302.40"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="10" ClaveUnidad="H87" Descripcion="Perforadora de 2 orificios de metal" ValorUnitario="214.00" Importe="2140.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2140.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="342.40"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="10" ClaveUnidad="H87" Descripcion="Perforadora de 3 orificios" ValorUnitario="268.00" Importe="2680.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2680.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="428.80"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="4" ClaveUnidad="XPK" Descripcion="Pasta para engargolar T/C negro con 50 piezas" ValorUnitario="468.00" Importe="1872.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1872.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="299.52"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="1" ClaveUnidad="XPK" Descripcion="Pasta para engargolar T/O negro con 50 piezas" ValorUnitario="468.00" Importe="468.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="468.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="74.88"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="1" ClaveUnidad="XPK" Descripcion="Pasta para engargolar T/O transparente con 50 piezas" ValorUnitario="440.00" Importe="440.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="440.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="70.40"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="250" ClaveUnidad="XBX" Descripcion="Clip estándar No. 2 con 100 piezas" ValorUnitario="14.80" Importe="3700.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3700.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="592.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="250" ClaveUnidad="XBX" Descripcion="Clip estándar No. 1 con 100 piezas" ValorUnitario="14.80" Importe="3700.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3700.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="592.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="2" ClaveUnidad="XBX" Descripcion="DVD capacidad 4.7GB, 16x120 min, regrabable con 50 c/U" ValorUnitario="321.00" Importe="642.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="642.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="102.72"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121600" Cantidad="4" ClaveUnidad="XBX" Descripcion="Pasta para engargolar T/C transparente con 50 piezas" ValorUnitario="468.00" Importe="1872.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1872.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="299.52"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="21041.28">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21041.28"></cfdi:Traslado>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <registrofiscal:CFDIRegistroFiscal xmlns:schemaLocation="http://www.sat.gob.mx/registrofiscal http://www.sat.gob.mx/sitio_internet/cfd/cfdiregistrofiscal/cfdiregistrofiscal.xsd" Version="1.0" Folio="2203200000075257" xmlns:registrofiscal="http://www.sat.gob.mx/registrofiscal"></registrofiscal:CFDIRegistroFiscal>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="AAA1ABC0-FD7D-4825-B601-38D112319685" FechaTimbrado="2022-02-28T22:22:22" RfcProvCertif="SAT970701NN3" SelloCFD="PAwZu4Eh9F4v3B72beaMn9Kzc6e9wD+EUWG8HksU/cY2cjd7tHmF8IAsv3Qm1NdpJQbu7B6T22YuP8DRxP3P36lxPycZIudtHDnrNrhwZjgpyd2S31AY+UyOZH5e7uc+UW3hT3a5XIQylhOgrk7jBM8YCG149Rzvb0xkudqtSZiL5qN2xp7BZx63NvOnTH0voz+Czl776HFpiSJgXj8+jdyDWXilKJlFnXrNNtwBNz0TI+szlMrMJ6WxYXywtBf/3pQLhYkPd9FThwqvyp/r9E80Iu1a8UwI8tgmitzhgeKtfwyiO2kCahYjL+6jUTRhyYL+vGnhrz1dKV1gjPT40w==" NoCertificadoSAT="00001000000504465028" SelloSAT="PEKQVXlI23RmWwnmR0mUXvXZ+QUX5q7tnvZ60ZygL/nCNFIybVIc/2bNyxJlJb7czWQpBgCa0lG3lbshgG2Q2qcr3uwWRhvMj6XnlykaX45NgDYXN5NXVPjRoNkY7aAJfz7lEuYUK+9vp2C0eL4QeW3I2WjAxvog0mVkyfwWVfFo/8vY1wuWptHD8cHAD2PdsYCxiUGJDms5GEOXMY7KpOuoYfkH2dWZU4YKjGN4gt66/a1m0WOOXFIV0VPiKjPfUcvdKngW5xcGYJIZBj0/91SADLpOlktVRP8Ei631A+CC1p+py9yIYaWxxHdp301MeXxV6ODM2XqAgmSJncnO9g==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

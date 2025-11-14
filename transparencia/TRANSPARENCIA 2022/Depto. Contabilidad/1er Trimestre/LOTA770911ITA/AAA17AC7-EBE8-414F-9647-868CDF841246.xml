@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" LugarExpedicion="90010" MetodoPago="PUE" TipoDeComprobante="I" Total="7371.80" Moneda="MXN" Certificado="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" SubTotal="6355.00" NoCertificado="00001000000504465028" FormaPago="03" Sello="VmeAJ3ONTDKHYLEe509uXHMcQeUrwOlXdIQsy1GUGWB7C8BByWZv+drAEGnRPLyY+jnUC019u0PUsZwE1iKT7/Tna0SUCEhXZAXDrVG06Z64AmH7HS9S0PbRi4fHw8hf/8rfse0ueNdf4KD6k5rur0klH4DR0T3UvuPjHQ8M7l/q/ekwm6z+Hj+ZvNCLGj3/ygDGUJVQxDIOhYhYnt0gUrlbtoTDd6u5c1ElcK3xeGihkXLo9F2mmOu28J0MIH58g6Aq9hkfIi3deRwiiqoSXja3wte5mdJLT+qAYNSuOCJcdm0rpsfF7mP6I/aaTREe5cM6djAtFC526nNoPu+I/Q==" Fecha="2022-02-17T10:08:45" Version="3.3" xmlns:cfdi="http://www.sat.gob.mx/cfd/3">
+  <cfdi:Emisor Rfc="LOTA770911ITA" Nombre="JOSE ANTONIO LOZADA TORRES" RegimenFiscal="621"></cfdi:Emisor>
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA SIN TIPO DE SOCIEDAD" UsoCFDI="G03"></cfdi:Receptor>
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="78181500" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="AFINACION MAYOR" ValorUnitario="2075.00" Importe="2075.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2075.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="332.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="CAMBIO DE BALATAS DELANTERAS Y TRASERAS" ValorUnitario="1330.00" Importe="1330.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1330.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="212.80"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="CAMBIO DE DISCOS DE FRENOS" ValorUnitario="1600.00" Importe="1600.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1600.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="256.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="78181500" Cantidad="1" ClaveUnidad="E48" Unidad="Servicio" Descripcion="MANO DE OBRA.--AUTOMOVIL MARCA V.W CLASICO, COLOR NEGRO, CON PLACAS DE CIRCULACION XVU-834-A" ValorUnitario="1350.00" Importe="1350.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1350.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="216.00"></cfdi:Traslado>
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1016.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1016.80"></cfdi:Traslado>
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <registrofiscal:CFDIRegistroFiscal xmlns:schemaLocation="http://www.sat.gob.mx/registrofiscal http://www.sat.gob.mx/sitio_internet/cfd/cfdiregistrofiscal/cfdiregistrofiscal.xsd" Version="1.0" Folio="2202200000014505" xmlns:registrofiscal="http://www.sat.gob.mx/registrofiscal"></registrofiscal:CFDIRegistroFiscal>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="AAA17AC7-EBE8-414F-9647-868CDF841246" FechaTimbrado="2022-02-17T10:12:28" RfcProvCertif="SAT970701NN3" SelloCFD="VmeAJ3ONTDKHYLEe509uXHMcQeUrwOlXdIQsy1GUGWB7C8BByWZv+drAEGnRPLyY+jnUC019u0PUsZwE1iKT7/Tna0SUCEhXZAXDrVG06Z64AmH7HS9S0PbRi4fHw8hf/8rfse0ueNdf4KD6k5rur0klH4DR0T3UvuPjHQ8M7l/q/ekwm6z+Hj+ZvNCLGj3/ygDGUJVQxDIOhYhYnt0gUrlbtoTDd6u5c1ElcK3xeGihkXLo9F2mmOu28J0MIH58g6Aq9hkfIi3deRwiiqoSXja3wte5mdJLT+qAYNSuOCJcdm0rpsfF7mP6I/aaTREe5cM6djAtFC526nNoPu+I/Q==" NoCertificadoSAT="00001000000504465028" SelloSAT="bcWR4laiDQ/ye7ZAY18k1g+yzaOEl9NdVdVYjskk2dB4N8QB4CvDN4Hy0cb/HKKxYlWU8fHr4WdkYCTi/BCcZpek4Tpid+NIyIE6hT5txaHGOJMFRRzhpnPmmmJj9Cw0G1kN66FUQs7IRtn6KRMZmFdyoF5MbcHmkq+mbHLPqz4jXjDEIwC4DwE5UkK/EEPS5oBgUfJYStjIzUx6EV0enxBKdXqdRIPbo/gEqRCy1n7LT+LvTPkjrtqHuIs4rPbp6DbDT3RiPxh3ZHX2+OLtmUji58fS/LZ4X13Ltb6EVWZnjOASdA9Tm0rzL4dqszZPxepMRiyeH20+tH290qSFWw==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

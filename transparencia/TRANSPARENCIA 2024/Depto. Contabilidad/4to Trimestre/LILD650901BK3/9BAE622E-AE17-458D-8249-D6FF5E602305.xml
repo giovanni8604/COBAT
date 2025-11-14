@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2024-10-08T11:03:14" Sello="MG6jtsT7sRJ9x6paEFJRWuI7+/UEfEX9sblKfgFvA5xwRjhOdXfeAkwyyi3WNIEoRh1dK9fak0QP16aGuC4SEVMR8hLCOOiwA3XylZvLnpYZcH1BQOPHzChCOAsz//DdLi9cgxAtj0nH/EBTF3svmnin5mYIURQxc3HU3NUe38l7ucSvkZgsVpMqeWmLNO5FFgbWNmiAefSwywwLdO6OFcHbbjkbYO2sHs8LdQMyhqsrJVul60zPT/coKHVijoMBAelH8gjnhWE+7fxPupXQg1VMXFfQc1P6MEHZZN5H2JqwNO06din7el212H9ogb1a9lvFNTxKsUgL2+eR8tXapQ==" FormaPago="03" NoCertificado="00001000000707037842" Certificado="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" SubTotal="1890.00" Moneda="MXN" Total="2168.77" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90110" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="LILD650901BK3" Nombre="DANITZA GRUSHESKA LIMA LELEVIER" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="82121500" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LONA CERTAMEN ORATORIA ESTATAL 2024 COBAT" ValorUnitario="1350" Importe="1350.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1350.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="216.00" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="1350.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="16.88" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="82121500" Cantidad="1.00" ClaveUnidad="E48" Unidad="Unidad de servicio" Descripcion="3 CHEQUES 1RO. 2DO. Y 3ER. LUGAR &quot;ORATORIA ESTATAL 2024 COBAT&quot;" ValorUnitario="540.00" Importe="540.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="540.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="86.40" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="540.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="6.75" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="302.40" TotalImpuestosRetenidos="23.63">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="23.63" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="1890.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="302.40" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="9BAE622E-AE17-458D-8249-D6FF5E602305" FechaTimbrado="2024-10-08T11:03:40" RfcProvCertif="SAT970701NN3" SelloCFD="MG6jtsT7sRJ9x6paEFJRWuI7+/UEfEX9sblKfgFvA5xwRjhOdXfeAkwyyi3WNIEoRh1dK9fak0QP16aGuC4SEVMR8hLCOOiwA3XylZvLnpYZcH1BQOPHzChCOAsz//DdLi9cgxAtj0nH/EBTF3svmnin5mYIURQxc3HU3NUe38l7ucSvkZgsVpMqeWmLNO5FFgbWNmiAefSwywwLdO6OFcHbbjkbYO2sHs8LdQMyhqsrJVul60zPT/coKHVijoMBAelH8gjnhWE+7fxPupXQg1VMXFfQc1P6MEHZZN5H2JqwNO06din7el212H9ogb1a9lvFNTxKsUgL2+eR8tXapQ==" NoCertificadoSAT="00001000000705250068" SelloSAT="X2X2MhhL9iou6P6bjbAMlKmHU46zyRXN+1iJdn3SQIj3EZzu7E6w3Pmo4xr+hWPv3rbSA0FKG0C2MDUVF/9yXbg1i++tQXz6WUl05C4jzRFeop/nPwwIGTl+/GPqQUJhyXJ4HETahVWBT32/KCIUQxA6URBwbT+CIzPMWR61Rszk5tMJsAK9E7z4hf5tQM9VZEUqrYOI9se0/rKyZnCQF26bDlBSOETawEZyBsPPHH73mT7eHRtZBBfMO0qp4uFZ7KtVjO5m6OK0f1Pwa0akwrmQSti1rEeCFD21Owm3k5cj8mFZdmS64zs2XO2m6pPGidJxRqjvdWbb/UYBxK3jJw==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

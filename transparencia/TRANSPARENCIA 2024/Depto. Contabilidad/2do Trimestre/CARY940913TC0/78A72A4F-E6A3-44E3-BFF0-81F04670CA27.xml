@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2024-06-11T13:44:10" Sello="LoFEdpHvR+tWf9IJgaOSH52vHJKdwSr1Fp85iknH/jSWIxPLWoBkhODk42W0ex3pwTeuTYOns6zE0s2uYnZ1E8cPr16c/1lNgwvkpfjiL2D+/HpTsdsRKv68GZpDGFiPZOvwoupeOrV8byh9y2lhihH/lOnmmqNt5X4QK5p7jiNDD6n/dyQ3iTdW++WfZJ4DGe6YVjFA+ylHHUYlIZrJ0aCcFLj43W3fEIwhwtZ1QMTEKNtueERGVbAX8G/odhtMCMxf74S9/gokGjNHIajPd/g+aTubUCeaHLzmAQxDQG96c1/oEtj48+JzOO1X10+OEQIJKrPPktLpS9rbX/zT9A==" FormaPago="03" NoCertificado="00001000000703394295" Certificado="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" SubTotal="8715.00" Moneda="MXN" Total="10000.46" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90090" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="CARY940913TC0" Nombre="YOLIZETH CARRO RODRIGUEZ" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="90101603" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CONSUMO DE ALIMENTOS" ValorUnitario="8715.00" Importe="8715.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="8715.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1394.40" />
+        </cfdi:Traslados>
+        <cfdi:Retenciones>
+          <cfdi:Retencion Base="8715.00" Impuesto="001" TipoFactor="Tasa" TasaOCuota="0.012500" Importe="108.94" />
+        </cfdi:Retenciones>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1394.40" TotalImpuestosRetenidos="108.94">
+    <cfdi:Retenciones>
+      <cfdi:Retencion Impuesto="001" Importe="108.94" />
+    </cfdi:Retenciones>
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="8715.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1394.40" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="78A72A4F-E6A3-44E3-BFF0-81F04670CA27" FechaTimbrado="2024-06-11T13:44:45" RfcProvCertif="SAT970701NN3" SelloCFD="LoFEdpHvR+tWf9IJgaOSH52vHJKdwSr1Fp85iknH/jSWIxPLWoBkhODk42W0ex3pwTeuTYOns6zE0s2uYnZ1E8cPr16c/1lNgwvkpfjiL2D+/HpTsdsRKv68GZpDGFiPZOvwoupeOrV8byh9y2lhihH/lOnmmqNt5X4QK5p7jiNDD6n/dyQ3iTdW++WfZJ4DGe6YVjFA+ylHHUYlIZrJ0aCcFLj43W3fEIwhwtZ1QMTEKNtueERGVbAX8G/odhtMCMxf74S9/gokGjNHIajPd/g+aTubUCeaHLzmAQxDQG96c1/oEtj48+JzOO1X10+OEQIJKrPPktLpS9rbX/zT9A==" NoCertificadoSAT="00001000000705250068" SelloSAT="QkojW8DeC5w60jmdrBJAqF0CPXI+oE9Is2g3udNZgZxPqk8TsanXzbr91VZ4AVWEzjrTHT2rjGzX7VgQku7WAjt8mWPs92uU4m9dYkl6DZmy6FPLwg8ZyIVPUyUTPFjOKxKqRSDjUbuHYFr22NXcfAjqjzJbz/cy4dfT8qgnGDGHkJkc/QkdxcNTQRKDbt2CZtXefoShxcbCjYLXn2RHHB83PrlkeaoGF35tkiARfdy2orVaWwYDHgiJW787v8AHSp/6cJk5wQSztWlOlu8UC6B9MJJwcvGgG2oICIWGfuVXamx6IzB13465GfYBkZkbOwPWkqoDvaYBBDHLizUgqw==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

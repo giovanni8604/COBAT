@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2024-03-19T18:36:31" Sello="T1UlO6OA8Y2HydJxPIZjrZeMFQZHt7ZSK8IbaspluAJO0gm3r6bw2IL0XRIIRPRllKToXWpeS7FOLzSqiRimcjYXgoGZ1H9MYvUDH0vtSrMg413XsFcCMRSb9ygrgdqgypDkOVnUedgaKzlXKi9eeevs1nF54hqzWMv/0HqjPxozWmecu9E4boTiRN6y8CokkyLsaCOLaHLmIUgkDBDaMCyCtnGJe4Ua/4ib8XFfojhQaWW3wSm/OYvIVShmZRzNgD1xUcVWee1wz8+KYftjUM4TC3iT+JtiBibyqMpaKBAappUbagijPEGksWBir/ADcaA6o1mmIaYechS/6JOa8Q==" FormaPago="03" NoCertificado="00001000000511523480" Certificado="MIIGPDCCBCSgAwIBAgIUMDAwMDEwMDAwMDA1MTE1MjM0ODAwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMjAyMjExODU3NDdaFw0yNjAyMjExODU4MjdaMIHYMSQwIgYDVQQDFBtMVUlTIEVOUklRVUUgTVXRT1ogQ1VBSFVUTEUxJDAiBgNVBCkUG0xVSVMgRU5SSVFVRSBNVdFPWiBDVUFIVVRMRTEkMCIGA1UEChQbTFVJUyBFTlJJUVVFIE1V0U9aIENVQUhVVExFMQswCQYDVQQGEwJNWDEiMCAGCSqGSIb3DQEJARYTbGVtY2NpdmlsQGdtYWlsLmNvbTEWMBQGA1UELRMNTVVDTDk0MDcxMzk4NjEbMBkGA1UEBRMSTVVDTDk0MDcxM0hUTFhIUzAxMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAi1zgr7LKAXswCHMOX/9uCamtFFoTdUUJCMQbaoi8w5yxWFSn4m7C3ronnj04cnSh4XhWdcZpUfQnwX4yQwmxyUwN4dQVDUC5rg/bATeAlgakzN2x/yhnxjWj0VgD+3KeKGz+bIxsgFY0hVx2Ss3Z8ihC77qxe8/z+ZLiFcbk4O4E62+ma+gKnvk4EQF+OjvhXuxOo5S3dCmPK2aVge0iQc6ztEkmtXRiQw2cxRdQrGaj+Lp9Q6XJz41QZDqnAx9LRNttIp5IR+JLrBuWuNbVpJszAAplfB0LQ+0Xxm4ydY48DCdy2oYO1afjsqbfC2XBN2fCZdeTCwrVfD5OCQezzwIDAQABo08wTTAMBgNVHRMBAf8EAjAAMAsGA1UdDwQEAwID2DARBglghkgBhvhCAQEEBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwQGCCsGAQUFBwMCMA0GCSqGSIb3DQEBCwUAA4ICAQCwfszahdW4r+KDk+TJyTeZjsC3JKbobqlxJZiFC6ARzYwOsG8DdMu5hKOWntp9+svbs4SjTYyZwkN/uC00CAY6OOOJiwePxpJnbspkJWklCfvatIiOgTa162DQjTZxmZxeD0hbQibAKqdb6ZNxofxB4bTaWkDIpy5+5r94a0kfyB4pWNPM3HUORCDo46R6wFMEuMgBHSQ8sDGUakss0D3ze2ssZy8YxEEh0INnyqNkRuxTWj9UsGvBHEDFKSKEWDWQ35MTTDBc3n5UcL/bUI7HQb92q9gaco8oLKY056C6PWKQPQ1IH6q976qVFV9pGXFX4NOkFumWh2le4J9GDW62nYHFsWqWivYxyOcYS4Q4kHd9oQHbGsXdYC8l0I6VgG93D3mIONIiIK9QgBaMRH9TDJxoT0BnJdnAIbvzqsV70AFQuS73PFE0e+OXMclbijyg2xHGpzLq38PAdFJNEaJC3EsFfQCwBjyFZ/yo2vKaYTABpOyUreukZvfP/A3cQ3oDV1t2WbsLh0YVkgYcfrETqUuzqgwiQPiSmRAy5bXf1EigZvGMXLKNM+SsfOuVOlKwI8V4jhP1AYh3emplgCLFMChhVGkZ5o+j3Dt/X+5EVO/Gt5eIMaWIiut2q9vA2QES7C1xAtWFRLa7osljd7ch0/NpHb6kEF1+OoVViuDWtw==" SubTotal="2951.79" Moneda="MXN" Total="3424.05" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90670" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="MUCL940713986" Nombre="LUIS ENRIQUE MUÑOZ CUAHUTLE" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="15.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ABRAZADERA SIN FIN DE 1&quot;" ValorUnitario="9.66" Importe="144.90" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="144.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="23.18" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FLOTADOR PARA CISTERNA DE POLIURETANO" ValorUnitario="81.90" Importe="81.90" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="81.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.10" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="10.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="NIPLE GALVANIZADO DE 1/2&quot; DE 4 IN" ValorUnitario="11.64" Importe="116.40" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="116.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="18.62" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="NIPLE GALVANIZADO DE 1/2&quot; DE 10 IN" ValorUnitario="29.31" Importe="29.31" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="29.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.69" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="5.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LLAVE DE ESFERA ROSCABLE DE 1/2&quot;" ValorUnitario="75" Importe="375.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="375.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="3.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LLAVE DE ESFEREA ROSCABLE DE 3/4&quot;" ValorUnitario="107.76" Importe="323.28" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="323.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="51.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="5.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="REDUCTOR BUSHING GALVANIZADO DE 3/4&quot; A 1/2&quot;" ValorUnitario="10.34" Importe="51.70" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="51.70" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.27" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="5.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CONECTORES DE LATON SOLIDO PARA MAGUERA DE JARDÍN DE 3/4&quot; (MACHOS-HEMBRAS)" ValorUnitario="68.10" Importe="340.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="340.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.48" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="10.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="EMPAQUE PARA MANGUERA ANTIFUGAS" ValorUnitario="1.12" Importe="11.20" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.79" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ESCOBA PARA JARDIN PLASTICA RIGIDA DE 8&quot;" ValorUnitario="62.07" Importe="62.07" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="62.07" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="9.93" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="3.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ESCOBA PLASTICA PARA JARDIN FLEXIBLE DE 24&quot;" ValorUnitario="133.62" Importe="400.86" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="400.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="64.14" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="2.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ASPERSORES PLASTICOS DE ESTACA METALICA CON CONEXIÓN EN SERIE" ValorUnitario="90.52" Importe="181.04" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="181.04" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="28.97" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ASPERSOR PLASTICO DE ESTACAS METALICA ENTRADA" ValorUnitario="85.34" Importe="85.34" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="85.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.65" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ASPERSOR METALICO TIPO SAPO CHORRO FINO" ValorUnitario="102.59" Importe="102.59" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="102.59" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.41" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="4.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="GUANTES DE CARNAZA CON PUÑO AJUSTADO" ValorUnitario="102.59" Importe="410.36" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="410.36" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="65.66" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MECHERO PARA LATA ROSCADA ENCENDIDO MANUAL" ValorUnitario="112.07" Importe="112.07" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="112.07" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="17.93" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="REDUCCIÓN GALVANIZADA BUSHING DE 1 1/4&quot; A 3/4&quot;" ValorUnitario="35.34" Importe="35.34" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="35.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.65" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="REDUCCIÓN GALVANIZADA BUSHING DE 1 1/2&quot; A 1&quot;" ValorUnitario="44.83" Importe="44.83" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="44.83" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7.17" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112200" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LATA DE GAS VALVULA ROSCADA (BUTANO/PROPANO)" ValorUnitario="43.10" Importe="43.10" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="43.10" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="6.90" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="472.26">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="2951.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="472.26" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="911E8F70-6AD2-4FD9-B731-034DCCFFBDCD" FechaTimbrado="2024-03-19T18:36:41" RfcProvCertif="SAT970701NN3" SelloCFD="T1UlO6OA8Y2HydJxPIZjrZeMFQZHt7ZSK8IbaspluAJO0gm3r6bw2IL0XRIIRPRllKToXWpeS7FOLzSqiRimcjYXgoGZ1H9MYvUDH0vtSrMg413XsFcCMRSb9ygrgdqgypDkOVnUedgaKzlXKi9eeevs1nF54hqzWMv/0HqjPxozWmecu9E4boTiRN6y8CokkyLsaCOLaHLmIUgkDBDaMCyCtnGJe4Ua/4ib8XFfojhQaWW3wSm/OYvIVShmZRzNgD1xUcVWee1wz8+KYftjUM4TC3iT+JtiBibyqMpaKBAappUbagijPEGksWBir/ADcaA6o1mmIaYechS/6JOa8Q==" NoCertificadoSAT="00001000000504465028" SelloSAT="MCRVnc490hzvnuNIKMEHZ8TTWCMxLSn22ApN79W6o2rTjEKlqR8+P4nOoqiEuRT5pcqhWLaf8VHXBEmigEabndnoO5NvpKeSTNf1dxN7TelL42BbiLc2lQVQPoIjC0Pfmbj/YNJ9InjSjZ1MUkIc89giFZ4KGCh1i8MLtmKZ4s5snB8igX1pnTwlHi+qyOGgmZ0k3SrQyyg+ztc9tFqaawXZFKoOvv3P1CxOEN4bkyLx9KzKJtSrt1p//gi6EsgvS+EpxX1s4E2xP69ZtwwyOF2mrLlUFhL30eTBu8t5sYEHxKZ3JqKDpS2/09BO1SLm7LJ7xy55hR3VGpjUgTJu+w==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

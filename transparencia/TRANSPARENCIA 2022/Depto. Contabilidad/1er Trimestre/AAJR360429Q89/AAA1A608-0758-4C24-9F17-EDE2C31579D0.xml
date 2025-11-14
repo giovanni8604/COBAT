@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2022-03-25T19:22:24" Sello="h9m8X/LI/BtzMCZ0kM7jepQGVyEXpWqlPg9O/cxrgmXJjQ3f13gLANwyRCettF5vlnimOw7Iog2F7G6LZYgXmy+IA0+IujvRHla1JYXC7ux0RsKToOBv76ZGPmHZ7Ph8+pXFvOSdLTCoIHpUd7ThDWDUT5K1Jtl52InPZNRT9uT+EreukPOgyaiJh9+Lgj4Ahem2oD6rMEn7VYG7j9cXpR37AdlVE0NrZu06CV0bRvj1MMC7DRWuSpdrMCmYaC7BunOFNalYfK5Kw4IWUniQW+rLtbAaGZvWLucSzTGmCq4IaGIF+ln2ntPkHKQmX8A48ScLXJUhjY/OMlXNUhjx8A==" FormaPago="03" NoCertificado="00001000000504465028" Certificado="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" SubTotal="15960.00" Moneda="MXN" Total="18513.60" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90000" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="AAJR360429Q89" Nombre="RAUL ADAN JAIMES" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="49221500" Cantidad="8.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PAR DE REDES PARA PORTERIAS DE FUTBOL SOCCER" ValorUnitario="750" Importe="6000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="960.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="49221500" Cantidad="8.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PAR DE REDES DE PIOLA PARA ARILLOS DE BASQUETBOL" ValorUnitario="150" Importe="1200.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1200.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="192.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="49221500" Cantidad="8.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="REDES PARA VOLEIBOL" ValorUnitario="200" Importe="1600.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1600.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="256.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="49161505" Cantidad="8.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BALONES DE FUTBOL SOCCER No 5 &quot;GARCIS&quot;" ValorUnitario="270.00" Importe="2160.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2160.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="345.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="49161603" Cantidad="8.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BALONES DE BASQUETBOL NO 7 HULE &quot;MOLTEN&quot;" ValorUnitario="375" Importe="3000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="480.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="49161608" Cantidad="8.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BALONES DE VOLEIBOL NO 5 VR58 ST &quot;MOLTEN&quot;" ValorUnitario="250" Importe="2000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="320.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="2553.60">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="15960.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2553.60" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <registrofiscal:CFDIRegistroFiscal xmlns:registrofiscal="http://www.sat.gob.mx/registrofiscal" xsi:schemaLocation="http://www.sat.gob.mx/registrofiscal http://www.sat.gob.mx/sitio_internet/cfd/cfdiregistrofiscal/cfdiregistrofiscal.xsd" Version="1.0" Folio="2203201300000088" />
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="AAA1A608-0758-4C24-9F17-EDE2C31579D0" FechaTimbrado="2022-03-25T19:22:30" RfcProvCertif="SAT970701NN3" SelloCFD="h9m8X/LI/BtzMCZ0kM7jepQGVyEXpWqlPg9O/cxrgmXJjQ3f13gLANwyRCettF5vlnimOw7Iog2F7G6LZYgXmy+IA0+IujvRHla1JYXC7ux0RsKToOBv76ZGPmHZ7Ph8+pXFvOSdLTCoIHpUd7ThDWDUT5K1Jtl52InPZNRT9uT+EreukPOgyaiJh9+Lgj4Ahem2oD6rMEn7VYG7j9cXpR37AdlVE0NrZu06CV0bRvj1MMC7DRWuSpdrMCmYaC7BunOFNalYfK5Kw4IWUniQW+rLtbAaGZvWLucSzTGmCq4IaGIF+ln2ntPkHKQmX8A48ScLXJUhjY/OMlXNUhjx8A==" NoCertificadoSAT="00001000000504465028" SelloSAT="U5GrF5+kHed8Or4oPskBkQXYf4SA5Hhs1fsRnS25WXfEg2rR4AOvgsPFAlbuwykjdMTVwKuH+5a8SdURUmaBUqJFrtd1zrvMOnK+8QLhGIlgN2TLGvF0Wta0wIZATRElW2TDVCUQ0oTAw2Sxq/5LoP12NEgAPS/f23+NcKqjcx/j4xBhxC4RDiO1W4YsCs8Hy18tqXwdobWl8tyku9gZ/mI+mjd18ioKYGkVpiw+cfrcqv0SAYNurmepuNeImNyTxfv6PH7DUQtS3BwgW6CKWLoXPA2W5WZW7ZmIZnFEQZOXhxZ6wbTbvUig5NnH+5mntz6dAAAA6RCXPCrbZCOmTQ==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

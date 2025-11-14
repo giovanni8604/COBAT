@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2024-07-02T12:48:02" Sello="YQuOBRil6riHRdtKuN0saXp7GhHkn+vcQHOwLt6TDpDoBuzKJOLz5RsqFw/qsHOPlZe1uSHPbJwkSX0mT5zVeWg/WaVrIaNXnF7JPXWZ6gX92G/YAQoRjeI8TvWFRvBVWADAMEu9QMKtNPHrP5zRZyLmE7CgaoJ/I9ifgDbIyCw/71HX2ITv7DndHRfEKRqSYDSYQUNL4mWkzT/JpCYdff7aMXkjXa41lcjMokVwRnO7j2f7nIWDDTQSfWIWJErvAZDl5PtVLOmTC+Go9AjAEFyNiI0S0jTSk6WiBXbao4UanUCcYG83hfIt5RJ+9bq91laFcjTdQRfhEvWLRVzcWg==" FormaPago="03" NoCertificado="00001000000517386503" Certificado="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" SubTotal="15500.00" Moneda="MXN" Total="17980.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90122" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="NXE2202225J9" Nombre="NEGOCIOS XELAZIL" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="55121500" Cantidad="1.00" ClaveUnidad="E48" Unidad="Servicio" Descripcion="RESTAURACIÓN Y RESANADO DE MURAL ARTÍSTICO EN EXTERIOR DE LAS OFICINAS DE LA SUBDIRECCIÓN DE SERVICIOS ESCOLARES EN DIRECCIÓN GENERAL (MISIÓN) INCLUYE MATERIAL Y MANO DE OBRA" ValorUnitario="2000" Importe="2000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="320.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55121500" Cantidad="1.00" ClaveUnidad="E48" Unidad="Servicio" Descripcion="SERVICIO DE ROTULACIÓN DE LOGO DE MANDALA 3 X 2.80 M. COLORES Y LETRAS &quot;COBAT&quot; EN COLOR MORADO COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA EN COLOR DORADO INCLUYE MATERIAL Y MANO DE OBRA" ValorUnitario="3000" Importe="3000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="480.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55121500" Cantidad="1.00" ClaveUnidad="E48" Unidad="Servicio" Descripcion="SERVICIO DE ROTULACIÓN DE LOGO DE MANDALA 4.5 X 3 M. COLORES Y LETRAS &quot;TLAXCALA&quot; EN COLOR MORADO UNA NUEVA HISTORIA EN COLOR ROSA 2021-2027 INCLUYE MATERIAL Y MANO DE OBRA" ValorUnitario="3000" Importe="3000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="480.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55121500" Cantidad="1.00" ClaveUnidad="E48" Unidad="Servicio" Descripcion="SERVICIO DE ROTULACIÓN DE LOGO DE IDENTIDAD 3.80 X 2.80 M. DORADO ADIAMANTADO CON FONDO MORADO CARPA DE CIRCO Y LETRAS &quot;COBAT&quot; DORADO ADIAMANTADO UNA NUEVA HISTORIA BLANCO INCLUYE MATERIAL Y MANO DE OBRA" ValorUnitario="6000" Importe="6000.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6000.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="960.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="55121500" Cantidad="1.00" ClaveUnidad="E48" Unidad="Servicio" Descripcion="SERVICIO DE ROTULACIÓN EN CABINA LOGO DE IDENTIDAD 1.27 X 1.83 COLOR MORADO Y LETRAS EN BLANCO FONDO GUINDA &quot;POR LA CULTURA COMO CREADORA DE LA PAZ&quot; EN CURSIVA INCLUYE MATERIAL Y MANO DE OBRA" ValorUnitario="1500" Importe="1500.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="240.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="2480.00">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="15500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2480.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="C24AD4A0-D037-4A0D-A35A-15B15AD728B6" FechaTimbrado="2024-07-02T12:48:19" RfcProvCertif="SAT970701NN3" SelloCFD="YQuOBRil6riHRdtKuN0saXp7GhHkn+vcQHOwLt6TDpDoBuzKJOLz5RsqFw/qsHOPlZe1uSHPbJwkSX0mT5zVeWg/WaVrIaNXnF7JPXWZ6gX92G/YAQoRjeI8TvWFRvBVWADAMEu9QMKtNPHrP5zRZyLmE7CgaoJ/I9ifgDbIyCw/71HX2ITv7DndHRfEKRqSYDSYQUNL4mWkzT/JpCYdff7aMXkjXa41lcjMokVwRnO7j2f7nIWDDTQSfWIWJErvAZDl5PtVLOmTC+Go9AjAEFyNiI0S0jTSk6WiBXbao4UanUCcYG83hfIt5RJ+9bq91laFcjTdQRfhEvWLRVzcWg==" NoCertificadoSAT="00001000000705250068" SelloSAT="D5WO/Z1vbGO60WLyV6Pjbr9URzvAD6WNLA2nrAOgYxH/DHGxysyNKgrxqlBIKEtFYSHiA6b/clHkusP6V93yRUjQta4feV3hdRQYuIJ16kc7I8GCTkuLs3oG+x1HSr3WGaq8SmymueizAW9HYFUwondweiPlPLB54ZFdSeWUdQajKZV1xxY8uejTi8QieoB/0zrx3wKuYJIpUYgv3VH+gz8Cf8Xo5Ofm/PR0OYmZR1zkMM6uiWIMtqJJGC0Cq66ePS1sX4O6nYw63ze0d1nVlXCNPcw/rufBZxdemdar45ThZiI/2Fr8kRtwwULvRpHxu8iikr/qZpHn4nqrXlsmBg==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

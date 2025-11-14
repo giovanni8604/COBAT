@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIF0DCCA7igAwIBAgIUMDAwMDEwMDAwMDA1MTQyMjE0MzIwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMjA3MjkwMzUxMjFaFw0yNjA3MjkwMzUxMjFaMIGeMRswGQYDVQQDFBJFTEVOQSBTQUxEQdFBIE5BVkExGzAZBgNVBCkUEkVMRU5BIFNBTERB0UEgTkFWQTEbMBkGA1UEChQSRUxFTkEgU0FMREHRQSBOQVZBMRYwFAYDVQQtEw1TQU5FNjgwMzA2RVg2MRswGQYDVQQFExJTQU5FNjgwMzA2TVRMTFZMMDcxEDAOBgNVBAsTB0VMRU5JVEEwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDRu30WSTkrTJ0jotzcYgIIbJFgLhnt+chYehVhYVP7/ugNM4tqs/lI6nbMFcg64m5NSjNMUz9wKwescMmr3uAoa6y/GAQ//dxWZqUcnfrPewk29pVrK5bY4KlCxRJYMBd/ooItLV0+9a6fFQjQSwBj7MltJcxLQJanIC/KEYsTz+b/wqlbBTITO++IMPqljBrOdrCQwOYpu4/LrznF5BvT7WeSCHcDTdDhwfQ72GiOI3JzsYwOeKhULAP6RVf1PBRfBPmY8fWyocSdP2abKuFAi9QvZN5HzR7G5MbSP7wHRHzffJxS95XMwHL7yBseMCHzgwGbxb/0PRp/ynNtMZrRAgMBAAGjHTAbMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgbAMA0GCSqGSIb3DQEBCwUAA4ICAQA37/oivw5KgCNGJVoqL4SI2qu41cPL+hbVvIUy6y8Pfx4KsIzlHXoQpY8Av9ZZkX0isuMI8+1y4xIQiQMYBGHX0HAwTSIZYCHQqkyokDyOTe9H9/A4//jh3eUL4jJ/KdxyjmpO+4H+CQABDxRGpJWk6NefOYxx4qXquLous+DhihvmaNPz6DjBDxLhfYuFZMo/8x2KR1J0uX26WnkDUF2gbE+V0Q1SFpzAHM7wO/l+JUzWGWEG0M17wzFD1UoOG4wncXIcIdNKDMY2+WZU826yUguaiqZQM+cRthchW8PIzMgp69/QRJAQhZhSxFUepzBgsMvDn+iHt7CapxAWlhEYLB7GGWkx/GzfPu94YNn8jsPF9dj4JtrrmGhFch4xpumN02/rvuEr5hjVLzIn7PZQklvittVJJxt0jQnpUqIhJjnITY4/TJRYG6RZ8vN7sf4E5wKWudprFrkOyma4WfuURR7axbyNv/Qw7hEpAblhWGVo0X4OkDMwmHBQKWQsTfUCUlKgh73wr+Kf4Kurqrj8K7Ct7YdLullbI2ysWKxVOqzJ+bT4/dn3kp6TdYXyAtpqqwVHGt6H7MZV5/SFWfvsOXGLR8upvfegUdmz1hlwIYokEjqEYlS0n15glgdAiwAvRylRJpxkv+B6CumT0jNHdBOMr+D6XmKOiaM7l0poOA==" CondicionesDePago="Pago en una sola exhibición" Exportacion="01" Fecha="2023-12-13T11:47:08" Folio="110" FormaPago="03" LugarExpedicion="90800" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000514221432" Sello="Xd9ZZU9RODl9GkDHsJXiTsL3wDeAgBckzTGiN86Jde0L44lwyrGJ9/MgcCowHi1ExUuBlWTDb5ahQZQMM8q4spKlCwVkbDCgyoaVQI8QyfAnutlSnRmVwuwlF5CvTzREcfrZV7Z4kkw2UsvREujNgw6opY4GQsjT5P0FJV4DnG51R4zzW107Tc8TNLqoqVQodOFtSlsUN6ZuShZsgArCZomI8Q7uUy1L9zrdu/j6aeUE4KZGfXg2aAKe2BUvtD2xfME5uQJ0nm9zOrQaOTZ7kj939qW4eJRBxXnoeBuxfnY3XXsNwix/uqQKzCRNzvdDQdNxOw4A4g2TWD59/Dpcdw==" SubTotal="81655.50" TipoCambio="1" TipoDeComprobante="I" Total="93699.69" Version="4.0" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd ">
+    <cfdi:Emisor Nombre="ELENA SALDAÑA NAVA" RegimenFiscal="626" Rfc="SANE680306EX6" />
+    <cfdi:Receptor DomicilioFiscalReceptor="90000" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" RegimenFiscalReceptor="603" Rfc="CBE810805ER1" UsoCFDI="G03" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="150" ClaveProdServ="47131811" ClaveUnidad="H87" Descripcion="AJAX BICLORO EN POLVO DE 582 GRS MCA. AJAX  " Importe="6606.000000" ObjetoImp="02" Unidad="Pieza" ValorUnitario="44.04">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="6606.000000" Importe="1056.960000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+                <cfdi:Retenciones>
+                    <cfdi:Retencion Base="6606.000000" Importe="82.575000" Impuesto="001" TasaOCuota="0.012500" TipoFactor="Tasa" />
+                </cfdi:Retenciones>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="350" ClaveProdServ="47131807" ClaveUnidad="H87" Descripcion="CLORO DE 950 MLTS " Importe="4931.500000" ObjetoImp="02" Unidad="Pieza" ValorUnitario="14.09">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="4931.500000" Importe="789.040000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+                <cfdi:Retenciones>
+                    <cfdi:Retencion Base="4931.500000" Importe="61.643750" Impuesto="001" TasaOCuota="0.012500" TipoFactor="Tasa" />
+                </cfdi:Retenciones>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="350" ClaveProdServ="47131800" ClaveUnidad="H87" Descripcion="LIMPIADOR LÍQUIDO PINOL DE 828 MLTS MCA. PINOL " Importe="9044.000000" ObjetoImp="02" Unidad="Pieza" ValorUnitario="25.84">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="9044.000000" Importe="1447.040000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+                <cfdi:Retenciones>
+                    <cfdi:Retencion Base="9044.000000" Importe="113.050000" Impuesto="001" TasaOCuota="0.012500" TipoFactor="Tasa" />
+                </cfdi:Retenciones>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="200" ClaveProdServ="46181504" ClaveUnidad="PR" Descripcion="GUANTES LATEX #8 " Importe="6812.000000" ObjetoImp="02" Unidad="Par" ValorUnitario="34.06">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="6812.000000" Importe="1089.920000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+                <cfdi:Retenciones>
+                    <cfdi:Retencion Base="6812.000000" Importe="85.150000" Impuesto="001" TasaOCuota="0.012500" TipoFactor="Tasa" />
+                </cfdi:Retenciones>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="200" ClaveProdServ="46181504" ClaveUnidad="PR" Descripcion="GUANTES LATEX #9 " Importe="7048.000000" ObjetoImp="02" Unidad="Par" ValorUnitario="35.24">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="7048.000000" Importe="1127.680000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+                <cfdi:Retenciones>
+                    <cfdi:Retencion Base="7048.000000" Importe="88.100000" Impuesto="001" TasaOCuota="0.012500" TipoFactor="Tasa" />
+                </cfdi:Retenciones>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="200" ClaveProdServ="47131816" ClaveUnidad="H87" Descripcion="PASTILLA DESODORANTE PARA BAÑO WC MCA. PATO PURIFIC " Importe="3758.000000" ObjetoImp="02" Unidad="Pieza" ValorUnitario="18.79">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="3758.000000" Importe="601.280000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+                <cfdi:Retenciones>
+                    <cfdi:Retencion Base="3758.000000" Importe="46.975000" Impuesto="001" TasaOCuota="0.012500" TipoFactor="Tasa" />
+                </cfdi:Retenciones>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="200" ClaveProdServ="47131602" ClaveUnidad="XBX" Descripcion="FIBRA VERDE P-96 CAJA- CON 12 PZAS MCA. SCOTCH BRITE " Importe="43456.000000" ObjetoImp="02" Unidad="Caja" ValorUnitario="217.28">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="43456.000000" Importe="6952.960000" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+                <cfdi:Retenciones>
+                    <cfdi:Retencion Base="43456.000000" Importe="543.200000" Impuesto="001" TasaOCuota="0.012500" TipoFactor="Tasa" />
+                </cfdi:Retenciones>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosRetenidos="1020.69" TotalImpuestosTrasladados="13064.88">
+        <cfdi:Retenciones>
+            <cfdi:Retencion Importe="1020.69" Impuesto="001" />
+        </cfdi:Retenciones>
+        <cfdi:Traslados>
+            <cfdi:Traslado Base="81655.50" Importe="13064.88" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2023-12-13T11:47:09" NoCertificadoSAT="00001000000506403528" RfcProvCertif="CCC1007293K0" SelloCFD="Xd9ZZU9RODl9GkDHsJXiTsL3wDeAgBckzTGiN86Jde0L44lwyrGJ9/MgcCowHi1ExUuBlWTDb5ahQZQMM8q4spKlCwVkbDCgyoaVQI8QyfAnutlSnRmVwuwlF5CvTzREcfrZV7Z4kkw2UsvREujNgw6opY4GQsjT5P0FJV4DnG51R4zzW107Tc8TNLqoqVQodOFtSlsUN6ZuShZsgArCZomI8Q7uUy1L9zrdu/j6aeUE4KZGfXg2aAKe2BUvtD2xfME5uQJ0nm9zOrQaOTZ7kj939qW4eJRBxXnoeBuxfnY3XXsNwix/uqQKzCRNzvdDQdNxOw4A4g2TWD59/Dpcdw==" SelloSAT="X28wzIfB7G8kKl2idfVPTvGz27byiYJVema6XIT7M/G3vGm1kG/sWALaFNwdzwaC68iNaaCWzXQBA7h/o+2NqO5+ZQmsxejL+8X3havHddOQtD6EQX1FTWfm5+CtGdufenOTtWMV6cOTmHi4ZqkR2R4EqGTPqzLyS8dq81cLwlrwlawlE9YEuqSfUetpgzgLoxUhQgGmFYRAe1YhDA437jBo3eq2hE/jLKvx9eWttPSuiYLqLRIvQYie/JnRHIlZU3N6pwnH8IgMAr1WHc/Ayk2vfC4z/7iirYfu2Q7uA6LZRgOr53h2rLwDGc6St75u+0biAEFaDVlMm+AXajBvnA==" UUID="0f0499bf-f034-40cf-917a-3670e94926c1" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" /></cfdi:Complemento></cfdi:Comprobante>

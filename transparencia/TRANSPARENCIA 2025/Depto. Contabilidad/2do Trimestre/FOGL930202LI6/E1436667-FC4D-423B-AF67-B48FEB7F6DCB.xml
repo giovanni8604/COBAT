@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="2025" Folio="12" Fecha="2025-06-05T20:11:53" Sello="R1TzXY2UO33iWoyX9gd5YMRI2VYqgTCaoiwo6yxE4Sl5lbqOEqm6xNj5AfRwOgh4N6MpNbSxZJGVXLzOR/OcCpQ2heOw14dpuHZ6MCBkdTfKA4jgbc6RedO1tcdmnqlBndqoEX8AphEfhKdurDT9WESJIEh98SycjbzYlEduU0KdXD6TsPu4OnI19+rSwyr0TEVcL0stzZfGmCExqj17DTfcsFqRivprz6kUdIguVC0sfp78f0aMN1u4SDcmKKu/Gbe7fCsrE8pBH6CdChHdM6W+v/YzgoMZa2onN1BwrmG9LDv7HcMni9OXYlXMw1fOVtjHEWCy7vHapf/kRw3hxg==" FormaPago="03" NoCertificado="00001000000508249561" Certificado="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" SubTotal="74080.00" Moneda="MXN" Total="85932.80" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="72840" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="FOGL930202LI6" Nombre="MARIA DE LOURDES FLORES GONZALEZ" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="23151607" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PRENSA HIDRAULICA OPRESORA DE RESORTES" ValorUnitario="7480.00" Importe="7480.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="7480.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1196.800000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="41115715" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LABORATORIO DE INYECTORES" ValorUnitario="16500" Importe="16500.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="16500.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2640.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="46171505" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PROGRAMADOR DE LLAVES PROFESIONAL" ValorUnitario="26500.00" Importe="26500.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="26500.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4240.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112809" Cantidad="2.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CAJA DE HERRAMIENTA CON 450 PIEZAS" ValorUnitario="7000" Importe="14000.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14000.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2240.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="60102603" Cantidad="2.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="DADOS DE IMPACTO CON 48 PIEZAS" ValorUnitario="2000" Importe="4000.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4000.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="640.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="23271418" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ESTACION DE SOLDADURA ELECTRONICA" ValorUnitario="2800" Importe="2800.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2800.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="448.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="32101515" Cantidad="1.00" ClaveUnidad="KT" Unidad="Kit" Descripcion="OSILISCOPIO DE 8 CANALES CON ACCESORIOS Y ATENUADOR" ValorUnitario="2800" Importe="2800.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2800.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="448.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="11852.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="74080.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11852.80" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="E1436667-FC4D-423B-AF67-B48FEB7F6DCB" FechaTimbrado="2025-06-05T20:12:18" RfcProvCertif="SAT970701NN3" SelloCFD="R1TzXY2UO33iWoyX9gd5YMRI2VYqgTCaoiwo6yxE4Sl5lbqOEqm6xNj5AfRwOgh4N6MpNbSxZJGVXLzOR/OcCpQ2heOw14dpuHZ6MCBkdTfKA4jgbc6RedO1tcdmnqlBndqoEX8AphEfhKdurDT9WESJIEh98SycjbzYlEduU0KdXD6TsPu4OnI19+rSwyr0TEVcL0stzZfGmCExqj17DTfcsFqRivprz6kUdIguVC0sfp78f0aMN1u4SDcmKKu/Gbe7fCsrE8pBH6CdChHdM6W+v/YzgoMZa2onN1BwrmG9LDv7HcMni9OXYlXMw1fOVtjHEWCy7vHapf/kRw3hxg==" NoCertificadoSAT="00001000000705250068" SelloSAT="KABxc4A91zZBkcd4MtQMgw1g5TTL98Aab0+7cQ+j6E2yLm20na0QZIl31rU2NG7WN1a4S13wHJRt1IgtyAU3f+PGtr7Rx9LGr8cEkc1YCpkcwGPFLuuOqPKpU+JnwNhOWrXnx4tQ4uOM/Vql/NHM3+I1c8+lBVRAwCRIHU/Mrad/Uh4SSyEx8Oh/bgwr+7e3mD1dI24zIC1qdw9A/pbIS+f78KsZK4TmWB6v8886774t8+FrBfvVRUhUKt+SPyXchQ7stcgiDfPOG8lqhdlh5x2dCpeNMQzE2QgJ55m+iiiNqYIUXJ/LIFBRHRbIy0ztpYfk25xLKz2ZQK2o/TirHA==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

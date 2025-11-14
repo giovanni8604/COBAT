@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="10MEX" Folio="1518410240421032529337" Fecha="2024-04-20T20:25:29" Exportacion="01" Sello="OaSv0Z8aUP4sq8gBLaHUc0dIigRYAxurJdpUWK8x0GZHp4TQ6+Ddp9GzyJYgZnhBDv+IyWzOEFATYiy0tflAI7Lu7ogm/VVRgX52wg/MDJgi2rQ4zYsyK0qp0aP0t5ebbFEN8LyNFrUlCCeRj1Eo+e9QOkLFeVLNWg+fP0wIYXA/ERp3me4+3uRU04yVTaWetfvGDaokTe38LOBz4vWjukhjDkyiAo0YikpBzCZ/u3snAiW+hJ9ZaX+6Y63sJeUdYQjNUS0wgDtQ7Pe24cgcmudduQNcBq1afQQmcqM6WhxjB3jc/QXzhdL9DFKgZqfutMSuUZQPE+uwppfaWDJv5w==" FormaPago="01" NoCertificado="00001000000506772672" Certificado="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" SubTotal="98.34" Moneda="MXN" Total="111.99" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="15730">
+  <cfdi:Emisor Nombre="CADENA COMERCIAL OXXO" Rfc="CCO8605231N4" RegimenFiscal="623" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" UsoCFDI="G03" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="022000287038" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="DOUBLEMINT 12.5 GR 5S" ValorUnitario="10.344828" Importe="10.344828" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1.65" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202309" NoIdentificacion="036731326003" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="GATORADE PONCHE 1 LT" ValorUnitario="33.62069" Importe="33.62069" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="33.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.38" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50181900" NoIdentificacion="7501030419389" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="PAN DULCE MANTECADAS BIMBO 123 GR BOLSA:VAINILLA CON NUEZ" ValorUnitario="25.925926" Importe="25.925926" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="28.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+          <cfdi:Traslado Base="25.93" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.07" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202309" NoIdentificacion="7502268541491" Cantidad="1.00" ClaveUnidad="EA" Unidad="EA" Descripcion="ELECTROLIFE ZERO UVA 625 ML NVO" ValorUnitario="28.448276" Importe="28.448276" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="28.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4.55" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="13.65">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Base="72.41" Importe="11.58" />
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Base="28.00" Importe="0.00" />
+      <cfdi:Traslado Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Base="25.93" Importe="2.07" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="874faccc-8d94-430d-a832-bb402423139f" FechaTimbrado="2024-04-20T21:25:29" RfcProvCertif="AUR100128NN3" SelloSAT="lksWaSKPjqDRG2/tcN2BGsK1hIftGakac5IdP1Ph5QzyVVM23WmBQHWgAXHjVxlDd5S6Kba3Aa3b/bt42icmqI7xh9H5ltm0cqg7B6rpbsKsXEXlhIz/IDCNb7/w1xUYJpXyT1Qa370Xyoy65tiURI0Bnon8VoiFrC+Lny9BR3gmBd8L33Vbz0O52OIy4S6UihmmMe0HHgyDkmLwXvCK/8xnwoAwHqImK7EhnXOigzmZVc6TWs3I6d+kvyMF8OhAEHjNwx+1IIEmHvQzEkxrNZha8oiS3Fc+/r/tHqXX5Y39bHg76zniWd5iy1h/agX4/zrPH6PpV/n8buUXtfz/nw==" SelloCFD="OaSv0Z8aUP4sq8gBLaHUc0dIigRYAxurJdpUWK8x0GZHp4TQ6+Ddp9GzyJYgZnhBDv+IyWzOEFATYiy0tflAI7Lu7ogm/VVRgX52wg/MDJgi2rQ4zYsyK0qp0aP0t5ebbFEN8LyNFrUlCCeRj1Eo+e9QOkLFeVLNWg+fP0wIYXA/ERp3me4+3uRU04yVTaWetfvGDaokTe38LOBz4vWjukhjDkyiAo0YikpBzCZ/u3snAiW+hJ9ZaX+6Y63sJeUdYQjNUS0wgDtQ7Pe24cgcmudduQNcBq1afQQmcqM6WhxjB3jc/QXzhdL9DFKgZqfutMSuUZQPE+uwppfaWDJv5w==" NoCertificadoSAT="00001000000505750848" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="TE" Folio="61" Fecha="2023-06-09T23:31:12" Sello="QvkEj4KNFVVAhWt3c7WPTOF0qzM69oZ+394SEjUxLuqJre2UUhkMpRr93xy7kEIvXtz21yWVqOztw2cTE8hjKOLx0J2SDTkZWb3p8HHzjdjaPMXygQMhobf1pq7GcbQh2Rf06o7ybSAMbwRR2mRUgO30Kj0EHLJfMAvDL0CjFUKWJRdiSLezU7PApP/G2H4+vfl6jV+bbugSumeKtYSWHqtmabX21TDSHPvdiYUuiPTYQPynfyEM+AfMzySopmTOwGyEn3PkVgRIB8gOp/Ot79PUcA1ylv6Mgp3YNVLqW4tDPdV/VQ36mhyxqIV4dy+D7YAKejdYW50+4wjvHWcmHQ==" FormaPago="03" NoCertificado="00001000000511705987" Certificado="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" SubTotal="6103.46" Moneda="MXN" Total="7080.00" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90700" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="SZI130902SR7" Nombre="SISTEMAS Z IMPRESORAS Y TECNOLOGIA" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="44103103" NoIdentificacion="HP 304 A" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Toner generico HP 304 A negro Cc530A Cf380 A." ValorUnitario="603.45" Importe="603.45" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="603.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="96.55" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103103" NoIdentificacion="HP 304 Y" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Toner generico HP 304 A amarillo Cc532a." ValorUnitario="603.45" Importe="603.45" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="603.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="96.55" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103103" NoIdentificacion="HP 304 M" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Toner Generico HP 304a magenta Cc 533a." ValorUnitario="603.45" Importe="603.45" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="603.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="96.55" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103103" NoIdentificacion="HP 304 C" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Toner generico HP 304 A cyan Cc531a." ValorUnitario="603.45" Importe="603.45" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="603.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="96.55" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44103103" NoIdentificacion="HP 35" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Toner compatible HP 35/85A" ValorUnitario="344.82" Importe="344.82" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="344.82" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="55.17" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43202222" NoIdentificacion="OTG" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Adaptador de OTG USB-C a USB-A8" ValorUnitario="68.96" Importe="68.96" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="68.96" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.16" Importe="11.03" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43201800" NoIdentificacion="DDE Adata 4TB" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Disco duro externo Adata HD710PRO 4 TB USB 3.2 Gen1" ValorUnitario="2327.58" Importe="2327.58" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2327.58" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="372.41" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="43201815" NoIdentificacion="Unidad de DVD" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Unidad de DVD externo DELL Unidad/Quemador" ValorUnitario="948.30" Importe="948.30" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="948.30" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="151.73" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="976.54">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="6034.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="965.51" />
+      <cfdi:Traslado Base="68.96" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.16" Importe="11.03" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="3339DC9C-17C9-42B4-87CB-5C5131B6CB89" FechaTimbrado="2023-06-09T23:31:42" RfcProvCertif="SAT970701NN3" SelloCFD="QvkEj4KNFVVAhWt3c7WPTOF0qzM69oZ+394SEjUxLuqJre2UUhkMpRr93xy7kEIvXtz21yWVqOztw2cTE8hjKOLx0J2SDTkZWb3p8HHzjdjaPMXygQMhobf1pq7GcbQh2Rf06o7ybSAMbwRR2mRUgO30Kj0EHLJfMAvDL0CjFUKWJRdiSLezU7PApP/G2H4+vfl6jV+bbugSumeKtYSWHqtmabX21TDSHPvdiYUuiPTYQPynfyEM+AfMzySopmTOwGyEn3PkVgRIB8gOp/Ot79PUcA1ylv6Mgp3YNVLqW4tDPdV/VQ36mhyxqIV4dy+D7YAKejdYW50+4wjvHWcmHQ==" NoCertificadoSAT="00001000000504465028" SelloSAT="bZK539w4NG8xpfHDgoaVzsM5tITwvWXTGX1Yw9R/8/RWiwwVX3iRXM4LlLIQjD82pOQXKZLTmhSzaGR5kUe2E6fAsKoyUBQVwvEnyqYtTn9+QTg3a2si5l8lHEzMG1KVkyQ7KQ7c3VPJRTLsWTZ1oq4mAJNaUdZNJ0DLvxKp8+w/T9peOY39b6CR8HKqU9H1WO1LKkYdpjmpYKdlpUEIFdlC7sX3o4gw39gld/u0V15vFmRb0ml756pEb2hbkIIFKi2Iw1YrcQ8CDabyipwehOdOThX3POOfJR5DVWJsQLJvq290kcY7YxCqV5VAeykNTBswOBRcyGKslFGOOW3I4Q==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

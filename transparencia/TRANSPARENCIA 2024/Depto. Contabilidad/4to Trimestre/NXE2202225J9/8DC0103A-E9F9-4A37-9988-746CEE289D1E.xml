@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2024-11-06T21:55:01" Sello="n4sGwpV8G9p0sQcotEOt0qkztzyjOg8Sq9vQU10IkL4ox3dU9bbmHsnG/N6uaoaIzseZz95/IcnL0iLnR58NPcwb8TXffhkgKzcjPKHxYliqUrtXVnQFgGJ/OSWp597oaJU6SqvfaYYrP9ud/06f9smwZMcRBRTmaPY2C75i0o4O8zK3TCvBs46bnS3YfKxfPOUo+BcKGMErSnkYV4VWqmL4uOSDZ9qcvkvKVK9cfAnnpOci2+vPikyBrPZFlzAcP2thkIgeEMC+lmvqW6lR81iWKN1JtoHhtIbI/FEelzrksbR+z1AqTTpBODCDYjgD+V7SWT3l4NAJZitzWWpvww==" FormaPago="03" NoCertificado="00001000000517386503" Certificado="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" SubTotal="921.62" Moneda="MXN" Total="1069.08" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90122" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="NXE2202225J9" Nombre="NEGOCIOS XELAZIL" RegimenFiscal="626" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="44111516" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ORGANIZADOR DE ESCRITORIO MALLA METÁLICA NEXTEP 7 SECCIONES" ValorUnitario="285.62" Importe="285.62" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="285.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="45.70" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50201714" Cantidad="2.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="SUSTITUTO DE CREMA COFFEE MATE NESTLÉ 200 PZAS 4 GR" ValorUnitario="200" Importe="400.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="400.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="64.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202306" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CHAROLA REFRESCO PEÑAFIEL VARIOS SABORES C/24 PZAS 355 ML" ValorUnitario="236.00" Importe="236.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="236.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="37.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="147.46">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="921.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="147.46" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="8DC0103A-E9F9-4A37-9988-746CEE289D1E" FechaTimbrado="2024-11-06T21:55:25" RfcProvCertif="SAT970701NN3" SelloCFD="n4sGwpV8G9p0sQcotEOt0qkztzyjOg8Sq9vQU10IkL4ox3dU9bbmHsnG/N6uaoaIzseZz95/IcnL0iLnR58NPcwb8TXffhkgKzcjPKHxYliqUrtXVnQFgGJ/OSWp597oaJU6SqvfaYYrP9ud/06f9smwZMcRBRTmaPY2C75i0o4O8zK3TCvBs46bnS3YfKxfPOUo+BcKGMErSnkYV4VWqmL4uOSDZ9qcvkvKVK9cfAnnpOci2+vPikyBrPZFlzAcP2thkIgeEMC+lmvqW6lR81iWKN1JtoHhtIbI/FEelzrksbR+z1AqTTpBODCDYjgD+V7SWT3l4NAJZitzWWpvww==" NoCertificadoSAT="00001000000705250068" SelloSAT="Tq9RCSIp29NEKyNCnTiHUVx5lUyrJ7g6EcaIkjf2pMC4tXEs7pgKFD14U5AKmCyY6XBxJhi8dprCdIzA/tS/bW34L8i91l8BHPzDARt4ll+ZecR7MuniTpZ71eqPACzgZ/NibcdWa89aLPQ7BJnGMzPiD39tAnkVOWT64DNZCHzeFWkrM20WlZN2KnsMCvvB5CVeRPjQV7u8q4XWIq8pYIANTEz8zon7tVvnPiRGcLTlG4HOZOimkOmhjYnkjqw5vlOWxDM8hjB6jXQ4AR1XHMlAzx6IAExyWuxEuB6+dS9LzkRyF3NGLUZaBbjQRiF8gzzTW/CcWbatZsVuwnhgDA==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

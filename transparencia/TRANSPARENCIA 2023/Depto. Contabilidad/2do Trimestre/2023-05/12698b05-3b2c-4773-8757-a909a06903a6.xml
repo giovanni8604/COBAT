@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="4.0" Serie="G131T" Folio="44800" Fecha="2023-05-30T11:34:03" Sello="KNr9poI/R9uVItupiuzhr4ZyFSXZMaWMXy3Q6IVr7dCtFu1N1bxBF/Irp/5OWjfEAjO0sMiRdAwiHwdoQfxB9+Dpudd384lYgZpy0MDAW+luza3qjypaDAesMbAx35zKtHFt+quH7+I+BGE8/wVrwBqpTLjRPazcMDCS/xrxf2ZQ/WFbpRAlkhVyeRWIYkC6dILjrnEnOETj1ramQdNw1fDHWZ4OGyhIzTjbKwZcC/6CUt3YhEuPhqP318bH76ydUw9TRDMy3z00PZknjL0FKSIrRAdPQwpQfFQrmOfpD++S/FLjutd3hlY7ZbOkDLsLZbfSsSBC5PIarDvGlQYXFQ==" NoCertificado="00001000000514591133" Certificado="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" SubTotal="596.57" TipoCambio="1" Moneda="MXN" Total="692.00" TipoDeComprobante="I" Exportacion="01" FormaPago="28" MetodoPago="PUE" LugarExpedicion="56643" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+  <cfdi:Emisor Rfc="CMG2206031P2" Nombre="COMERCIAL MINISUPER GM" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="90101500" NoIdentificacion="CALDOTLALP" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="CALDO TLALPEÑO SOCRATES                           1441471   0001" ValorUnitario="51.72" Importe="51.72" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="51.724138" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="90101500" NoIdentificacion="COCHIPOR" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="COCHINITA 150 G SOCRATES                          1441471   0002" ValorUnitario="77.59" Importe="77.59" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="77.586207" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.41" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="90101500" NoIdentificacion="CALDOTLALP" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="CALDO TLALPEÑO SOCRATES                           1441471   0003" ValorUnitario="51.72" Importe="51.72" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="51.724138" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="90101500" NoIdentificacion="CALDOTLALP" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="CALDO TLALPEÑO SOCRATES                           1441471   0004" ValorUnitario="51.72" Importe="51.72" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="51.724138" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="8.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="90101500" NoIdentificacion="COCHIPOR" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="COCHINITA 150 G SOCRATES                          1441471   0005" ValorUnitario="77.59" Importe="77.59" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="77.586207" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.41" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="90101500" NoIdentificacion="PUNTAPASIL" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="PUNTAS AL PASILLA 260G SOCRATES                   1441471   0006" ValorUnitario="73.28" Importe="73.28" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="73.275862" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="90101500" NoIdentificacion="RF3PURE" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="C3 PURE POLLO 3 PZA RF                            1441471   0007" ValorUnitario="103.45" Importe="103.45" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="103.448276" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.55" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202301" NoIdentificacion="AGHOR" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="AGUA FRESCA HORCHATA                              1441471   0008" ValorUnitario="14.66" Importe="14.66" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.34" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202300" NoIdentificacion="AGTAM" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="AGUA FRESCA TAMARINDO                             1441471   0009" ValorUnitario="14.66" Importe="14.66" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.34" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202300" NoIdentificacion="AGTAM" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="AGUA FRESCA TAMARINDO                             1441471   0010" ValorUnitario="14.66" Importe="14.66" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14.655172" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.34" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202300" NoIdentificacion="IC32" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="ICEE CEREZA ROJO GRANDE                           1441471   0011" ValorUnitario="32.76" Importe="32.76" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="32.758621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202300" NoIdentificacion="IC32" Cantidad="1.00" ClaveUnidad="C62" Unidad="Uno" Descripcion="ICEE CEREZA ROJO GRANDE                           1441471   0012" ValorUnitario="32.76" Importe="32.76" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="32.758621" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="5.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="95.43">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="596.55" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="95.43" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="12698b05-3b2c-4773-8757-a909a06903a6" FechaTimbrado="2023-05-30T11:34:05" RfcProvCertif="AUR100128NN3" SelloSAT="sDs33CSG4AgOgn1RJ1km0jf2Km+bycESUVEjuRjxdyMshJw1loXcNrfSmgms41BD0ha8KqLfxlFEIQNGU7FGjTX3eUwpGlBaUr5sgvF59vUwhJ5xoKPIAna75dU2HiTmug5It5zt4pVGkXAV5wyAj40FAetAV7dvfswYyxLaY+tGihUUxCAqYbsIb3cXwqO9sg7hGZiSnfvEsyrns60Y6R1dew2hyICEf4DgOBvTnXp3l+m5Nuz8/Z/eHmMczi0JJHM92Wjb7uQPHN1+QyAXPHslZsd79QottQuIL09WrxIYKOvaqeUeByNHXJJ6w3I5FaZbbVWYl0524B+2wdwcEw==" SelloCFD="KNr9poI/R9uVItupiuzhr4ZyFSXZMaWMXy3Q6IVr7dCtFu1N1bxBF/Irp/5OWjfEAjO0sMiRdAwiHwdoQfxB9+Dpudd384lYgZpy0MDAW+luza3qjypaDAesMbAx35zKtHFt+quH7+I+BGE8/wVrwBqpTLjRPazcMDCS/xrxf2ZQ/WFbpRAlkhVyeRWIYkC6dILjrnEnOETj1ramQdNw1fDHWZ4OGyhIzTjbKwZcC/6CUt3YhEuPhqP318bH76ydUw9TRDMy3z00PZknjL0FKSIrRAdPQwpQfFQrmOfpD++S/FLjutd3hlY7ZbOkDLsLZbfSsSBC5PIarDvGlQYXFQ==" NoCertificadoSAT="00001000000505750848" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
+

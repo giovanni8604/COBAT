@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?><cfdi:Comprobante Version="4.0" Serie="TLC" Folio="392012463" Fecha="2023-06-02T12:42:45" Sello="z8eWc1PkZgCrB5Woi9fjuYNLtEKKyhj26y3P+MQVVbNROciAGueNSusp3Kad59V0r6Uj4yR19dtsE67vMl/v1J2gNTB5I7CL3RD30fRlJ34AsewcmVxU3J5+OZ6g2szpTfBJc7jg0hog0Pod77Zl9Utqd6EVPkj7jHutcn45nh6gczbj0Ye82akiWukUK9OhT81070sBEhm9fFwCfevveoZl5JKsfYSuObBCHlDujZvzzO7XDdLN0dyZ214MDVkDM2U3pvASfyk4fs1/7aQdNvxfCIN8XJy2LjD51wZO8zofxxbJAwoyPpz21ASfbSv2AK9Z7JAmzrOPD7kf8im5nQ==" FormaPago="01" NoCertificado="00001000000506505905" Certificado="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" SubTotal="576.19" Moneda="MXN" Total="623.50" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="52180" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:pago20="http://www.sat.gob.mx/Pagos20" xmlns:implocal="http://www.sat.gob.mx/implocal" xmlns:cartaporte20="http://www.sat.gob.mx/CartaPorte20">
+  <cfdi:Emisor Rfc="CCO8605231N4" Nombre="CADENA COMERCIAL OXXO" RegimenFiscal="623" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50202400" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="DEL VALLE PET N DZO 6/1LT" ValorUnitario="25.50" Importe="25.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="25.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202306" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="COCA-COLA ORIGINAL LATA 355 ML NR (SLEEK CAN)" ValorUnitario="15.52" Importe="15.52" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15.52" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.48" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" Cantidad="3.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="NATURES HEART NUTTY BERRY MIX 70GR" ValorUnitario="29.63" Importe="88.89" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="88.89" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="7.11" />
+          <cfdi:Traslado Base="96.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="NATURES HEART GO NUTS 70GR" ValorUnitario="29.63" Importe="29.63" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="29.63" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.37" />
+          <cfdi:Traslado Base="32.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50131700" Cantidad="2.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="MOKA CAPUCCINO CAFE OLE 281 ML BOTELLA" ValorUnitario="27.00" Importe="54.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="54.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50181900" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="BISQUETS ENERGY BISQUETS LA INTEGRAL 180 GR BOLSA CHOCOLATE" ValorUnitario="29.63" Importe="29.63" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="29.63" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.37" />
+          <cfdi:Traslado Base="32.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="DORITOS NACHO BOTANOT 82G" ValorUnitario="19.91" Importe="19.91" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19.91" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.59" />
+          <cfdi:Traslado Base="21.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="DORITOS SABRITAS FLAMIN HOT 82G BOTANOTA" ValorUnitario="19.91" Importe="19.91" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19.91" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.59" />
+          <cfdi:Traslado Base="21.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202306" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="REFRESCO COCA-COLA 600 ML BOTELLA NO RETORNABLE COLA" ValorUnitario="15.52" Importe="15.52" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15.52" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2.48" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50181905" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="GALLETAS PRINCIPE MARINELA 105GR SABOR CHOCOLATE" ValorUnitario="22.69" Importe="22.69" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="22.69" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.81" />
+          <cfdi:Traslado Base="24.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50181905" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="GALLETA SENZO MIX 93G" ValorUnitario="20.83" Importe="20.83" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20.83" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.67" />
+          <cfdi:Traslado Base="22.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="SABRITAS ADOBADA 105 GRS" ValorUnitario="41.20" Importe="41.20" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="41.20" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="3.30" />
+          <cfdi:Traslado Base="44.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50131701" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="YOG LALA BEB FRESA 440 GR" ValorUnitario="26.00" Importe="26.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="26.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50161813" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="HERSHEY CNC KING SIZE PZ" ValorUnitario="27.31" Importe="27.31" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27.31" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.19" />
+          <cfdi:Traslado Base="29.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50161813" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="HERSHEY ALMOND KING SIZE PZ" ValorUnitario="27.31" Importe="27.31" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="27.31" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.19" />
+          <cfdi:Traslado Base="29.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50181900" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="&quot;DONITAS ESPOLVOREA 140G MTB BIM" ValorUnitario="22.69" Importe="22.69" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="22.69" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.81" />
+          <cfdi:Traslado Base="24.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202309" Cantidad="3.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="POWERADE MORAS 1LT" ValorUnitario="22.41" Importe="67.24" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="67.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="10.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50202309" Cantidad="1.000000" ClaveUnidad="EA" Unidad="EA" Descripcion="POWERADE FRUTAS 1LT" ValorUnitario="22.41" Importe="22.41" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="22.41" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="3.59" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="47.31">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="350.00" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="28.00" />
+      <cfdi:Traslado Base="120.69" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="19.31" />
+      <cfdi:Traslado Base="483.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+        <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="cd7c83dd-16ce-42dc-9d70-04100ebfd110" RfcProvCertif="SNF171020F3A" FechaTimbrado="2023-06-02T12:42:46" SelloCFD="z8eWc1PkZgCrB5Woi9fjuYNLtEKKyhj26y3P+MQVVbNROciAGueNSusp3Kad59V0r6Uj4yR19dtsE67vMl/v1J2gNTB5I7CL3RD30fRlJ34AsewcmVxU3J5+OZ6g2szpTfBJc7jg0hog0Pod77Zl9Utqd6EVPkj7jHutcn45nh6gczbj0Ye82akiWukUK9OhT81070sBEhm9fFwCfevveoZl5JKsfYSuObBCHlDujZvzzO7XDdLN0dyZ214MDVkDM2U3pvASfyk4fs1/7aQdNvxfCIN8XJy2LjD51wZO8zofxxbJAwoyPpz21ASfbSv2AK9Z7JAmzrOPD7kf8im5nQ==" NoCertificadoSAT="00001000000518812364" SelloSAT="fUhDC0fm3lq49YO+RxltSCIeqEjgIFQhFLuYGCAttbEHwbG7iNvPEGBArd40wJhKMQgrR1IV3BcFfIpyU6WvD1//FNORig6yiaQXDXmKTVVC8UhQXCSSKSwvlf0TsGlgWwBBO1I4imv9dxdDRLPj42ygwzx8gbi9obpVPM1f2PrkOO2ySppvg5I2dcNb0Ve58KnVr94lsNn8MtNPbiogsRYMJF4SlsFRQ48ZxxNhOV7ke1A8f6rJgTehTDmepxn0I5rJHRgDjR/0xgB/hqywh5MrOXvo1Nw4xCynH2wB7c2XYr4SU88r2vMLBpWeF+ezrB+XasmMEtcDIf4OSO2JvA==" />
+    </cfdi:Complemento>
+</cfdi:Comprobante>

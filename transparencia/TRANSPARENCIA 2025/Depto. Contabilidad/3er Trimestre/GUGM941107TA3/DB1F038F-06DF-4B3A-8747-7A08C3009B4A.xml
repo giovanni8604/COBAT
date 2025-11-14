@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2025-09-03T14:19:04" Sello="AGutO7T7XgKqEmPm7LJgPZJOlXTKfhq9wpZ9M+MzflSsxtRbdtVb1SPlKtE3FM1/v3RNlF46N7h0FgHHChTHnDr5k92E5XUlR3j5YAiERPUYC3mKclNVKioHWY/gvt5c+qwx+4RRpWLdYoTQB3f7Xy9s2KPMQ1cIfshEBcPPEmEDn4aecesYarTeJ6yN8PuKMGWltLY92X99Tj/W/EiHuUCRG50ES9Oy8bc7Y5X6WFGZ4euhZDYqV4DUyMCNoTpwzXj/Dik8x/HwAWROM86aElj6MEzlYxMohREhyoNM9U/QoFwsgKPjB1suBD6PvwW+5dP8KKlU8TvhItmIP3qIIg==" FormaPago="03" NoCertificado="00001000000511613115" Certificado="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" SubTotal="7671.25" Moneda="MXN" Total="8898.65" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90700" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="GUGM941107TA3" Nombre="MARLENNE GUTIERREZ GONZALEZ" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="40141719" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="reduccion bishing de 1 1/4&quot; a 1 galvanizada" ValorUnitario="188.75" Importe="188.750000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="188.750000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="30.200000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141720" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="conectores cree de 1&quot; cobre" ValorUnitario="67.50" Importe="135.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="135.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="21.600000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141719" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="tuerca union de 1&quot; cobre" ValorUnitario="256.25" Importe="256.250000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="256.250000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="41.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141720" Cantidad="2" ClaveUnidad="H87" Unidad="Pieza" Descripcion="reductor campana de 1&quot; a 3/4&quot; cobre" ValorUnitario="52.50" Importe="105.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="105.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.800000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141719" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="tuerca union de 3/4 cobre" ValorUnitario="100" Importe="100.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="100.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141720" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="codo 90 grados 1&quot; cobre" ValorUnitario="73.75" Importe="73.750000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="73.750000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.800000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141720" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="T de 1&quot; cobre" ValorUnitario="168.75" Importe="168.750000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="168.750000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141720" Cantidad="1" ClaveUnidad="MTR" Unidad="Metro" Descripcion="tubo de 1&quot; cobre" ValorUnitario="293.75" Importe="293.750000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="293.750000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="47.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="44121618" Cantidad="1" ClaveUnidad="H87" Unidad="Pieza" Descripcion="tijera para corte de canaleta" ValorUnitario="338" Importe="338.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="338.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.080000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161500" Cantidad="200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="pija para tabla roca #10 x 1 1/2" ValorUnitario="0.92" Importe="184.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="184.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29.440000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161500" Cantidad="200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="pija para tabla roca #10 x 1 &quot;" ValorUnitario="0.78" Importe="156.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="156.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.960000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161500" Cantidad="200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="pija para tabla roca #6 x 1/2" ValorUnitario="0.42" Importe="84.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="84.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.440000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161500" Cantidad="200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="pija extra plana 1&quot;" ValorUnitario="0.62" Importe="124.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="124.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="19.840000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161500" Cantidad="200" ClaveUnidad="H87" Unidad="Pieza" Descripcion="pija extra plana de 1/2&quot;" ValorUnitario="0.42" Importe="84.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="84.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.440000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31161500" Cantidad="100" ClaveUnidad="H87" Unidad="Pieza" Descripcion="tornillo con tuerca hexagonal 1/4" ValorUnitario="3.8" Importe="380.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="380.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.800000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31331700" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="estructura pared grafica plana de 2.97m x 2.24m" ValorUnitario="5000" Importe="5000.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5000.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="800.000000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="1227.40">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="7671.25" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1227.40" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="DB1F038F-06DF-4B3A-8747-7A08C3009B4A" FechaTimbrado="2025-09-03T14:19:25" RfcProvCertif="SAT970701NN3" SelloCFD="AGutO7T7XgKqEmPm7LJgPZJOlXTKfhq9wpZ9M+MzflSsxtRbdtVb1SPlKtE3FM1/v3RNlF46N7h0FgHHChTHnDr5k92E5XUlR3j5YAiERPUYC3mKclNVKioHWY/gvt5c+qwx+4RRpWLdYoTQB3f7Xy9s2KPMQ1cIfshEBcPPEmEDn4aecesYarTeJ6yN8PuKMGWltLY92X99Tj/W/EiHuUCRG50ES9Oy8bc7Y5X6WFGZ4euhZDYqV4DUyMCNoTpwzXj/Dik8x/HwAWROM86aElj6MEzlYxMohREhyoNM9U/QoFwsgKPjB1suBD6PvwW+5dP8KKlU8TvhItmIP3qIIg==" NoCertificadoSAT="00001000000705250068" SelloSAT="ScFYgJlJ0aUJR0f00QDzUiwpb2w34PlUXLc1uRjiPPTTPvM4l8m2kGj65DFiYjLmyzwxTE9Cp3YIRpt+gPa89sjNpcrS6rgxTm+wX1F4c3egLMfHay8RlIGhYH52E36QbS/3MG+umQaRvuybO4M9sW4aN+LAe6v6iPg96otZOFHKRj/vSEPyP6T1n1/U8kNPlaGQh5ZWumriZ1mquPCUya9b4myyTKdkU6JeBqE3xnD5M6n8oDcV/5+U4lsuG4aPK0cLNaS3vIdiktTCYDzYmWb/BaGzTzlLq63+HWomRx0wQ+HaGIUruz9gEIu6M003hUXzMCtqbeATs1zeUL8xuA==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="MIIF+TCCA+GgAwIBAgIUMDAwMDEwMDAwMDA1MDYxMTIwNzQwDQYJKoZIhvcNAQELBQAwggGEMSAwHgYDVQQDDBdBVVRPUklEQUQgQ0VSVElGSUNBRE9SQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxKjAoBgkqhkiG9w0BCQEWG2NvbnRhY3RvLnRlY25pY29Ac2F0LmdvYi5teDEmMCQGA1UECQwdQVYuIEhJREFMR08gNzcsIENPTC4gR1VFUlJFUk8xDjAMBgNVBBEMBTA2MzAwMQswCQYDVQQGEwJNWDEZMBcGA1UECAwQQ0lVREFEIERFIE1FWElDTzETMBEGA1UEBwwKQ1VBVUhURU1PQzEVMBMGA1UELRMMU0FUOTcwNzAxTk4zMVwwWgYJKoZIhvcNAQkCE01yZXNwb25zYWJsZTogQURNSU5JU1RSQUNJT04gQ0VOVFJBTCBERSBTRVJWSUNJT1MgVFJJQlVUQVJJT1MgQUwgQ09OVFJJQlVZRU5URTAeFw0yMTAxMDQxNTQ5MThaFw0yNTAxMDQxNTQ5MThaMIHHMR4wHAYDVQQDExVUT05ZIFRJRU5EQVMgU0EgREUgQ1YxHjAcBgNVBCkTFVRPTlkgVElFTkRBUyBTQSBERSBDVjEeMBwGA1UEChMVVE9OWSBUSUVOREFTIFNBIERFIENWMSUwIwYDVQQtExxUVEk5NjEyMDJJTTEgLyBIRVpQNDIwNTEwVDY5MR4wHAYDVQQFExUgLyBIRVpQNDIwNTEwSFpTUlZEMDQxHjAcBgNVBAsTFVRPTlkgVElFTkRBUyBTQSBERSBDVjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAKBuhW5d6F0ltBIrpJB2xXlOFDxHNYaREn1a/39Mr4ZCoOCzhsq6IUPc6nTssZJTtoEkiXw/YSR+fogk6KCb8wxvwa8e9U8/0Set3wBJvTssxp9ej2hDHH1y4gqf/BcKR312twYX1b9UScycvewCD4qUnYAL6Uv+5q1clZrZ4MLqjMPThbH/uWRdniqh47wNz283iA1jFrOxMRTGFJsdxAhHlths8yhn4Wra55qJvq30jD16BG+WVYlls6RKL7/Kpmoa9g53B0ns/CKjQIOZrILMOnKuvyXE1Yn763Ud6WkyuOYepNWTToSXX9bvZpLmtsImqUCgXaYY8PbMUje4uWMCAwEAAaMdMBswDAYDVR0TAQH/BAIwADALBgNVHQ8EBAMCBsAwDQYJKoZIhvcNAQELBQADggIBAGJmkPMaxtvFyyCn6yVscK8Kb7DoJt/jZx1IH9BLfBYQxDASdw0GyMknTokmFD2eDDY7w1efSOc4bUgtmjR+smzpqgaSmU7pkPa9Sii8XcQybBhOQnKdlCHG5YjDkx6cugqAYbst1S/XSdYHw8/50698jPJPWJLsDQbWGyqKX1y0LHK+k81BBomtGFmxYm49KeYjZF6MJ4rpNrbo/bUQNQ0fk3DKuUznn/6k7FcSMBGtYlEqtm0HKqhMkRFaGCyjhRutC5Wy+mQZmXPjOKJAkkBmA27VIgQzCRZ84khzXlaLVAC7uTVlPgjMiQEInx4HnyRmiICbO6xW0TCV38kjYZNSs/V8+fWnDkoD6j1aNypFpJfgVHxJ2W6fNM0TGVXqDSlMiZ9BXEc9eeTwUpfFpW0GhC8owJx+E1f2JCERIc67W6MIL+Bs5InlgRFwV9FgEZdo2lA7I4GI32BTM3UIQy2i3Y7yPdCzXB4v8v72MHL8NcZ39fXT/8Ago3NTEqttdXdK0c7+pft6plX7D/SHh7uEXIMAYRecOkCQPXjV9wOxRri0oj11br7X2gBCBhZQ/3it4DbZ5V+3jV0u1QhJ37Q14q/ffxvJQ9UtwfYzFo84KNRs/dqGz1nWCMJ4CIWNBICXPf7TCy3e3gp5F9XehvJUwsAWf0pAzcVGaaeRdeqi" CondicionesDePago="CONTADO" Fecha="2022-07-13T15:57:37" Folio="024595" FormaPago="01" LugarExpedicion="90800" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000506112074" Sello="TrdVwNaLpZ7c8gsl/0cTf8LeH+ETX9vUN0jvQyWU0hjg3Ns2tKpmUWh8q5LmDMIe5xp+CBAr+93mEcKHG5VTU6QkxGg4990iRlIqfTOX023TkKvx6c/6GzaIADyzifuYEn29O9peCOCOAZKWFVFsJS8Fn6urDCyHCtnZ2gQYjUtoWT1F9eEfAKJ8VWCmGxFO4CdpWiUdH3GM788GVe+oL4J3HM7qKksjvQitbxYMVlQT+L90ql7pQjqWtsOwDnkMZ9hu58UTSvjw88V82yRdsVTduLxUem/LQRNSmHrLxzLxLcvxtV3I9ykhm7+UI6KK7h50MVnWQ+Hg4uXGExslYA==" Serie="FXC" SubTotal="2116.77" TipoDeComprobante="I" Total="2455.46" Version="3.3" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Nombre="TONY TIENDAS S.A. DE C.V." RegimenFiscal="601" Rfc="TTI961202IM1" />
+  <cfdi:Receptor Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" Rfc="CBE810805ER1" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="60121301" ClaveUnidad="H87" Descripcion="GUILLOTINA DE MADERA T/OFICIO SMART" Importe="703.40" NoIdentificacion="06990073" Unidad="PIEZA" ValorUnitario="703.40">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="703.40" Importe="112.54" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="5" ClaveProdServ="44121600" ClaveUnidad="H87" Descripcion="TIJERA OFICINA SOFT GEL 6 3/4&quot; BLT MAPED" Importe="170.80" NoIdentificacion="01280145" Unidad="Pieza" ValorUnitario="34.16">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="170.80" Importe="27.33" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="5" ClaveProdServ="44121612" ClaveUnidad="H87" Descripcion="CUTTER NAVAJA GDE TRANS BOL SMART" Importe="34.10" NoIdentificacion="06130004" Unidad="Pieza" ValorUnitario="6.82">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="34.10" Importe="5.46" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="3" ClaveProdServ="43201800" ClaveUnidad="H87" Descripcion="MEMORIA USB 32GB UV250 METALIC UV210 ADATA" Importe="227.13" NoIdentificacion="06690071" Unidad="PIEZA" ValorUnitario="75.71">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="227.13" Importe="36.34" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2" ClaveProdServ="43201800" ClaveUnidad="H87" Descripcion="MEMORIA USB 32GB UV220 BCO/GRIS ADATA" Importe="149.62" NoIdentificacion="06690059" Unidad="PIEZA" ValorUnitario="74.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="149.62" Importe="23.94" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2" ClaveProdServ="43201800" ClaveUnidad="H87" Descripcion="MEMORIA USB 32GB C008 BCO/AZL ADATA" Importe="149.62" NoIdentificacion="06690057" Unidad="PIEZA" ValorUnitario="74.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="149.62" Importe="23.94" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2" ClaveProdServ="43201800" ClaveUnidad="H87" Descripcion="MEMORIA USB 32GB C008 NEG/RJO ADATA" Importe="149.62" NoIdentificacion="06690020" Unidad="Pieza" ValorUnitario="74.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="149.62" Importe="23.94" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="3" ClaveProdServ="43201800" ClaveUnidad="H87" Descripcion="MEMORIA USB 32GB UV220 NEG/AZL ADATA" Importe="224.43" NoIdentificacion="06690060" Unidad="PIEZA" ValorUnitario="74.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="224.43" Importe="35.91" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2" ClaveProdServ="43201800" ClaveUnidad="H87" Descripcion="MEMORIA USB 32GB UV220 VDE/RSA ADATA" Importe="149.62" NoIdentificacion="06690072" Unidad="PIEZA" ValorUnitario="74.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="149.62" Importe="23.94" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="44121716" ClaveUnidad="H87" Descripcion="MARCATEXTOS FLUOR DELG VDE CJA/10 BACOFLAS" Importe="52.81" NoIdentificacion="00140260" Unidad="Pieza" ValorUnitario="52.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="52.81" Importe="8.45" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="44121716" ClaveUnidad="H87" Descripcion="MARCATEXTOS FLUOR DELG NJA CJA/10 BACOFLAS" Importe="52.81" NoIdentificacion="00140258" Unidad="Pieza" ValorUnitario="52.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="52.81" Importe="8.45" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1" ClaveProdServ="44121716" ClaveUnidad="H87" Descripcion="MARCATEXTOS FLUOR DELG RSA CJA/10 BACOFLAS" Importe="52.81" NoIdentificacion="00140259" Unidad="Pieza" ValorUnitario="52.81">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="52.81" Importe="8.45" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="338.69">
+    <cfdi:Traslados>
+      <cfdi:Traslado Importe="338.69" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="6FDA0B7A-E017-4A0F-8DFC-0BAE59EA2A76" SelloCFD="TrdVwNaLpZ7c8gsl/0cTf8LeH+ETX9vUN0jvQyWU0hjg3Ns2tKpmUWh8q5LmDMIe5xp+CBAr+93mEcKHG5VTU6QkxGg4990iRlIqfTOX023TkKvx6c/6GzaIADyzifuYEn29O9peCOCOAZKWFVFsJS8Fn6urDCyHCtnZ2gQYjUtoWT1F9eEfAKJ8VWCmGxFO4CdpWiUdH3GM788GVe+oL4J3HM7qKksjvQitbxYMVlQT+L90ql7pQjqWtsOwDnkMZ9hu58UTSvjw88V82yRdsVTduLxUem/LQRNSmHrLxzLxLcvxtV3I9ykhm7+UI6KK7h50MVnWQ+Hg4uXGExslYA==" NoCertificadoSAT="00001000000508768672" FechaTimbrado="2022-07-13T16:03:35" SelloSAT="mNYTGwdWIi8W8z+9B0aFCE8mjo7i1MO3nLaxnQGTsGYSbAhm6249nfhAISG3uddjal70gLLETxhFzW+uX1RH+ry3ePpCVVDbke6XPG3ZMH0f7S09Oq7VMEMsYL0NRiM7HTZaMl1fdGXhhcFJwBrCpWJ2pykJ8+jmMgegw0KCh7aeI55SZb7SnpsZsJHgCJAGgP8cAwO011BbFcsGlxTbJLJWmWYldZqJvW+PY5zc2pjXyqEMO9kYoCbhpCSljGz/++cpA/NYKAHHZCAxrqFr/qzSx6RhlZ+er/DdMRyGQmCBzaCeh5sUSzu6d0A/mZgCwTIQDuoOedIGo2cS8iNPtQ==" RfcProvCertif="SIF0403229F9" /></cfdi:Complemento></cfdi:Comprobante>

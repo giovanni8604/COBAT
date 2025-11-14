@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="A" Folio="10605" Fecha="2024-12-26T14:07:52" Sello="doSp7CZS+teZV2NuoaUgQpJUor4zObS+pmVGh3PMCx7pBWCmNbjqHuwNRvG06KTBi4AaOYiO/IkRVttVcJb6BTAlD4jx2x+7JujQhHaCkz+ZDfcHEgRRQk3zNRMRwRvf7gf317zAODXY8tn3xVYnSJgqZ+xh8TOCEwsX3RhyDvDuZHfRRmGlM2GpVlPnDorhorQ6hpcbfF5augYIcPOYmkLJf4nl+jHhCajdC8oXwmmFbs6G8lS0NgL/6bCYDKPc35ZCIvBo47M63mxZIqSCHl/ApEbSiB8WUOvALAako0jJKOQnJDf7i7TwDiWTL3QdVumkj4qsOwFJpUrlkffaaw==" FormaPago="99" NoCertificado="00001000000506138413" Certificado="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" SubTotal="76236.04" Moneda="MXN" Total="88433.81" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="90830">
+  <cfdi:Emisor Rfc="FOFF7310037D5" Nombre="FRANCISCO FLORES FLORES" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="AM47550" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT DE AFINACION PARA CHEVROLET SILVERADO AÑO 2003 MOTOR 4.3 VOCTER" ValorUnitario="1772.41" Importe="1772.41" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1772.42" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="283.5872" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="GPP5041" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT DE AFINACION PARA UNIDAD FORD  ECONOLINE AÑO 2003 MOTOR  5.4" ValorUnitario="1804.31" Importe="1804.31" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1804.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="288.6896" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26101513" NoIdentificacion="559006110" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT DE DISTRIBUCION PARA  UNIDAD CAPTIVA AÑO 2015 MOTOR 2.4" ValorUnitario="3818.97" Importe="3818.97" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3818.97" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="611.0352" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="832614" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT AFINACION PARA UNIDAD CAPTIVA AÑ0 2015 MOTOR 2.0" ValorUnitario="1916.38" Importe="1916.38" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1916.38" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="306.6208" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="MP8677" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT AFINACION PARA UNIDAD  JETTA BICENTENARIO AÑO 2013 MOTOR 2.0" ValorUnitario="1700.86" Importe="1700.86" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1700.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="272.1376" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="MP8678" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT AFINACION PARA UNIDAD  JETTA CLASICO AÑO 2012 MOTOR 2.0" ValorUnitario="1623.28" Importe="1623.28" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1623.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="259.7248" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="8295E" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT AFINACION PARA UNIDAD JETTA  CLASICO AÑO 2015  MOTOR 2.0" ValorUnitario="2097.41" Importe="2097.41" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2097.41" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="335.5856" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="L47550" Cantidad="5" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT AFINACION PARA UNIDAD JETTA CLASICO AÑO 2013 MOTOR 2.5" ValorUnitario="2045.69" Importe="10228.45" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10228.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1636.552" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172000" NoIdentificacion="1016011IT" Cantidad="3" ClaveUnidad="H87" Unidad="PZA" Descripcion="ROTULAS PARA VERSA 2020  SYD" ValorUnitario="487.93" Importe="1463.79" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1463.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="234.2064" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25171712" NoIdentificacion="OW1Y21ZVFT1119" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="BALATAS TRASERAS PARA VERSA 2020  FRITEC CERAMICA" ValorUnitario="512.93" Importe="1025.86" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1025.86" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="164.1376" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="FR20002" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="BUJES DE HORQUILLA  PARA AMBOS LADOS PARA NISSAN NP300 DOBLE CABINA AÑO 2016 SYD" ValorUnitario="478.45" Importe="956.90" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="956.90" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="153.104" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26111801" NoIdentificacion="K070873" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BANDA DE ACCESORIOS PARA NISSAN NP300 DOBLE CABINA AÑO 2016   GATES" ValorUnitario="573.28" Importe="573.28" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="573.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="91.7248" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="39121454" NoIdentificacion="TB2" Cantidad="12" ClaveUnidad="H87" Unidad="PZA" Descripcion="TERMINALES PARA BATERIAS PARA NISSAN NP300 DOBLE CABINA AÑO 2016" ValorUnitario="43.00" Importe="516.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="516.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="82.56" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25171708" NoIdentificacion="SHD9141ZD1911" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BALATAS DELANTERAS  PARA NISSAN NP300 CON CAJA SECA 2020 MOTOR 2.5 FRITEC CERAMICA" ValorUnitario="991.38" Importe="991.38" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="991.38" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="158.6208" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25171712" NoIdentificacion="OW1742ZVFT117" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BALATAS TRASERAS PARA NISSAN NP300 CON CAJA SECA 2020 MOTOR 2.5 FRITEC CERAMICA" ValorUnitario="1017.24" Importe="1017.24" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1017.24" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="162.7584" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25171500" NoIdentificacion="OEP191" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="PLUMAS LIPIAPARABRISAS PARA NISSAN NP300 CON CAJA SECA 2020 MOTOR 2.5  OEP" ValorUnitario="172.00" Importe="344.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="344.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="55.04" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172004" NoIdentificacion="835234" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="AMORTIGUADORES DE CARGA DELANTEROS Y TRASEROS PARA NISSAN NP300 CON CAJA SECA 2020 MOTOR 2.5 BOGE" ValorUnitario="1737.07" Importe="3474.14" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3474.14" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="555.8624" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172000" NoIdentificacion="930263" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="AMORTIGUADORES DE CARGA DELANTEROS PARA NISSAN NP300 CON CAJA SECA 2020 MOTOR 2.5 BOGE" ValorUnitario="1564.00" Importe="3128.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3128.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="500.48" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="GPC182" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="RETEN DE CAJA DE VELOCIDADES  (RETEN TRASERO) PARA UNIDAD NISSAN ESTAQUITAS 2015 TF VICTOR" ValorUnitario="254.31" Importe="254.31" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="254.31" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="40.6896" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26112004" NoIdentificacion="624277500" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT DE CLUTCH PARA UNIDAD NISSAN ESTAQUITAS 2015    LUK" ValorUnitario="2284.48" Importe="2284.48" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2284.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="365.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40151510" NoIdentificacion="MBA091447" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BOMBA DE AGUA CAPTIVA LUV 2002  MORESA" ValorUnitario="534.48" Importe="534.48" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="534.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="85.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="230061401" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT DE DISTRIBUCION CHEVROLET LUV 2002  GATES" ValorUnitario="560.34" Importe="560.34" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="560.34" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="89.6544" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="AM42400" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT AFINACION CHEVROLET LUV 2002" ValorUnitario="1897.41" Importe="1897.41" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1897.41" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="303.5856" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40142000" NoIdentificacion="FLH5/1614M" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="MANGUERA DE 1/4 ALTA PRESION PARA GASOLINA 2 METROS CHEVROLET LUV 2002 GATES" ValorUnitario="103.45" Importe="103.45" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="103.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.552" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="73171502" NoIdentificacion="L51R500" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BATERIA CHEVROLET LUV 2002   LTH" ValorUnitario="2500.00" Importe="2500.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2500.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="400.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25174003" NoIdentificacion="31336" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="TAPON RADIADOR 16 PSI CHEVROLET LUV 2002  GATES" ValorUnitario="103.45" Importe="103.45" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="103.45" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="16.552" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172500" NoIdentificacion="185R14ENR350C" Cantidad="4" ClaveUnidad="H87" Unidad="PZA" Descripcion="LLANTAS 185/R14 LT CHEVROLET LUV 2002  WINRUN" ValorUnitario="1551.00" Importe="6204.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6204.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="992.64" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31411700" NoIdentificacion="JC1437" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="JUEGO DE JUNTAS PARA TODO EL MOTOR JEEP LIBERTY 2010  TF VICTOR" ValorUnitario="2801.72" Importe="2801.72" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2801.72" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="448.2752" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25174000" NoIdentificacion="33919" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="TERMOSTATO JEEP LIBERTY 2010   GATES" ValorUnitario="612.07" Importe="612.07" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="612.07" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="97.9312" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="T1095" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="METALES DE BANCADA   (POR MEDIDA) JEEP LIBERTY 2010 MORESA" ValorUnitario="577.59" Importe="577.59" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="577.59" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="92.4144" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="K061058" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="METALES DE BIELA (POR MEDIDA)JEEP LIBERTY 2010 MORESA" ValorUnitario="474.14" Importe="474.14" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="474.14" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="75.8624" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172000" NoIdentificacion="1006017" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="ROTULAS SUPERIORES JEEP LIBERTY 2010  SYD" ValorUnitario="741.38" Importe="1482.76" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1482.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="237.2416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172004" NoIdentificacion="930010" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="AMORTIGUADORES DELANTEROS JEEP LIBERTY 2010  BOGE" ValorUnitario="1594.83" Importe="3189.66" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3189.66" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="510.3456" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="73171502" NoIdentificacion="L34600" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BATERIA JEEP LIBERTY 2010  LTH" ValorUnitario="3038.79" Importe="3038.79" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="3038.79" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="486.2064" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="RT1095" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="ANILLOS  (POR MEDIDA)JEEP LIBERTY 2010 MAHLE" ValorUnitario="1034.48" Importe="1034.48" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1034.48" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="165.5168" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="L24530" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT DE AFINACION JETTA CLASICO 2012" ValorUnitario="1623.28" Importe="1623.28" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1623.28" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="259.7248" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40141735" NoIdentificacion="OP06A103663C" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="TUBO DE BAYONETA JETTA CLASICO 2012  BRUCK" ValorUnitario="86.21" Importe="86.21" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="86.21" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="13.7936" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26101412" NoIdentificacion="530017110" Cantidad="1" ClaveUnidad="XKI" Unidad="KIT" Descripcion="KIT DE DISTRIBUCION JETTA CLASICO 2012  SCHAEFFLER  TCK296" ValorUnitario="2732.76" Importe="2732.76" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2732.76" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="437.2416" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172504" NoIdentificacion="2055516BHHU02" Cantidad="4" ClaveUnidad="H87" Unidad="PZA" Descripcion="LLANTAS 205/55/  R16 NISSAN ESTAQUITAS 2015  BLACKHANK" ValorUnitario="1422.00" Importe="5688.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5688.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="910.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="12197.77">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="76236.05" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12197.77" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="DF9EFE8C-D316-B44C-AE2A-EF7D991A088E" FechaTimbrado="2024-12-26T14:10:18" RfcProvCertif="SCD110105654" SelloCFD="doSp7CZS+teZV2NuoaUgQpJUor4zObS+pmVGh3PMCx7pBWCmNbjqHuwNRvG06KTBi4AaOYiO/IkRVttVcJb6BTAlD4jx2x+7JujQhHaCkz+ZDfcHEgRRQk3zNRMRwRvf7gf317zAODXY8tn3xVYnSJgqZ+xh8TOCEwsX3RhyDvDuZHfRRmGlM2GpVlPnDorhorQ6hpcbfF5augYIcPOYmkLJf4nl+jHhCajdC8oXwmmFbs6G8lS0NgL/6bCYDKPc35ZCIvBo47M63mxZIqSCHl/ApEbSiB8WUOvALAako0jJKOQnJDf7i7TwDiWTL3QdVumkj4qsOwFJpUrlkffaaw==" NoCertificadoSAT="00001000000702501858" SelloSAT="aJNZbxbd/s+DYXf1fL2vh9GiGm6/YjPj+IfndsZwWM8TaVJ4Z1A4xt7lpJCTD6djF3fuCWKZT7fudJYCExDYuklHa6lvhcrdZ9U398+5ZyjHSZKuJrX8Amuz2D8llZPvMWqYoFH5bhTek80L1NfAV7KYhpJlMIrSwuReKzWRK+Vn+yAaGzDmoM+17+1vQgnC+yOjEYbkkyOzLIBroiu5JQxiPRLXy7mFBY1MqGiVYXtkGXSOYn+7rSk75nrb47LBW56JHIVnRvUVLyP8Qrdp1bSt5Kf4VTqrK8ZLDji/fm9dlh2i66ibkSi6q27XCPMCFpa9525ZUfjcBbSeA2cHHQ==" />
+</cfdi:Complemento></cfdi:Comprobante>

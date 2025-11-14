@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="3.3" Fecha="2020-09-23T14:19:48" NoCertificado="00001000000404940273" Certificado="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" Moneda="MXN" TipoDeComprobante="I" LugarExpedicion="90102" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd" FormaPago="03" SubTotal="218400.00" Total="218400.00" MetodoPago="PUE" Folio="6464" Sello="L1Biz3DLmUl+2scrnhOsq6zogo/SwrU6CUiS1HZMhx+SK/Wbzez8xQ9vKiL2duViiFxkPnez3ChRq5uWrFWk76ANetBvB0p110GblCcR3NPZ07RovYGLYMW1MDFaI1R+wXyDJfUp34fJHC++z6mqIzf1O8MM+uzjUIe1stsg+hjXW4SpErYD0A65TTKJtq6fLzMvjojev16eBz0J1Q7RWhX0/HlLO5HztY9Uqfp0HC7D2Yy3VIHGPL2wr2IfHz95E2oq8Un5sMo5cMKY7vRUCGSMxlS8DCq0V8ryccqZpY+sbji+2zguMY1xLb5rmQFZflJIriIgxpHYAZkXhLqmHQ==">
+	<cfdi:Emisor Rfc="SEC8811065K0" Nombre="SUPERACION EDUCATIVA Y CULTURA DE TLAXCALA, S.C." RegimenFiscal="603" />
+	<cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" UsoCFDI="G03" />
+	<cfdi:Conceptos>
+		<cfdi:Concepto ClaveProdServ="86132000" Cantidad="1" ClaveUnidad="ZZ" Unidad="Mutuamente definido" Descripcion="Servicios de educación y capacitación en administración" ValorUnitario="36400.00" Importe="36400.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado TipoFactor="Exento" Impuesto="002" Base="36400.00" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="86132000" Cantidad="1" ClaveUnidad="ZZ" Unidad="Mutuamente definido" Descripcion="Servicios de educación y capacitación en administración" ValorUnitario="36400.00" Importe="36400.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado TipoFactor="Exento" Impuesto="002" Base="36400.00" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="86132000" Cantidad="1" ClaveUnidad="ZZ" Unidad="Mutuamente definido" Descripcion="Servicios de educación y capacitación en administración" ValorUnitario="36400.00" Importe="36400.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado TipoFactor="Exento" Impuesto="002" Base="36400.00" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="86132000" Cantidad="1" ClaveUnidad="ZZ" Unidad="Mutuamente definido" Descripcion="Servicios de educación y capacitación en administración" ValorUnitario="36400.00" Importe="36400.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado TipoFactor="Exento" Impuesto="002" Base="36400.00" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="86132000" Cantidad="1" ClaveUnidad="ZZ" Unidad="Mutuamente definido" Descripcion="Servicios de educación y capacitación en administración" ValorUnitario="36400.00" Importe="36400.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado TipoFactor="Exento" Impuesto="002" Base="36400.00" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+		<cfdi:Concepto ClaveProdServ="86132000" Cantidad="1" ClaveUnidad="ZZ" Unidad="Mutuamente definido" Descripcion="Servicios de educación y capacitación en administración" ValorUnitario="36400.00" Importe="36400.00">
+			<cfdi:Impuestos>
+				<cfdi:Traslados>
+					<cfdi:Traslado TipoFactor="Exento" Impuesto="002" Base="36400.00" />
+				</cfdi:Traslados>
+			</cfdi:Impuestos>
+		</cfdi:Concepto>
+	</cfdi:Conceptos>
+	<cfdi:Complemento>
+		<tfd:TimbreFiscalDigital xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" RfcProvCertif="CCF1011111K9" SelloSAT="kBmZkvjxrMri4LEGDkv8/x4GUKa0+F5J0SeJVr/jaDxpXaD8QLjC5eZxv9y1MlysDsXNdkCzdKJrwcfLiDykP43yXacpH1KkmaYS4GoLRvlQmBnfz9e+zEmZvmdKwlxhGTZm3swTN56TCcLwkzfITim1qWf9QuyKyTLFHnAWDEDh8WdC6erOCQjaxXZRLwQda+EPKzh41OKU9xod9PQpIZ/GyLfBGleaWkcnXR0UXBAknyNYqY2GRw3Mk/1baSOG3Mk+YJB2yhV90l8SWEUbjnvSdOp8+bgg+mJ4B2WW2lY8QUafQN49WGpQOko3Po6INGKxdbSp82LdkgdI7SbpEg==" NoCertificadoSAT="00001000000407404815" FechaTimbrado="2020-09-23T14:22:06" UUID="9A84BD5C-FD51-4C7B-A7E0-AE550ACDD9DA" SelloCFD="L1Biz3DLmUl+2scrnhOsq6zogo/SwrU6CUiS1HZMhx+SK/Wbzez8xQ9vKiL2duViiFxkPnez3ChRq5uWrFWk76ANetBvB0p110GblCcR3NPZ07RovYGLYMW1MDFaI1R+wXyDJfUp34fJHC++z6mqIzf1O8MM+uzjUIe1stsg+hjXW4SpErYD0A65TTKJtq6fLzMvjojev16eBz0J1Q7RWhX0/HlLO5HztY9Uqfp0HC7D2Yy3VIHGPL2wr2IfHz95E2oq8Un5sMo5cMKY7vRUCGSMxlS8DCq0V8ryccqZpY+sbji+2zguMY1xLb5rmQFZflJIriIgxpHYAZkXhLqmHQ==" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" />
+	</cfdi:Complemento>
+</cfdi:Comprobante>

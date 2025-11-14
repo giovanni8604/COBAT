@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" Exportacion="01" Fecha="2025-06-11T08:57:10" Folio="000006796" FormaPago="99" LugarExpedicion="72410" MetodoPago="PPD" Moneda="MXN" NoCertificado="00001000000508310221" Sello="aUlBwKMKC+WRMiV38sNTifEOcO1MeFA6ey8mqp18wECwOw5fT3g3AqpRS9/rBygZuXe/UYiVn/TG+IWwvFSCEuWfTU0MgXFBMg1O14MmnPPKujNdDc+GwlBphnfps6A7FneNMaubG2t6h9mUP6+NkDjniRnPIeZSjIQRyzTh+lBYB+4LJtj2OSwnKS2iHftGS7whygc1ppG/o0z4LfYsPsE8teuW3+zfBjL4bNDQvZytTB3lZJDWGUHQCmSUjL5J7dIgbkkPC2RJzgS1nYA1zVEpuZXe7F98p6fdtauD9fPTnp3HhPQCfI9uyNFiy8O6j4AOIyKgvdRUe1xuHoAkcg==" Serie="CFEA" SubTotal="237987.37" TipoCambio="1" TipoDeComprobante="I" Total="276021.00" Version="4.0" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd">
+      
+  <cfdi:Emisor Nombre="COMISION FEDERAL DE ELECTRICIDAD" RegimenFiscal="603" Rfc="CFE370814QI0" />
+      
+  <cfdi:Receptor DomicilioFiscalReceptor="90000" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" RegimenFiscalReceptor="603" Rfc="CBE810805ER1" UsoCFDI="G03" />
+      
+  <cfdi:Conceptos>
+            
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="83101800" ClaveUnidad="E48" Descripcion="CONSUMO DE ENERGIA ELECTRICA SUMINISTRADA EN SUS INSTALACIONES DURANTE MAYO de 2025" Importe="237710.17" ObjetoImp="02" ValorUnitario="237710.17">
+                  
+      <cfdi:Impuestos>
+                        
+        <cfdi:Traslados>
+                              
+          <cfdi:Traslado Base="237710.17" Importe="38033.63" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                          
+        </cfdi:Traslados>
+                    
+      </cfdi:Impuestos>
+              
+    </cfdi:Concepto>
+            
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="80121607" ClaveUnidad="E48" Descripcion="DAP" Importe="277.20" ObjetoImp="01" ValorUnitario="277.20">
+                  
+      <cfdi:ACuentaTerceros DomicilioFiscalACuentaTerceros="90000" NombreACuentaTerceros="MUNICIPIO DE TLAXCALA TLAX" RegimenFiscalACuentaTerceros="603" RfcACuentaTerceros="MTT650101LR8" />
+              
+    </cfdi:Concepto>
+        
+  </cfdi:Conceptos>
+      
+  <cfdi:Impuestos TotalImpuestosTrasladados="38033.63">
+            
+    <cfdi:Traslados>
+                  
+      <cfdi:Traslado Base="237710.17" Importe="38033.63" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+              
+    </cfdi:Traslados>
+        
+  </cfdi:Impuestos>
+      
+
+  <cfdi:Complemento>
+        
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2025-06-11T09:02:10" NoCertificadoSAT="00001000000700926429" RfcProvCertif="FAC100625MC0" SelloCFD="aUlBwKMKC+WRMiV38sNTifEOcO1MeFA6ey8mqp18wECwOw5fT3g3AqpRS9/rBygZuXe/UYiVn/TG+IWwvFSCEuWfTU0MgXFBMg1O14MmnPPKujNdDc+GwlBphnfps6A7FneNMaubG2t6h9mUP6+NkDjniRnPIeZSjIQRyzTh+lBYB+4LJtj2OSwnKS2iHftGS7whygc1ppG/o0z4LfYsPsE8teuW3+zfBjL4bNDQvZytTB3lZJDWGUHQCmSUjL5J7dIgbkkPC2RJzgS1nYA1zVEpuZXe7F98p6fdtauD9fPTnp3HhPQCfI9uyNFiy8O6j4AOIyKgvdRUe1xuHoAkcg==" SelloSAT="alOgozJKT1Q0hnBYBooviLyuXvcMfbfm6zHXgOah7ytm/dKuWF8rPNvRfvHjFIE42N7iQru/rvHYQS5JRhG8ESbbzjj79PgP8JP7Ogf97z2aNTIiWl/jCJ6jKV+yp/Xx1fMfs1zYEeFKUJd57WZRv9l5qf//bPnggz+MSXabZyw7JLdbjtLDZZxMVlvMPyT5Dsc/wZ5DnZ52FT4ofUDkl59tHW+FM22VRtIuWIXTaKu8sTy/ANd6fs7pj544R4yjeqUCtEojr6vqgULcnF3Iu68hBLEAk/0hW9Icoz3avE0yph312NZ6ghih/nBmO3OrNzBOOTXve1ptUwG8As7Xdw==" UUID="CE139C6A-C5CA-4F1B-8ECC-C4B12743E722" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" />
+      
+  </cfdi:Complemento>
+    
+
+</cfdi:Comprobante>

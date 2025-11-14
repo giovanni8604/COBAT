@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" Version="4.0" Serie="A" Folio="10058" Fecha="2024-06-06T11:44:12" Sello="WmvnyicSvQ+XCRBVPKg5S4u+Muefgm0zkO6a0a9KqsNQwX72QiPt5VxC//hDmN4Uw8CPYGgDUamkcW1MG4QBiXnQMcZK/B+0C0MmPxlwwC55f8tsZvR48EDgNpL0HnOScrPAe0vq8AYOqK+gQMEEMLvhPpIoZNWwoi/Jfn5D0NUDXOHR3jZPAASVtpnciatLxgTw7B4+dahTefTP2M2UEyNL6QroCt1cwgbiAy4fUok95D2qRR330L22X5ICkynEBYSaBrTIasrSWS9aErst2ryvBLYE56vPYf8nQNQXKA0pt/q5WshqLFgONNwsfyYsFevS5zCm0155AzNT/76L8Q==" FormaPago="99" NoCertificado="00001000000506138413" Certificado="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" SubTotal="13317.00" Moneda="MXN" Total="15447.72" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="90830">
+  <cfdi:Emisor Rfc="FOFF7310037D5" Nombre="FRANCISCO FLORES FLORES" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="25172004" NoIdentificacion="37373" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="AMORTIGUADORES TRASEROS PARA VEHICULO TOYOTA HIACE AÑO 2014 (MARCA MONROE DE GARGA)" ValorUnitario="966.00" Importe="1932.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1932.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="309.12" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25171708" NoIdentificacion="SHD8455ZD1344" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BALATAS DELANTERAS PARA  VEHICULO TOYOTA HIACE AÑO 2014" ValorUnitario="647.00" Importe="647.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="647.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="103.52" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25171712" NoIdentificacion="OW2W61WZVFT0" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="BALATAS TRASERAS PARA VEHICULO TOYOTA HIACE 2014" ValorUnitario="750.00" Importe="750.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="750.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="120.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="01010101" NoIdentificacion="7989" Cantidad="4" ClaveUnidad="H87" Unidad="PZA" Descripcion="BUJES DE HORQUILLA SUPERIOR AMBOS LADOS TOYOTA HIACE AÑO 2014." ValorUnitario="414.00" Importe="1656.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1656.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="264.96" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172004" NoIdentificacion="37372" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="AMORTIGUADORES DELANTEROS TOYOTA HIACE AÑO 2014 (MARCA MONROE DE CARGA)" ValorUnitario="2035.00" Importe="2035.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2035.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="325.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172000" NoIdentificacion="1416015" Cantidad="4" ClaveUnidad="H87" Unidad="PZA" Descripcion="BUJES DE HORQUILLA SUPERIOR AMBOS LADOS NISSAN NP300AÑO 2015" ValorUnitario="238.00" Importe="952.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="952.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="152.32" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172000" NoIdentificacion="2116029" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="TORNILLOS  ESTABILIZADORES AMBOS LADOS NISSAN NP300 AÑO 2015" ValorUnitario="104.00" Importe="208.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="208.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172004" NoIdentificacion="34968" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="AMORTIGUADORES DELANTEROS NISSAN NP300 AÑO 2015 (MARCA MONROE DE CARGA)" ValorUnitario="1363.00" Importe="1363.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1363.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="218.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172004" NoIdentificacion="34968" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="AMORTIGUADORES DELANTEROS NISSAN NP300 AÑO 2015 (MARCA MONROE DE CARGA)" ValorUnitario="1363.00" Importe="1363.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1363.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="218.08" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25172900" NoIdentificacion=" 1034 1141" Cantidad="2" ClaveUnidad="H87" Unidad="PZA" Descripcion="FOCOS PARA CALAVERAS SURTIDOS ( 1 POLO, 2 POLOS,POLOS PAREJOS Y DISPAREJOS)" ValorUnitario="104.00" Importe="208.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="208.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="33.28" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25171502" NoIdentificacion="SV1823P004916" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="PLUMAS LIPIA PARABRISAS PARA VEHICULO FORD F-150 AÑO 2008" ValorUnitario="337.00" Importe="337.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="337.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="53.92" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25171502" NoIdentificacion="SV1823P004910" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="PLUMAS LIPIA PARABRISAS PARA FORD  RANGER AÑO 2007" ValorUnitario="354.00" Importe="354.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="354.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="56.64" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="25171502" NoIdentificacion="SV1823P004918" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="PLUMAS LIMPIA PARABRISAS PARA CHEVROLET SILVERADO AÑO 2003" ValorUnitario="414.00" Importe="414.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="414.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="66.24" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40161505" NoIdentificacion="GA410" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="FILTRO AIRE PARA VEHICULO TOYOTA HIACEN AÑO 2014" ValorUnitario="302.00" Importe="302.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="302.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="48.32" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40161513" NoIdentificacion="GG103" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="FILTRO DE GASOLINA PARA VEHICULO TOYOTA HIACE AÑO 2014" ValorUnitario="457.00" Importe="457.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="457.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="73.12" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40161513" NoIdentificacion="GG137" Cantidad="1" ClaveUnidad="H87" Unidad="PZA" Descripcion="FILTRO DE GASOLINA PARA VEHICULO NISSAN NP300 AÑO 2015" ValorUnitario="95.00" Importe="95.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="95.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="15.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26101732" NoIdentificacion="BKR5EGP" Cantidad="4" ClaveUnidad="H87" Unidad="PZA" Descripcion="BUJIAS PARA VEHICULO NISSAN NP300 AÑO 2015" ValorUnitario="61.00" Importe="244.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="244.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39.04" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="2130.72">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="13317.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2130.72" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1.1" UUID="6DABAEA0-DDFE-B740-80D5-481E9A411253" FechaTimbrado="2024-06-06T11:44:40" RfcProvCertif="SCD110105654" SelloCFD="WmvnyicSvQ+XCRBVPKg5S4u+Muefgm0zkO6a0a9KqsNQwX72QiPt5VxC//hDmN4Uw8CPYGgDUamkcW1MG4QBiXnQMcZK/B+0C0MmPxlwwC55f8tsZvR48EDgNpL0HnOScrPAe0vq8AYOqK+gQMEEMLvhPpIoZNWwoi/Jfn5D0NUDXOHR3jZPAASVtpnciatLxgTw7B4+dahTefTP2M2UEyNL6QroCt1cwgbiAy4fUok95D2qRR330L22X5ICkynEBYSaBrTIasrSWS9aErst2ryvBLYE56vPYf8nQNQXKA0pt/q5WshqLFgONNwsfyYsFevS5zCm0155AzNT/76L8Q==" NoCertificadoSAT="00001000000702501858" SelloSAT="E9r4gOacp+W0gWO6JKaOxd1pYHwANen/RPlgb0S7XaWctr/K9hPgIx9mg7FDOwVF0JX+9hmwMSbmTiQKgq42fVO5GOH2A9culf3zzRL5iRgIrRTBEMZt/2otkb/rO0y85/n38EdsqVjY8Y7m935o+9IHAfMOuVNL3km67+8IcYC8vaN/Z8wMc7w5gYP0SDM5EFgXnlYAq1yHRnL0TZZnYcv5avrPIx0/rzgTVLVVADf+XgyqIdUdy92Y7QbyjAh40z3NNY1Kaj5zUwWGdv3mKGkPMoRlaCQMcW4XIuLdn2qNpVWEb+MzDbTiaMrkzyMmYCoswE3DQL7SIMm4VAeGww==" />
+</cfdi:Complemento></cfdi:Comprobante>

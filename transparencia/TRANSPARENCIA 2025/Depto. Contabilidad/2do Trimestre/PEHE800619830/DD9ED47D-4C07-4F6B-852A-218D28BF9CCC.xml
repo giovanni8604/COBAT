@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Serie="THJ" Folio="32" Fecha="2025-06-15T19:46:00" Sello="dgVCDchCxlNUSYERI4fVzndtPB+I0uFpA3JsSXXEfXDp4O5wmKbymuZ4VxzjouYknyK+8iYv271c5KKK+/CdsVzjnIFdR1Jdc0E0MZFVmY5j5jol1EBPQr5g7K+dGMvhztkaveER14hbk1f428SviX7iv9pCok8fLY/0MmnX7b8m0TknI7zqT1BXpxzrLmp2ohP8hrysLqrgMfcTdu5cRhZJC+fk+Zh8aV+r2zw+eltLc7I2BPJfO5soC7UVIqOqitRfdC2I2lKrsBl38Qf5OtnexPEalVqrhWMC28c7PLC/PvNBDJy2Qs67ThqpYZnraA2vFptdsij+upxoTnZIDQ==" FormaPago="03" NoCertificado="00001000000716141268" Certificado="MIIGOzCCBCOgAwIBAgIUMDAwMDEwMDAwMDA3MTYxNDEyNjgwDQYJKoZIhvcNAQELBQAwggGVMTUwMwYDVQQDDCxBQyBERUwgU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEuMCwGA1UECgwlU0VSVklDSU8gREUgQURNSU5JU1RSQUNJT04gVFJJQlVUQVJJQTEaMBgGA1UECwwRU0FULUlFUyBBdXRob3JpdHkxMjAwBgkqhkiG9w0BCQEWI3NlcnZpY2lvc2FsY29udHJpYnV5ZW50ZUBzYXQuZ29iLm14MSYwJAYDVQQJDB1Bdi4gSGlkYWxnbyA3NywgQ29sLiBHdWVycmVybzEOMAwGA1UEEQwFMDYzMDAxCzAJBgNVBAYTAk1YMQ0wCwYDVQQIDARDRE1YMRMwEQYDVQQHDApDVUFVSFRFTU9DMRUwEwYDVQQtEwxTQVQ5NzA3MDFOTjMxXDBaBgkqhkiG9w0BCQITTXJlc3BvbnNhYmxlOiBBRE1JTklTVFJBQ0lPTiBDRU5UUkFMIERFIFNFUlZJQ0lPUyBUUklCVVRBUklPUyBBTCBDT05UUklCVVlFTlRFMB4XDTI1MDYwMjE1NDAxN1oXDTI5MDYwMjE1NDA1N1owgcYxHjAcBgNVBAMTFUVSSUNLIFBFUkVaIEhFUk5BTkRFWjEeMBwGA1UEKRMVRVJJQ0sgUEVSRVogSEVSTkFOREVaMR4wHAYDVQQKExVFUklDSyBQRVJFWiBIRVJOQU5ERVoxCzAJBgNVBAYTAk1YMSIwIAYJKoZIhvcNAQkBFhNlcmlja3BoQGhvdG1haWwuY29tMRYwFAYDVQQtEw1QRUhFODAwNjE5ODMwMRswGQYDVQQFExJQRUhFODAwNjE5SFRMUlJSMDUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCx4uXC22hNTEHRRenJMxvIu2H/yY9Ft61XPGYAQg2hgkq3/c9Hq1krkWIzDS/qjhjQEFkChDOGSusoB4mYX0XZCw7lMAmUWeeAXizhwZz4tYUb2SjY1e6VQ5rQ3Z0kqa756ipFdWJHKRP/Nx880ZClrkQFsKVc8x8dkuL7+MwPIwSzqFqz/enRcRatb39Hrx5KNzwQ5GKRfAs408TcK+woULxbNsIh60xWiXCwuix1obt8vYuLEgzhOg4/RImTTF7cW2Jc4m7fvcQmzRol00Y2oEekULcHwnCEgetOMWdBS9DGD4qDyWwjpUJu+eIsR0BrApwAR6CF09zrEyMC2/YNAgMBAAGjTzBNMAwGA1UdEwEB/wQCMAAwCwYDVR0PBAQDAgPYMBEGCWCGSAGG+EIBAQQEAwIFoDAdBgNVHSUEFjAUBggrBgEFBQcDBAYIKwYBBQUHAwIwDQYJKoZIhvcNAQELBQADggIBAAVRp0eA+mFsQrp3BetyhH3Hc1w78YEfyHtDjAIGH3O6gM+HQxWp6dpGZEzPqi9P+qZh4GXjfqarkpbgrBL5ahoGpOZg2F5wU4uTudyYb62esarW6i6KRzX1W7EVq5zFaT7YwmLBYNSj/bOLtVGF1HvvY5s7q92wVn4wbKKzfYV38IjFPGSqpZC7a/Z4ucYQ6s72EE6A2IpsFjHEeh7nZaX0HAWn71ROuOuADOgwhoYDa70wffgOlsAbg2BQZDnG0+p9/Nl4XkxHpWRxTKbj9FzQk7tYWfP3jWt5N5/hvy/kJnys7v8FFKEVty3b9F+8S5u3EQqTNbMGS1iz+3j2khFK15ql770FqvHTx7S9LT/S+BR9AkY+uJg80Vu+aud2UlRpQnagqFqn2A/ON8p7Dh5IraGsdICe4h9ETH1tpOvvGMpVD56FenNGUingaBbYo6bqaB8NUSVTESDoT1dF7MuaKTuWn9XPAgxoAGROGIsQgdkrC1iNrYUKozEVHLsWkn1JyDogw+SD14mlTiuGVy96xrfNza3qGWzoM0gFP3u9VH6GQ1P238A94kDVe3sN56GZB39T2owjADqWE2HA30Yl6KqdIFF2ll+c3nJAbUJzQFRKCa1Ogy6sCdFGnoPllm8s2yUwFYmOuaHPsFyWGqVz1nid4cjDhnB6fz6sn4cA" SubTotal="3288.88" Moneda="MXN" Total="3815.10" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90100" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="PEHE800619830" Nombre="ERICK PEREZ HERNANDEZ" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="14111801" Cantidad="208.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Boletos dia de la mama (STAICOBAT)" ValorUnitario="1.82" Importe="378.560000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="378.560000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="60.569600" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111801" Cantidad="208.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Pase personal dia de la mama (STAICOBAT)" ValorUnitario="1.40" Importe="291.200000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="291.200000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="46.592000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111801" Cantidad="666.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Boletos dia del maestro (STACOBAT)" ValorUnitario="1.82" Importe="1212.120000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1212.120000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="193.939200" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111801" Cantidad="666.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Pase personal dia del maestro (STACOBAT)" ValorUnitario="1.40" Importe="932.400000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="932.400000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="149.184000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="14111801" Cantidad="339.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="Pase personal dia de la mama (STACOBAT)" ValorUnitario="1.40" Importe="474.600000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="474.600000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="75.936000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="526.22">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="3288.88" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="526.22" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="DD9ED47D-4C07-4F6B-852A-218D28BF9CCC" FechaTimbrado="2025-06-15T19:46:36" RfcProvCertif="SAT970701NN3" SelloCFD="dgVCDchCxlNUSYERI4fVzndtPB+I0uFpA3JsSXXEfXDp4O5wmKbymuZ4VxzjouYknyK+8iYv271c5KKK+/CdsVzjnIFdR1Jdc0E0MZFVmY5j5jol1EBPQr5g7K+dGMvhztkaveER14hbk1f428SviX7iv9pCok8fLY/0MmnX7b8m0TknI7zqT1BXpxzrLmp2ohP8hrysLqrgMfcTdu5cRhZJC+fk+Zh8aV+r2zw+eltLc7I2BPJfO5soC7UVIqOqitRfdC2I2lKrsBl38Qf5OtnexPEalVqrhWMC28c7PLC/PvNBDJy2Qs67ThqpYZnraA2vFptdsij+upxoTnZIDQ==" NoCertificadoSAT="00001000000705250068" SelloSAT="YvstW7w76hr+RjE1vaIzMxERhHpMMupQQcpNVjCZfEhu5Ilw/M5exFmiO8AjY+AkYlL5QNsi1kh1fMFtGlOchfY7pcHhj9MTbf47mTZdO+m6/SlzkjG5RaNlYn+1HP9E3EyhuzpBtG+6mfUIpOUqIolXKwFfPGGcFKbjP7TgKLNHk3NWSRUKLAZmARIoSthNmEVziKBOi+r4SZdtd5boCCMnZa52OdgM82QHyVM/Zo+YsB/1Z7CIweJZWFF/WWgtbQcmBPo5+gXNNIIX1d7Ecd042QaD6yKA3DFdg0fC99F3WgT1WDCE4Wuv1PGnjxIcA+z6BywMHm2/EniqwebldQ==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

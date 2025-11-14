@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2024-06-05T08:00:23" Sello="GgYwQdge+VW/OZwWEv3lbkFPYlsbl3xVDpLubxC8PL/x8mdMQhLTqaXBS/i0XXEVuzFC+WUmq/p7U5KK0+FhiN7oWo6KfffydVNs/lrNfNxplUmtpaGDTnKELhTsEpGlw6EkPkqH4hYy6+gRR1X39rhwQN8iVLcMxGfnju2uJKk1IUxxGksF8/MZdCgJzmiRJBOdThxGA4IMYY3Q3XfT/ZOHtJ2XmA0BpBh2+45nME3iYBGSFmWEZSApw8GaxOBConjpPU3Efzayvy/M13SUN49Ikf+oqy89EtC8S73RzMO7YYIvvvDjuqgJVaNg966M0hZz/UIbMOeJipkcpT6Sig==" FormaPago="99" NoCertificado="00001000000704366545" Certificado="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" SubTotal="5291.20" Moneda="MXN" Total="6137.79" TipoDeComprobante="I" Exportacion="01" MetodoPago="PPD" LugarExpedicion="90802" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:CfdiRelacionados TipoRelacion="04">
+    <cfdi:CfdiRelacionado UUID="E69043F9-4B8C-4747-A654-ACE45D1292DF" />
+  </cfdi:CfdiRelacionados>
+  <cfdi:Emisor Rfc="BAMA870726SW6" Nombre="ANTONIO BAUTISTA MORALES" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="47131604" Cantidad="2.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ESCOBA METALICA PARA JARDIN MCA. TRUPER" ValorUnitario="170.50" Importe="341.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="341.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="54.56" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112007" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TIJERA A UNA MANO DE ACERO MCA. TRUPER" ValorUnitario="217" Importe="217.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="217.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="34.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="21101803" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ASPERSOR BASE ALUMINIO TIPO SAPO MCA. TRUPER" ValorUnitario="170" Importe="170.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="170.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="27.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112007" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TIJERAS PARA PODAR FORJADA MCA. TRUPER" ValorUnitario="813.75" Importe="813.75" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="813.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="130.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27111907" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CEPILLO DE ALAMBRE DE 64 DIENTES MCA. TRUPER" ValorUnitario="69.75" Importe="69.75" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="69.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.16" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31191510" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PIEDRA PARA ASENTAR 200 MM DOBLE GRAMO MCA. TRUPER" ValorUnitario="139.50" Importe="139.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="139.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="22.32" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27111929" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LIMA PLANA BASTARDA 10 MCA. TRUPER" ValorUnitario="162.75" Importe="162.75" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="162.75" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="26.04" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112014" Cantidad="1.00" ClaveUnidad="XRO" Unidad="Rollo" Descripcion="HILO PARA DESBROZAR DE 2.4 MM X 12 M ESPRERT MCA. TRUPER" ValorUnitario="74.40" Importe="74.40" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="74.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="11.90" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27111503" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CUCHILLO ABATIBLE 7 MCA. TRUPER" ValorUnitario="248.00" Importe="248.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="248.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="39.68" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31162800" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CONECTORES RAPIDOS PARA COMPRENSORA MCA. TRUPER" ValorUnitario="310.00" Importe="310.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="310.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="49.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112000" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BIELDO PARA JARDIN MCA. TRUPER" ValorUnitario="550.25" Importe="550.25" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="550.25" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="88.04" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112019" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="SERRUCHO DE PODA MCA. TRUPER" ValorUnitario="232.50" Importe="232.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="232.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="37.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27111929" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LIMA PLANA MUZA 6 MCA. TRUPER" ValorUnitario="79.05" Importe="79.05" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="79.05" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="12.65" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27111929" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="LIMA PLANA BASTARDA 6 MCA. TRUPER" ValorUnitario="155.00" Importe="155.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="155.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="24.80" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40142000" Cantidad="1.00" ClaveUnidad="XRO" Unidad="Rollo" Descripcion="MANGUERA REFORZADA DE 30 MTS MCA. TRUPER" ValorUnitario="651.00" Importe="651.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="651.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="104.16" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="21101803" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ASPERSOR PLASTICO 11 DOS CONEXIONES EN SERIE MCA. TRUPER" ValorUnitario="240.25" Importe="240.25" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="240.25" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="38.44" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="21101803" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="ASPERSOR PLASTICO 11 UNA VIA MCA. TRUPER" ValorUnitario="186.00" Importe="186.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="186.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29.76" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="27112014" Cantidad="1.00" ClaveUnidad="AB" Unidad="Paquete a granel" Descripcion="HILO PARA DESBROZADORA DE USO RUDO MCA. TRUPER" ValorUnitario="651.00" Importe="651.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="651.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="104.16" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="846.59">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="5291.20" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="846.59" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="CE01CABA-E788-4F4B-889D-FE29A13F80ED" FechaTimbrado="2024-06-05T08:01:14" RfcProvCertif="SAT970701NN3" SelloCFD="GgYwQdge+VW/OZwWEv3lbkFPYlsbl3xVDpLubxC8PL/x8mdMQhLTqaXBS/i0XXEVuzFC+WUmq/p7U5KK0+FhiN7oWo6KfffydVNs/lrNfNxplUmtpaGDTnKELhTsEpGlw6EkPkqH4hYy6+gRR1X39rhwQN8iVLcMxGfnju2uJKk1IUxxGksF8/MZdCgJzmiRJBOdThxGA4IMYY3Q3XfT/ZOHtJ2XmA0BpBh2+45nME3iYBGSFmWEZSApw8GaxOBConjpPU3Efzayvy/M13SUN49Ikf+oqy89EtC8S73RzMO7YYIvvvDjuqgJVaNg966M0hZz/UIbMOeJipkcpT6Sig==" NoCertificadoSAT="00001000000705250068" SelloSAT="gI8fJcMVodXxmbjIYssQzBEbkvt+nOsmFHtMW6Nxppe73aYXV+4JxmJlx09OHtYqf/2gqHtG633H22/AIQ39TFSqIH8ilbQZmrOU0FnCRmSG7FV6S5qg3o1IDf0AN4JOLQ2JdRjl5ZuHWvNRce6c/CU50oHriSDnTwpWU+W1UYPTqjDAeu4kgbHzGxX7BOIJKMSYu6Ew7IJMZm0ytK0Zl6A0t5QDYEg48BELXhlLxkjSbuKtuPRtt0oIhRMMl4kTxtLkc3FJcXrTvUdZiNQTHLW9FlyBAM3x/T17Ejeh54PUslkEhfh/XlulAHYk9tMFQONhs545mp4+2T5O9RWLUQ==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

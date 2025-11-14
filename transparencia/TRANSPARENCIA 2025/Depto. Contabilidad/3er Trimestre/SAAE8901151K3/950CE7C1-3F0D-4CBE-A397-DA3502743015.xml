@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2025-07-18T14:54:27" Sello="f9hmA6jgay9BVS+vAZAnx4J3e6+pYnc8ecVWUKHmh55NJfXiT4NVbNzQ2/wTMZKM/Ke8c6BaM67kXRii6rmWrjjWRl70thCQr5I8timSEnQPHll2pmRVVVUoHrXpm1Tv4WWnosDuEA8g89KKl/MTtFhBJSuJscLXg0XqTfn5HJasUjAXgbY92AFS7pkkgDfUar4hn8s45LuB/5GLSryNzTOQOIlIKS4LUMmLWk5aE7f/s51jQ6FTk6cKgMCL+gEZ4qaTSp7zNEeXr4XhIl8uGes/8uWOX2D9SrHbqq75/rj3mBuqaDR0EsDQQXtoMizxrDGQdPPqu6EQrifRLypJAw==" FormaPago="03" NoCertificado="00001000000704521617" Certificado="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" SubTotal="4480.00" Moneda="MXN" Total="5196.80" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90830" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="SAAE8901151K3" Nombre="EFREN IVAN SANDOVAL ANGULO" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="47121800" Cantidad="30" ClaveUnidad="H87" Unidad="Pieza" Descripcion="BICLORO EN POLVO DE 582 G" ValorUnitario="72" Importe="2160.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="2160.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="345.600000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="47121800" Cantidad="40" ClaveUnidad="H87" Unidad="Pieza" Descripcion="GUANTES LATEX No.8" ValorUnitario="29" Importe="1160.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1160.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="185.600000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="47121800" Cantidad="40" ClaveUnidad="H87" Unidad="Pieza" Descripcion="GUANTES LATEX No.9" ValorUnitario="29" Importe="1160.000000" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1160.000000" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="185.600000" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="716.80">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="4480.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="716.80" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="950CE7C1-3F0D-4CBE-A397-DA3502743015" FechaTimbrado="2025-07-18T14:54:38" RfcProvCertif="SAT970701NN3" SelloCFD="f9hmA6jgay9BVS+vAZAnx4J3e6+pYnc8ecVWUKHmh55NJfXiT4NVbNzQ2/wTMZKM/Ke8c6BaM67kXRii6rmWrjjWRl70thCQr5I8timSEnQPHll2pmRVVVUoHrXpm1Tv4WWnosDuEA8g89KKl/MTtFhBJSuJscLXg0XqTfn5HJasUjAXgbY92AFS7pkkgDfUar4hn8s45LuB/5GLSryNzTOQOIlIKS4LUMmLWk5aE7f/s51jQ6FTk6cKgMCL+gEZ4qaTSp7zNEeXr4XhIl8uGes/8uWOX2D9SrHbqq75/rj3mBuqaDR0EsDQQXtoMizxrDGQdPPqu6EQrifRLypJAw==" NoCertificadoSAT="00001000000705250068" SelloSAT="Bowda/AwtMvM2czfGI4LP0VRDZsvmnWVi3W5UG8Jymq4pIDt2ThZMghWcOl2s50lHu0Mo7Mq85+PCPZnHmziHEupV8ML2J/nOzENZNRjoKn8cxtyThdwxL98c64SBKBlCJJZ1l4Zf6v3yhCkNjQvKJxCgXG7geQ1zXxa/uiPDYmjGLGu/7Vsn3SUsgUI5nbULbp2JhfPp8nO4D1q1JOt7HxzsY9sw9j5h5UvX+xI7+97m6gtkwmdyVzLXqqcdRf933NuO0N+N4h1aAyjw08qc4iJuajIxzKuIrMTTERt62zbafO3ZYiE+ueN6WWtU94vkl+N5xcZ4fidwSUPbk6OdA==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2022-07-27T14:10:08" Sello="qzVtUxVGvi3MZp1SbjdTFp8TXKepfpcxflgb30TjGZcCxYhClr3lQ+AFnBixH6yZq61CDA0nXPO2J4sNLyqiyp2pOc2EYX5hYqILU7WdeXvCH3h7Nxdap8JmF2Rr/e1qEh5Lp87lKYALFbt1/eFVG/JJhX1MehDx2SedQEfj5AdeeCWGDOnYV/yaS/727ZKos3u9eCY0vZorfyFItisv9AY9dhNmVtM4wdQ19TpdYA+AdeZRqvu37ZyWRJWgdOjZkoAdT9Eax0tguH4CG/qQbhKARQ5s1tbGzn0FWLBcXPyypIO4DLEpTrCq31GiTX7bsX4Rkm7M0F0eJwbN50zQPg==" FormaPago="03" NoCertificado="00001000000507410324" Certificado="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" SubTotal="176916.33" Moneda="MXN" Total="205222.94" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90800" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="SUSI920908IQ1" Nombre="IRERY YURITZI SUAREZ SANCHEZ" RegimenFiscal="621" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="24131501" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="REFRIGERADOR 11 PIES CON DESPACHADOR DE AGUA COLOR PLATEADO. SAMSUNG" ValorUnitario="12285.40" Importe="12285.40" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="12285.40" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1965.66" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52161500" Cantidad="5.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TV ROKU TV 43 PULGADAS FULL HD SMART TV LED 43A4GR. HISENSE" ValorUnitario="6200.40" Importe="31002.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31002.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="4960.32" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52161500" Cantidad="5.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TV 50 PULGADAS 4K ULTRA HD SMART TV LED SI50URF. JVC" ValorUnitario="8899" Importe="44495.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="44495.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="7119.20" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="40101843" Cantidad="3.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="HORNO ELÉCTRICO 18 LITROS ROJO. OSTER" ValorUnitario="1849" Importe="5547.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5547.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="887.52" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="54111500" Cantidad="5.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="PULSERA INTELIGENTE BAND 6. HUAWEI" ValorUnitario="1298.70" Importe="6493.50" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6493.50" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1038.96" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="54111500" Cantidad="8.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="RELOJ INTELIGENTE PARA TELÉFONOS ANDROID E IOS RELOJES INTELIGENTES PODÓMETRO. SUNNIMIX" ValorUnitario="599.00" Importe="4792.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="4792.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="766.72" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52121502" Cantidad="15.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="EDREDÓN NOVO DOS VISTAS" ValorUnitario="625.60" Importe="9384.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9384.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1501.44" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52121502" Cantidad="15.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="DEEP ROSE EDREDÓN NOVO 2 VISTAS" ValorUnitario="625.60" Importe="9384.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="9384.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1501.44" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52121502" Cantidad="15.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="MILÁN EDREDÓN NOVO 2 VISTAS" ValorUnitario="675" Importe="10125.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="10125.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="1620.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52141501" Cantidad="4.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FRIGOBAR RR16D6ABX 1.6 PIES CÚBICOS COLOR NEGRO" ValorUnitario="3715.14" Importe="14860.56" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="14860.56" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2377.69" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52141526" Cantidad="5.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CAFETERA ESPRESSO 3.5 BARES DE PRESIÓN. T-FAL" ValorUnitario="1027.43" Importe="5137.15" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5137.15" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="821.94" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52141526" Cantidad="10.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CAFETERA PROCTOR SILEX 10 TAZAS 48351 NEGRA PROCTOR SILEX 48351" ValorUnitario="508.20" Importe="5082.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="5082.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="813.12" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="52141516" Cantidad="8.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="FREIDORA DE AIRE DIGITAL GOURMIA 5.67 LITROS NEGRA" ValorUnitario="2291.09" Importe="18328.72" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="18328.72" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="2932.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="28306.61">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="176916.33" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="28306.61" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="D8567E09-DE12-4F57-8290-C5CC4CEA380B" FechaTimbrado="2022-07-27T14:12:02" RfcProvCertif="SAT970701NN3" SelloCFD="qzVtUxVGvi3MZp1SbjdTFp8TXKepfpcxflgb30TjGZcCxYhClr3lQ+AFnBixH6yZq61CDA0nXPO2J4sNLyqiyp2pOc2EYX5hYqILU7WdeXvCH3h7Nxdap8JmF2Rr/e1qEh5Lp87lKYALFbt1/eFVG/JJhX1MehDx2SedQEfj5AdeeCWGDOnYV/yaS/727ZKos3u9eCY0vZorfyFItisv9AY9dhNmVtM4wdQ19TpdYA+AdeZRqvu37ZyWRJWgdOjZkoAdT9Eax0tguH4CG/qQbhKARQ5s1tbGzn0FWLBcXPyypIO4DLEpTrCq31GiTX7bsX4Rkm7M0F0eJwbN50zQPg==" NoCertificadoSAT="00001000000504465028" SelloSAT="iePYVaK1WdSSSHm4pgw/FYeRq74Umdpo182RlDPOzfCOrRrtXLcz+Sxe/wuRUiPjrFaR32FnzDOWbSr9bCCGJB2gVdcd0MQg0fJTQBNfg4b/4ptstPjrjzHJMysPSdXvWWx41CwUHDv/4YHvqC1jb740C56fvV9ARgu8/izMLY8tnA8sDaG3XvAS6GsWGKGwu7dgSbuy3tgB4n9Nmbtd9QlXI9hHdu6wDNhkt4dOdiBKwdiSLet4SYzwefnBIrWxXxDnZ9gkrt4+zXzFFgzwcZ8V2UO5oUf5nDK66hwqLt/hV0Upnze4CMpdsXJZo9U44SlXHUgJF2U0IoVOG/zzzQ==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>

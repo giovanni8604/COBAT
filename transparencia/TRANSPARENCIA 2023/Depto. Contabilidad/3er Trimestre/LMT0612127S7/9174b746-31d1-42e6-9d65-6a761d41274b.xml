@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Certificado="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" CondicionesDePago="CRÉDITO" Exportacion="01" Fecha="2023-07-27T13:08:35" Folio="1126" FormaPago="03" LugarExpedicion="90000" MetodoPago="PUE" Moneda="MXN" NoCertificado="00001000000504671144" Sello="bCGf5K5cZXHWFaq+G3Z5zmVWya9pUOA/nJ1goA/D1h52F6w0o1ON81l6VhFBo5Lf1fa/vkWxU1OCY+xHrtwVXzg6ceHTmxtpgyTgQ842Hm11Lz9Q8EL8v4sgFbisK5tRNjBhsmvU0I+p6IjXurk4BQGMKyfLYBJI/ngPnTaHdCFl1Ygkf0DXJO4l/Z4y2ilPwWh3o8BjMJNe5K7rYUBkvwb57pXzjiTo0XnlATNxkZBCs1uBb5BAkWVL00aFUNU3gX8qKW33w8vUikdYlicr196nXpap13fRRH6HDPdQKEX+WBjB+qoRXdDux4nRTx7jOfDke4KBxZIGD4W0/y1kqA==" Serie="AA" SubTotal="21606.00" TipoCambio="1" TipoDeComprobante="I" Total="24581.52" Version="4.0" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd ">
+    <cfdi:CfdiRelacionados TipoRelacion="04">
+        <cfdi:CfdiRelacionado UUID="ca032efc-ad3f-4f05-a0be-4fc54155ef27" />
+    </cfdi:CfdiRelacionados>
+    <cfdi:Emisor Nombre="&quot;LINEAS MUNDIALES TURISTICAS&quot;" RegimenFiscal="626" Rfc="LMT0612127S7" />
+    <cfdi:Receptor DomicilioFiscalReceptor="90000" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" RegimenFiscalReceptor="603" Rfc="CBE810805ER1" UsoCFDI="G03" />
+    <cfdi:Conceptos>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="90121502" ClaveUnidad="E48" Descripcion="TRANSPORTE AÉREO PARA 3 PERSONAS  DE CIUDAD DE MÉXICO A NAYARIT  (HORA Y FECHA: 12:00 PM  SALIDA EL 26 DE ABRIL DEL 2023)  REGRESO EL DIA 29 DE ABRIL DEL 2023  A LA CIUDAD DE MÉXICO  (HORA Y FECHA: 11:00 AM  EL DIA 29 DE ABRIL DEL 2023) " Importe="18597.0000" ObjetoImp="02" ValorUnitario="18597.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="18597.0000" Importe="2975.5200" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="90121502" ClaveUnidad="E48" Descripcion="TUA Tarifa Única Aeroportuaria" Importe="2841.0000" ObjetoImp="02" ValorUnitario="2841.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="2841.0000" Impuesto="002" TipoFactor="Exento" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+        <cfdi:Concepto Cantidad="1" ClaveProdServ="90121502" ClaveUnidad="E48" Descripcion="YRI Otros Cargos Aerolínea" Importe="168.0000" ObjetoImp="02" ValorUnitario="168.00">
+            <cfdi:Impuestos>
+                <cfdi:Traslados>
+                    <cfdi:Traslado Base="168.0000" Impuesto="002" TipoFactor="Exento" />
+                </cfdi:Traslados>
+            </cfdi:Impuestos>
+        </cfdi:Concepto>
+    </cfdi:Conceptos>
+    <cfdi:Impuestos TotalImpuestosTrasladados="2975.52">
+        <cfdi:Traslados>
+            <cfdi:Traslado Base="18597.00" Importe="2975.52" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+            <cfdi:Traslado Base="3009.00" Impuesto="002" TipoFactor="Exento" />
+        </cfdi:Traslados>
+    </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" FechaTimbrado="2023-07-27T13:08:36" NoCertificadoSAT="00001000000506403528" RfcProvCertif="CCC1007293K0" SelloCFD="bCGf5K5cZXHWFaq+G3Z5zmVWya9pUOA/nJ1goA/D1h52F6w0o1ON81l6VhFBo5Lf1fa/vkWxU1OCY+xHrtwVXzg6ceHTmxtpgyTgQ842Hm11Lz9Q8EL8v4sgFbisK5tRNjBhsmvU0I+p6IjXurk4BQGMKyfLYBJI/ngPnTaHdCFl1Ygkf0DXJO4l/Z4y2ilPwWh3o8BjMJNe5K7rYUBkvwb57pXzjiTo0XnlATNxkZBCs1uBb5BAkWVL00aFUNU3gX8qKW33w8vUikdYlicr196nXpap13fRRH6HDPdQKEX+WBjB+qoRXdDux4nRTx7jOfDke4KBxZIGD4W0/y1kqA==" SelloSAT="WcPqADQXlNgUDYZB01dDKGI+PvQN4gTG0JpcWEEA3xS2/iRpGP2FRXfJwog5CdyGozinzgr5juOgnKoy/VHdl7VZ6gKTYlqo/4T13ONeYIGNlm8i6dBEPDnwMARU1d5uynvkzEKcSxBKpjhE03KLq/NCxKN1JDhlhSwr05H7JsvOYU9krQFo4v5TjB3x9qRk+t+tiMxl7bdV4v1xiq5t8Xm36nU9jurb8MRDsa2qQGjsV9EV5Stz6gh0QSr3SUWAIo8VOgRt4s12zBhjUSQMRnYbtoUmQJohisLqybTz1eEPrZYiVEDpRBfCUyJRSUxv/hf2xYJm/Z/gfa5FjBXfIA==" UUID="9174b746-31d1-42e6-9d65-6a761d41274b" Version="1.1" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" /></cfdi:Complemento></cfdi:Comprobante>

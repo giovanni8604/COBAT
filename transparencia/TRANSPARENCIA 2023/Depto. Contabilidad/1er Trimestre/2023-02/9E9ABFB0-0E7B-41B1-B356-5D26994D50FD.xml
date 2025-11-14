@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Exportacion="01" Fecha="2023-02-09T13:31:03" Folio="90" FormaPago="03" LugarExpedicion="90000" MetodoPago="PUE" Moneda="MXN" Serie="BMYY" SubTotal="2801.73" TipoDeComprobante="I" Total="3250.01" Version="4.0" xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" NoCertificado="00001000000510435552" Sello="BmRZvAk6gSJTYILLfIWHZbUm7+sVPMk4X2aedGT+pZz0JetdIe4ExWpatGr/PXmUWvXQQlq9YJipvbNVxLoGaTDSk5pnKhCrk+Zi+HhytsExiQhAOnpO+K+l+wQOVL/lT0Mb+3+DS66nHDYESvHVLt5DnUDlsfYepMHtIEiYwQnDBMlsGgssmYIneR4RKWBvoG2D2XjD2LqE3LJ6l41bVs9q3dcx1hhwjsylMtIKj26mXyz2W2ByTPjFlgXjbdH68HUO+cprlj2Z1pWd2diJLpmi+MrNYzgJUf2MmzUg00h4adRg4j+GU0enyn2GtB0Jx92lt+tVaMwdXegbDmBARw==" Certificado="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">
+  <cfdi:Emisor Nombre="BRUNO FERNANDEZ AGUIRRE" RegimenFiscal="612" Rfc="FEAB680823QF9" />
+  <cfdi:Receptor DomicilioFiscalReceptor="90000" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" RegimenFiscalReceptor="603" Rfc="CBE810805ER1" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="27111515" ClaveUnidad="H87" Descripcion="TALADRO ROTO MARTILLO TRUPER CON ACCESORIOS" Importe="1159.482800" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="1159.482800">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="1159.482800" Importe="185.517248" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="27112800" ClaveUnidad="H87" Descripcion="BROCA 1/4&quot; PARA METAL" Importe="58.620700" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="58.620700">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="58.620700" Importe="9.379312" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2.00" ClaveProdServ="31211900" ClaveUnidad="H87" Descripcion="REPUESTO DE RODILLO PARA PINTAR" Importe="55.172600" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="27.586300">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="55.172600" Importe="8.827616" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2.00" ClaveProdServ="15111500" ClaveUnidad="H87" Descripcion="GAS BUTANO" Importe="112.069000" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="56.034500">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="112.069000" Importe="17.931040" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2.00" ClaveProdServ="40172812" ClaveUnidad="H87" Descripcion="CODO DE COBRE 3/4&quot; X 90" Importe="55.172600" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="27.586300">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="55.172600" Importe="8.827616" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="3.00" ClaveProdServ="39101803" ClaveUnidad="H87" Descripcion="BASE SOKET EN CONO DORADO" Importe="212.069100" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="70.689700">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="212.069100" Importe="33.931056" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="40141756" ClaveUnidad="H87" Descripcion="HERRAJE PARA WC 3&quot;" Importe="211.206900" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="211.206900">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="211.206900" Importe="33.793104" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="40141600" ClaveUnidad="H87" Descripcion="VALVULA ANGULAR NACOBRE 1/2&quot; ROSCABLE" Importe="81.896600" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="81.896600">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="81.896600" Importe="13.103456" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="40142000" ClaveUnidad="H87" Descripcion="MANGUERA PARA WC" Importe="49.138000" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="49.138000">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="49.138000" Importe="7.862080" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2.00" ClaveProdServ="27111701" ClaveUnidad="H87" Descripcion="DESARMADOR DE CRUZ  PRET" Importe="63.793200" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="31.896600">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="63.793200" Importe="10.206912" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2.00" ClaveProdServ="27111701" ClaveUnidad="H87" Descripcion="DESARAMADOR PLANO PRET" Importe="63.793200" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="31.896600">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="63.793200" Importe="10.206912" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="40141756" ClaveUnidad="H87" Descripcion="HERRAJE PARA WC 2&quot; COFLEX" Importe="181.034500" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="181.034500">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="181.034500" Importe="28.965520" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="40141600" ClaveUnidad="H87" Descripcion="VALVULA ANGULAR DE ARILLO NACOBRE 1/2&quot;" Importe="81.896600" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="81.896600">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="81.896600" Importe="13.103456" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="2.00" ClaveProdServ="31162800" ClaveUnidad="H87" Descripcion="GUIAS FLEXIBLES PLASTICAS DE 15 MTS TR" Importe="189.655200" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="94.827600">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="189.655200" Importe="30.344832" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="40172900" ClaveUnidad="H87" Descripcion="UNION EDOMEX 1/2&quot; PVC" Importe="15.517300" ObjetoImp="02" Unidad="PIEZA" ValorUnitario="15.517300">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15.517300" Importe="2.482768" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto Cantidad="1.00" ClaveProdServ="27111728" ClaveUnidad="XKI" Descripcion="JUEGO DE DESARMADOR DIFERENTES MEDIDAS" Importe="211.206900" ObjetoImp="02" Unidad="KIT" ValorUnitario="211.206900">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="211.206900" Importe="33.793104" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="448.28">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="2801.73" Importe="448.28" Impuesto="002" TasaOCuota="0.160000" TipoFactor="Tasa" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+<cfdi:Complemento><tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" FechaTimbrado="2023-02-09T13:59:10" SelloCFD="BmRZvAk6gSJTYILLfIWHZbUm7+sVPMk4X2aedGT+pZz0JetdIe4ExWpatGr/PXmUWvXQQlq9YJipvbNVxLoGaTDSk5pnKhCrk+Zi+HhytsExiQhAOnpO+K+l+wQOVL/lT0Mb+3+DS66nHDYESvHVLt5DnUDlsfYepMHtIEiYwQnDBMlsGgssmYIneR4RKWBvoG2D2XjD2LqE3LJ6l41bVs9q3dcx1hhwjsylMtIKj26mXyz2W2ByTPjFlgXjbdH68HUO+cprlj2Z1pWd2diJLpmi+MrNYzgJUf2MmzUg00h4adRg4j+GU0enyn2GtB0Jx92lt+tVaMwdXegbDmBARw==" RfcProvCertif="SAD110722MQA" UUID="9E9ABFB0-0E7B-41B1-B356-5D26994D50FD" NoCertificadoSAT="00001000000503727538" SelloSAT="erZu/SI08btDoX/S3rxmo9OWKx/sVnwKnVDTHX2emKesqW7ZF24MZ5UYgy5ewTbhzEnHYij0AevgxD6ehOFBrt1heSewP9R7a7k1/mzaP67qjzlfd9N9k/ygFmFIjGesVBhGUJeNGJjzV7bdqGMGh8r6ENmmv6cVodbmHtmT6w6y9OSdExmIQAFx6WKLv09gaYeMGA5RpW4c0o7veowwSGxPGCqP5kJGN9dtJRCwogg0Dg3yBMC8SHHxSH98wPLCreSI7HUbQV7L0DJFUxuJKELLx1ToFDUdqEs9nxq7X1ynwdC5Eei5g/YEtWKJl8XJ+48AVMe+CInplBAfpc/mWg==" /></cfdi:Complemento></cfdi:Comprobante>

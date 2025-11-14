@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xsi:schemaLocation="http://www.sat.gob.mx/cfd/4 http://www.sat.gob.mx/sitio_internet/cfd/4/cfdv40.xsd" Version="4.0" Fecha="2024-12-09T12:44:45" Sello="rOUJnsZe1owauMjMqMGSnesPRen5/NIFbdnVKFIlP/C7rCHdeI4WIJOWCqeySMdKsdhKzuw32IpQsybuaffkSXVhpHKbG3uvwmXBZDAPnERa91lMrP8G54yuTyMy6a/Waes7fo4eb7aFxMJw5cO/auuW+ozp3db/R+BBUa02Vmz4MW85S+SGjz7AzQCguouqVTKMGsnqeZoXv33V2NQMxdXQR7sgl2zmhfwqeSIx920QS2jZ1XOodKxBNCik6jO4+ejyqHCLFVViYkLMXQpZHUGm5rE4+iFfemSLa7UbXSv3H41Tr8RlKDGYsq5CDwsh8la4duDjS8SQX/LxIOy6sQ==" FormaPago="03" NoCertificado="00001000000707578300" Certificado="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" SubTotal="2665.00" Moneda="MXN" Total="3091.40" TipoDeComprobante="I" Exportacion="01" MetodoPago="PUE" LugarExpedicion="90820" xmlns:cfdi="http://www.sat.gob.mx/cfd/4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <cfdi:Emisor Rfc="ZEZM901214QV0" Nombre="MARIO ZECUA ZECUA" RegimenFiscal="612" />
+  <cfdi:Receptor Rfc="CBE810805ER1" Nombre="COLEGIO DE BACHILLERES DEL ESTADO DE TLAXCALA" DomicilioFiscalReceptor="90000" RegimenFiscalReceptor="603" UsoCFDI="G03" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="45121500" Cantidad="1.0" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CAMARA 5 MP/MICROFONO/PILICARBONATO" ValorUnitario="918" Importe="918.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="918.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="146.88" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="45121500" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CIERRE CONEXION /CAJA/TAPA/CORRIENTE/VIDEO" ValorUnitario="185" Importe="185.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="185.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="29.60" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26121539" Cantidad="80.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="CABLE UP /CAT 5E/100%COBRE/METRO" ValorUnitario="11.80" Importe="944.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="944.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="151.04" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="31162405" Cantidad="6.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="TENSOR PARA CABLE UTP" ValorUnitario="28" Importe="168.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="168.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="26.88" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="26121539" Cantidad="1.00" ClaveUnidad="H87" Unidad="Pieza" Descripcion="INSTALACION A CAMARA CCTV/CABLEADO SUPERFICIAL" ValorUnitario="450" Importe="450.00" ObjetoImp="02">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="450.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="72.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="426.40">
+    <cfdi:Traslados>
+      <cfdi:Traslado Base="2665.00" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.160000" Importe="426.40" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/TimbreFiscalDigital/TimbreFiscalDigitalv11.xsd" Version="1.1" UUID="E63854EB-7207-4AA7-82FA-B04CEEC72535" FechaTimbrado="2024-12-09T12:45:59" RfcProvCertif="SAT970701NN3" SelloCFD="rOUJnsZe1owauMjMqMGSnesPRen5/NIFbdnVKFIlP/C7rCHdeI4WIJOWCqeySMdKsdhKzuw32IpQsybuaffkSXVhpHKbG3uvwmXBZDAPnERa91lMrP8G54yuTyMy6a/Waes7fo4eb7aFxMJw5cO/auuW+ozp3db/R+BBUa02Vmz4MW85S+SGjz7AzQCguouqVTKMGsnqeZoXv33V2NQMxdXQR7sgl2zmhfwqeSIx920QS2jZ1XOodKxBNCik6jO4+ejyqHCLFVViYkLMXQpZHUGm5rE4+iFfemSLa7UbXSv3H41Tr8RlKDGYsq5CDwsh8la4duDjS8SQX/LxIOy6sQ==" NoCertificadoSAT="00001000000705250068" SelloSAT="PE+HpEsXuf+CJ1TBXVonn/SgCQgK+zRq1XE83J8unxpBmgcJBjtozhmZaZgyvOxxXuX6Qoix/zHRCSmZ7n7AdN6d6jMZ8Ud4kYP1Jxe4NuXZxilaY1fdEJHi3wIbtmGEjCpPd1NG9tgRTlQXnLZsT62VmEeJMkQh9JJi4Jcr+eBr6fVDe29foKotK9KrArBNJsRQ2P0qZCGEffXLvib6HDIi/xZGCY/Y0Ifhc6+lo5iukjaqxuvk5cE3njamU2j19pdyRNLdUdkgyEuhKDSMRysoIf2fJXGPCLpT8fcZu3NqcXxz/XCEiAf4TfFo30YSv1/jSzb0QgTsvBdhLlGWBg==" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
