@@ -1,0 +1,101 @@
+
+
+.div-titulo
+{
+  min-height: 75px;
+  width: 100%;
+  display: table;;
+  
+}
+
+
+.tiuloh1
+{
+  vertical-align: middle;
+  display: table-cell;
+  color: #981861;
+  font-size: 18px;
+  font-weight: 600;
+  padding-top: 15px;
+}
+
+
+
+.div-contenido
+{
+
+  min-height: 200px;
+  width: 100%;
+  display: table;;
+}
+
+.div-contenido p
+{
+  vertical-align: middle;
+  display: table-cell;
+}
+
+.sitio-interes a
+{
+  text-decoration: none;
+  color: #981861;
+}
+
+
+.sitio-interes i
+{
+    font-size: 45px;
+    color: #fff;
+}
+
+.sitio-interes i:hover
+{
+    color: #6facc6;
+    cursor: pointer;
+}
+
+.tabla-ipo
+{
+  border-spacing: 2px;
+  border-collapse: separate;
+  color: #556270;
+}
+.tabla-ipo a
+{
+  text-decoration: none;
+  color: #000;
+}
+.tabla-ipo a:hover
+{
+  cursor: pointer;
+  color: #FF6B6B;
+}
+
+.tabla-ipo td
+{
+  padding: 8px;
+}
+
+
+.ItemTyS li
+{
+    width: 100%;
+    margin: auto;
+    background: #D8D8D8;
+    margin-bottom: 20px;
+    padding: 10px;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    color: #556270;
+
+}
+
+
+.ItemTyS h1
+{
+  color: #ae0033;
+  font-size: 18px;
+  font-weight: 600;
+  padding-top: 15px;
+}
