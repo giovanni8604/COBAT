@@ -14,12 +14,12 @@ Swal.fire({
 	//text: '/COBAT/assets/images/slider/diseño Ediems.jpg',
 	//html: 'INSCRIBETE',
 	// icon:
-	confirmButtonText: '<a href="http://sise.cobatlaxcala.edu.mx/aspirantes/consultar-turno" target="_blank">AQUÍ</a>',
+	confirmButtonText: '<a href="assets/archivos/pdf/2026/convocatoria_ingreso_2026-2027.jpg" target="_blank">AQUÍ</a>',
 	// footer:
 	// width:
 	// padding:
 	// background:
-	grow: 'column',
+	grow: 'fullscreen',
 	// backdrop:
 	timer: '90000',
 	timerProgressBar: 'true',
@@ -64,7 +64,7 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: '/COBAT/assets/images/slider/resultados.jpg'
+	imageUrl: 'assets/images/slider/convocatoria_ingreso_2026-2027.jpg'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
