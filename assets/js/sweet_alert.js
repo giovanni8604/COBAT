@@ -1,28 +1,30 @@
-// Swal.fire({
-//     html: `<h1></h1>
-//     <p><strong></strong></p>
-//     <br>
-//     <a href="http://189.204.49.118/sistema.php" target="_blank">Clic Aquí</a>
-//     `,
-// 	imageUrl: '/COBAT/assets/images/img_actividades_cult_depor/Convocatoria Preinscripciones 2023.png',
-// });
-//<a href="/COBAT/assets/archivos/pdf/2023/TLAX_COBACH_23-24.pdf" target="_blank">Descargar PDF</a>
-
-// ORIGINAL
 Swal.fire({
+  title: '¡Haz clic en la imagen!',
+  html: `
+    <a href="https://sise.cobatlaxcala.edu.mx/sistema.php" style="display: block;">
+      <img src="assets/images/slider/registro de aspirantes.png" >
+    </a>
+  `,
+  timer: '5000',
+  showConfirmButton: false // Ocultamos el botón principal si solo quieres el clic en la imagen
+});
+
+//style="width: 100%; max-width: 1136px; border-radius: 8px;"
+// ORIGINAL
+	//Swal.fire({
 	// title:
-	//text: '/COBAT/assets/images/slider/diseño Ediems.jpg',
-	//html: 'INSCRIBETE',
+	//   text: '/COBAT/assets/images/slider/diseño Ediems.jpg',
+	//	html: 'INSCRIBETE',
 	// icon:
-	confirmButtonText: '<a href="assets/archivos/pdf/2026/convocatoria_ingreso_2026-2027.jpg" target="_blank">AQUÍ</a>',
+	//	confirmButtonText: '<a href="assets/archivos/pdf/2026/convocatoria_ingreso_2026-2027.jpg" target="_blank">AQUÍ</a>',
 	// footer:
 	// width:
 	// padding:
 	// background:
-	grow: 'fullscreen',
+	 //grow: 'fullscreen',
 	// backdrop:
-	timer: '90000',
-	timerProgressBar: 'true',
+	   //timer: '90000',
+	   //timerProgressBar: 'true',
 	// toast:
 	// position:
 	// allowOutsideClick: 'false',
@@ -64,8 +66,8 @@ Swal.fire({
 	// closeButtonAriaLabel:
 
 
-	imageUrl: 'assets/images/slider/convocatoria_ingreso_2026-2027.jpg'
+	 //imageUrl: 'assets/images/slider/registro de aspirantes.png'
 	// imageWidth:
 	// imageHeight:
 	// imageAlt:
-});
+//});
