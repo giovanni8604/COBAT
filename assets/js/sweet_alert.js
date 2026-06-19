@@ -5,7 +5,7 @@ Swal.fire({
       <img src="assets/images/slider/registro de aspirantes.png" >
     </a>
   `,
-  timer: '5000',
+  timer: '10000',
   showConfirmButton: false // Ocultamos el botón principal si solo quieres el clic en la imagen
 });
 
