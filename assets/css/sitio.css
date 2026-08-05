@@ -1,0 +1,1044 @@
+
+/* SEPARADOR DE MENU */
+@media (max-width: 992px)
+{
+    .nav-link-separador
+    {
+        display: none !important;
+    }
+
+    .Slogan
+    {
+
+        font-size: 23px !important;
+        margin: auto!important;
+    }
+    .SloganConocenos
+    {
+      font-size: 25px !important;
+    }
+
+    .SloganHeader
+    {
+        font-size: 20px !important;
+
+    }
+
+
+
+.notocia-item {
+    width: 50% !important;
+    margin-bottom: 30px;
+
+    padding-right: 2%;
+    padding-left: 2%;
+
+    /* ensuring proper layout*/
+    float: left;
+}
+
+
+#cobat-l
+{
+  display: inherit!important;
+  visibility: visible!important;
+}
+
+#cobat-img
+{
+  display: none!important;
+  visibility: hidden!important;
+}
+
+
+/*
+.targeta-construyete:hover .construyete-dim .hover-construyete
+{
+  visibility: hidden !important;
+
+}
+*/
+
+
+}
+
+
+
+#cobat-l
+{
+  color: #fff;
+  display: none;
+  visibility: hidden;
+}
+
+
+#cobat-img
+{
+  display: inherit
+  visibility: visible;
+}
+
+
+
+.mimenu
+{
+  font-size: 15px !important;
+  padding-top: 0px;
+  z-index: 50;
+  height: 60px;
+  width: 100%;
+  background: #921f26; 
+  color: #921f26;
+  text-align:center;
+  border-bottom: solid 10px #981861; /* 4d4d4d*/
+}
+
+
+
+.mifixed
+{
+  position:fixed; top:0;
+}
+
+
+
+.linkNoEstilo
+{
+    color: #921f26;
+    text-decoration: none !important;
+}
+
+
+.linkNoEstilo:hover
+{
+    color: #921f26;
+    text-decoration: none !important;
+}
+
+
+
+
+/* SALOGAN */
+
+.Slogan
+{
+    font-family: 'NothingYouCouldDo-Regular', cursive;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 30px;
+    color: #ccbc9c; /*ccbc9c*/
+    margin: auto;
+}
+
+.SloganConocenos
+{
+    font-family: 'NothingYouCouldDo-Regular', cursive;
+    display: table-cell;
+    width: 100%;
+    text-align: center;
+
+    vertical-align: middle;
+    font-size: 35px;
+    color: #fff;
+}
+.SloganHeader
+{
+    font-family: 'NothingYouCouldDo-Regular', cursive;
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 20px;
+    color: rgb(206, 27, 27);
+    z-index: 51;
+}
+
+
+/*RUTAS*/
+.rutas
+{
+    text-align: left  !important;
+    font-size: 11px;
+    margin-top: 12px;
+    color: #556270;
+
+}
+
+.rutas a
+{
+    text-decoration: none;
+    color: #ae0033;
+}
+
+.rutas a:hover
+{
+    color: #FF6B6B;
+}
+
+
+
+
+
+/* PAGINAS DE INTERES */
+
+
+
+.TargetaSitio {
+    max-width: 320px;
+    min-height: 400px;
+    margin: auto;
+    border-top: 5px solid #3a1f58; /* 696969*/
+    background: #fff; 
+    box-shadow: 5px 5px 5px #3a1f58; /* 696969*/
+    margin-bottom: 50px;
+}
+
+.TargetaSitio :hover
+{
+    cursor: pointer;
+    margin-bottom: 5px solid ; 
+}
+
+.TargetaSitioMedia {
+    margin: 0;
+}
+
+.TargetaSitioMedia > img {
+    max-width: 100%;
+}
+
+.TargetaSitioTitulo
+{
+    width: 100%;
+    text-align: center;
+
+    padding-top: 20px;
+}
+
+.TargetaSitioTituloText
+{
+    color: #3a1f58; 
+    font-size: 18px;
+}
+
+.TargetaSitioDescripcion
+{
+    color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    text-align: justify;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 125px;
+    overflow-y: auto;
+    line-height: 1.2; /* TAMAÑO DE LETRA */
+}
+
+
+
+
+
+
+
+
+/*HOVER SITIOS DE INTERES*/
+
+
+
+.view
+{
+   overflow: hidden;
+   position: relative;
+}
+
+.view .mask,.view .content {
+
+   position: absolute;
+   overflow: hidden;
+   top: 0;
+   left: 0;
+}
+
+
+
+/* NINTH EXAMPLE*/
+.view-ninth .mask-1, .view-ninth .mask-2 {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 450px;
+    width: 450px;
+    background: #ccbc9cb0;/*-------------- hover de director general, planteles y oferta educativa (index)   696969a9-----------*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+    filter: alpha(opacity=100);
+    opacity: 1;
+    -webkit-transition: all 0.4s ease-in-out 0.1s;
+    -moz-transition: all 0.4s ease-in-out 0.1s;
+    -o-transition: all 0.4s ease-in-out 0.1s;
+    transition: all 0.4s ease-in-out 0.1s;
+}
+.view-ninth .mask-1 {
+    left: auto;
+    right: 0;
+    -webkit-transform: rotate(56.5deg) translateX(-180px);
+    -moz-transform: rotate(56.5deg) translateX(-180px);
+    -o-transform: rotate(56.5deg) translateX(-180px);
+    -ms-transform: rotate(56.5deg) translateX(-180px);
+    transform: rotate(56.5deg) translateX(-180px);
+    -webkit-transform-origin: 100% 0%;
+    -moz-transform-origin: 100% 0%;
+    -o-transform-origin: 100% 0%;
+    -ms-transform-origin: 100% 0%;
+    transform-origin: 100% 0%;
+}
+.view-ninth .mask-2 {
+    top: auto;
+    bottom: 0;
+    -webkit-transform: rotate(56.5deg) translateX(180px);
+    -moz-transform: rotate(56.5deg) translateX(180px);
+    -o-transform: rotate(56.5deg) translateX(180px);
+    -ms-transform: rotate(56.5deg) translateX(180px);
+    transform: rotate(56.5deg) translateX(180px);
+    -webkit-transform-origin: 0% 100%;
+    -moz-transform-origin: 0% 100%;
+    -o-transform-origin: 0% 100%;
+    -ms-transform-origin: 0% 100%;
+    transform-origin: 0% 100%;
+}
+.view-ninth .content {
+    background: rgba(0, 0, 0, 0.9);
+    height: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+    width: 361px;
+    overflow: hidden;
+    -webkit-transform: rotate(-33.5deg) translate(-112px, 166px);
+    -moz-transform: rotate(-33.5deg) translate(-112px, 166px);
+    -o-transform: rotate(-33.5deg) translate(-112px, 166px);
+    -ms-transform: rotate(-33.5deg) translate(-112px, 166px);
+    transform: rotate(-33.5deg) translate(-112px, 166px);
+    -webkit-transform-origin: 0% 100%;
+    -moz-transform-origin: 0% 100%;
+    -o-transform-origin: 0% 100%;
+    -ms-transform-origin: 0% 100%;
+    transform-origin: 0% 100%;
+    -webkit-transition: all 0.4s ease-in-out 0.3s;
+    -moz-transition: all 0.4s ease-in-out 0.3s;
+    -o-transition: all 0.4s ease-in-out 0.3s;
+    transition: all 0.4s ease-in-out 0.3s;
+}
+.view-ninth h2 {
+    background: transparent;
+    margin-top: 5px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+.view-ninth a.info {
+    display: none;
+}
+.view-ninth:hover .content {
+    height: 300px;
+    width: 300px;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+    filter: alpha(opacity=90);
+    opacity: 0.9;
+    top: 40px;
+    -webkit-transform: rotate(0deg) translate(0, 0);
+    -moz-transform: rotate(0deg) translate(0, 0);
+    -o-transform: rotate(0deg) translate(0, 0);
+    -ms-transform: rotate(0deg) translate(0, 0);
+    transform: rotate(0deg) translate(0, 0);
+}
+.view-ninth:hover .mask-1, .view-ninth:hover .mask-2 {
+    -webkit-transition-delay: 0s;
+    -moz-transition-delay: 0s;
+    -o-transition-delay: 0s;
+    transition-delay: 0s;
+}
+.view-ninth:hover .mask-1 {
+    -webkit-transform: rotate(56.5deg) translateX(1px);
+    -moz-transform: rotate(56.5deg) translateX(1px);
+    -o-transform: rotate(56.5deg) translateX(1px);
+    -ms-transform: rotate(56.5deg) translateX(1px);
+    transform: rotate(56.5deg) translateX(1px);
+}
+.view-ninth:hover .mask-2 {
+    -webkit-transform: rotate(56.5deg) translateX(-1px);
+    -moz-transform: rotate(56.5deg) translateX(-1px);
+    -o-transform: rotate(56.5deg) translateX(-1px);
+    -ms-transform: rotate(56.5deg) translateX(-1px);
+    transform: rotate(56.5deg) translateX(-1px);
+}
+
+
+.tituloseparador
+{
+    text-align: left;
+    font-size: 20px;
+}
+
+.tituloseparador i
+{
+    right: 25px;
+    position: absolute;
+    color: #3a1f58;
+}
+
+
+
+/* PROGRAMAS ESTRATEGICOS*/
+.ItemProgramaE a
+{
+    width: 100%;
+    margin: auto;
+    background: #921f26; /* 696969*/
+    margin-bottom: 20px;
+    padding: 10px;
+    color: #fff;
+    display: block;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+.ItemProgramaE a:hover
+{
+    background: #d8831c; /* 696969ad*/
+    color: #fff;
+    cursor: pointer;
+    color: #fff;
+}
+
+
+.categoriaPE i
+{
+    font-size: 80px;
+    color: #ae0033; 
+    margin-bottom: 30px;
+}
+
+.categoriaPE i:hover
+{
+    color: #FF6B6B;
+    cursor: pointer;
+}
+
+
+
+
+/* SLIDE DE NOTICIAS */
+
+
+
+.cardn {
+    width: 100%;
+    background-color: #3a1f586f; /* 696969*/
+    text-align: left;
+    position: relative;
+    height: 100%;
+    box-shadow: 0px 2px 6px 0px #98186154; /* 696969*/
+    border: 1px solid #3a1f58; /* 696969*/
+}
+
+.noticias
+{
+
+    margin-bottom: 60px;
+}
+
+.notocia-item {
+    width: 33%;
+    margin-bottom: 30px;
+    padding-right: 2%;
+    padding-left: 2%;
+
+    /* ensuring proper layout*/
+    float: left;
+}
+
+
+.noticia-info {
+    padding: 7%;
+    height: 150px;
+
+
+    color: rgb(0, 0, 0);
+
+    width: 100%;
+    text-align: justify;
+
+}
+
+
+.noticia-topic {
+    font-weight: 500;
+    color: #921f26; /* ffffff*/
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.noticia-title {
+    font-weight: 500;
+    font-size: 14px;
+    margin: 0 0 30%;
+    height: 50px;
+}
+.noticia-meta {
+    color: #000000;
+    font-weight: 300;
+    font-size: 11px;
+    position: absolute;
+    left: 7%;
+    bottom: 2%;
+}
+
+
+
+img { max-width:100%; }
+
+
+
+
+/*FOOTHER*/
+
+.foother
+{
+    background: #3a1f58; /* 696969*/
+}
+
+.foother-columna
+{
+
+    min-height: 400px;
+}
+
+.titulo-foother
+{
+    color: #ccbc9c; /* ffffff*/
+    padding: 25px;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.info-foother
+{
+    text-align: left !important;
+    color: #ccbc9c;
+}
+
+.info-foother i
+{
+    color: #ccbc9c; /*ccbc9c*/
+}
+
+
+.link
+{
+    color: #fff !important;
+    text-decoration: none !important;
+}
+
+
+.link:hover
+{
+    cursor: pointer !important;;
+    text-decoration: none !important;;
+    color: #921f26 !important; 
+
+}
+
+.tabla-foother {
+  border-collapse: separate;
+  border-spacing:  10px;
+}
+
+
+/*PLANTELES*/
+
+.filter-button-group button
+{
+    color: #3a1f58;
+    background-color: none;
+    background: none;
+    border: none;
+    text-decoration: none;
+    margin: 25px;
+
+}
+
+.filter-button-group button:hover
+{
+   color: #ccbc9c;
+   cursor: pointer;
+
+}
+
+.grid-item
+{
+    padding: 15px;
+    margin-bottom: 25px;
+}
+
+.targeta-plantel {
+  text-align: left;
+  overflow: hidden;
+  /*padding-top: 20px;*/
+  max-width: 300px;
+  margin: auto;
+  box-shadow: 5px 5px 5px #981861;/*------- color de fondo actividades extracurriculares-------*/
+}
+
+.targeta-plantel:hover .targeta-plantel-img .hover {
+  visibility: visible;
+  opacity: 1;
+  transition: all 0.3s ease-in;
+
+}
+
+
+.targeta-plantel h1
+{
+    color: #d8831c;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 10px;
+  }
+
+.targeta-plantel h2
+{
+    color: #556270;
+    font-size: 13px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+
+
+.targeta-plantel-img img {
+border-top: 5px solid #ae0033;
+width: 100%;
+max-height:  220px;
+}
+
+.targeta-plantel-img {
+  position: relative;
+}
+
+
+.hover-iner {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+
+.hover-iner a
+{
+  position: absolute;
+  background-color: rgba(0,0,0, 0.1);
+  width: 100%;
+  height:  100%;
+  color: #fff;
+  text-align: center;
+  font-size: 35px;
+  line-height: 290px;
+}
+
+.hover-iner img {
+  width: auto;
+
+}
+
+.hover-iner span {
+  position: absolute;
+  text-transform: uppercase;
+  color: #fff;
+  margin-top: 190px;
+  text-align: center;
+  font-size: 13px;
+  width: 100%;
+  font-weight: 300;
+}
+
+.hover {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0px;
+  left: 0px;
+  visibility: hidden;
+  opacity: 0;
+  background-color: #7fb13e92;/*-------actividades extracurriculares hover (cuadro)----*/
+}
+
+
+/*CONSTRUYETE*/
+
+.targeta-construyete h1
+{
+    margin-top: 20px;
+    color: #ae0033;
+    font-size: 22px;
+
+
+}
+
+.construyete-dim
+{
+    width: 80%;  
+    max-width: 327px;
+    max-height: 327px;
+    margin: auto;
+    margin-bottom: 25px;
+    position: relative;
+    cursor: pointer;
+
+}
+
+
+.targeta-construyete:hover .construyete-dim .hover-construyete {
+  visibility: visible;
+  opacity: 1;
+  transition: all 0.3s ease-in;
+}
+
+
+.targeta-construyete:hover .construyete-dim img{
+  border:  1px solid rgba(119, 0, 36, 0.0);
+
+}
+
+
+.hover-construyete {
+    position: absolute;
+    vertical-align: middle;
+    width: 80%;
+    height: 80%;
+    top: 0px;
+    left:0px;
+    top: 10%; 
+    left: 10%;
+    visibility: hidden;
+    opacity: 0;
+    background-color: #7fb13e92;/*------ hover circulo correo cobat convocatorias etc ------- */
+    border: 1px solid #7fb13eea;
+
+}
+
+
+.hover-construyete-contenido
+{
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+
+.hover-construyete-contenido p
+{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 45px;
+    color: #981861; /*------- hover circulo correo cobat convocatorias etc (cruz)----------*/
+
+}
+
+.canvas-pdf
+{
+    margin-top: 25px;
+    margin-bottom: 5px;
+    border-top: 5px solid #ae0033;
+    background: #fff;
+    box-shadow: 5px 5px 5px #888888;
+    width: 400px;
+    cursor: zoom-in;
+
+}
+
+
+.canvas-pdf
+{
+    margin-top: 25px;
+    margin-bottom: 5px;
+    border-top: 5px solid #ae0033;
+    background: #fff;
+    box-shadow: 5px 5px 5px #888888;
+    width: 400px;
+
+}
+
+.controles-canvas-pdf a:hover
+{
+    cursor: pointer;
+
+}
+
+
+.canvas-pdf-modal
+{
+    border-top: 5px solid #ae0033;
+    background: #fff;
+    height: 100%;
+    width: 100%;
+}
+
+
+/*INFORME*/
+
+
+
+
+.informe-dim
+{
+
+    max-width: 280px;
+	max-height: 350px;
+    margin: auto;
+    position: relative;
+    box-shadow: 0 25px 10px rgba(35,32,39,0.5);
+    margin-bottom: 20px;
+
+
+}
+
+.targeta-informe
+{
+    max-width: 280px;
+	max-height: 350px;
+    margin: auto;
+    margin-bottom: 70px;
+}
+
+.targeta-informe p
+{
+    font-size: 12px;
+    color: #888888;
+}
+
+.targeta-informe:hover .informe-dim .hover-informe {
+  visibility: visible;
+  opacity: 1;
+  transition: all 0.3s ease-in;
+}
+
+.targeta-informe:active .informe-dim .hover-informe
+{
+    visibility: visible;
+    opacity: 1;
+    transition: all 0.3s ease-in;
+}
+
+
+.targeta-informe:hover .informe-dim img{
+  border:  1px solid rgba(119, 0, 36, 0.0);
+
+}
+
+
+.hover-informe {
+    position: absolute;
+    vertical-align: middle;
+    width: 90%;
+    height: 90%;
+    top: 5%;
+    left:5%;
+    visibility: hidden;
+    opacity: 0;
+    background-color: #7fb13e92;/*----------- colores hover de informe de actividades ------------ */
+    border: 1px solid #80b13e; /*----------- colores hover de informe de actividades ------------ */
+    content: '';
+	box-shadow: 0 6px 10px rgba(35,32,39,0.5);
+}
+
+
+.hover-informe-contenido
+{
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+
+.hover-informe-contenido i
+{
+    color: #fff;
+    cursor: pointer;
+}
+
+
+
+
+.hover-informe-contenido p
+{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 45px;
+    color: #fff;
+    position: relative;
+
+}
+
+
+/*CONVOCATORIAS*/
+
+.contenedor-padre
+{
+    margin: auto;
+    margin-bottom: 50px;
+}
+
+.contenedor-padre:hover .hover-padre{
+  visibility: visible;
+  opacity: 1;
+  transition: all 0.3s ease-in;
+}
+
+.contenedor-hijo
+{
+    position: relative;
+    cursor: pointer;
+    box-shadow: 0 6px 10px rgba(35,32,39,0.5);
+
+}
+
+
+.hover-padre {
+    position: absolute;
+    vertical-align: middle;
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    visibility: hidden;
+    opacity: 0;
+    background-color: #7fb13e92; /*-------- HOVER DE LA TARJETa DE PLANTELES ------*/
+    border: 1px solid #7fb13eea; /*-------- HOVER DE LA TARJETa DE PLANTELES (LINEA) ------*/
+}
+
+
+.hover-hijo
+{
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+
+
+.hover-hijo p
+{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 45px;
+    color: #981861;/*------- hover de docentes, convocatorias (cruz) ----------*/
+
+}
+
+
+
+/*MATERIAL DIDACTICO*/
+
+.MaterialDidactico
+{
+    padding: 10px;
+    text-align: left;
+}
+
+
+.MaterialDidactico h1
+{
+    width: 100%;
+    padding: 25px;
+    margin-bottom: 20px;
+    font-size: 35px;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+
+    background: #ae0033;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #DD2476, #FF512F);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(center top, #ae0033, #FF512F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+       background: red; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(#ae0033, #FF512F); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(#ae0033, #FF512F); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#ae0033, #FF512F); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#ae0033, #FF512F); /* Standard syntax */
+
+
+}
+
+
+
+/*PLANTEL*/
+
+.infoplantel i
+{
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: #981861; /*--------- ICONOS DE PLANTELES ---------*/
+}
+
+.infoplantel h1
+{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.infoplantel p
+{
+    font-size: 14px;
+}
+
+/*GALERIA*/
+.galeria img
+{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+/*RECURSOS DOCENTES*/
+
+.recursos-docentes
+{
+
+
+}
+
+
+.recursos-docentes i
+{
+
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: #ae0033;
+}
+
+.recursos-docentes h1
+{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/**/
+.campo-disiplinario-p
+{
+  max-width: 300px;
+  margin: auto;
+  border-top: 5px solid #3a1f58; /*------ MARCO DE PLANTELES -------*/
+  background: #fff;
+  box-shadow: 5px 5px 5px #3a1f58; /*------ MARCO DE PLANTELES -------*/
+  margin-bottom: 30px;
+}
+
+.campo-disiplinario-p h1
+{
+  color: #921f26;
+  font-size: 16px;
+  padding-top: 15px;
+}
+
+.campo-disiplinario-p p
+{
+  margin-left: 15px;
+  font-size: 12px;
+  color: rgba(0, 0, 0, 0.5);
+  text-align: justify;
+}
