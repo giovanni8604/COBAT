@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/ico" href="assets/images/template/icon/cobat_morado.ico">
+    <title>Valoración Diagnóstica</title>
+    <style>
+        /* Estilos generales y ligeros */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f0f4f8; /* Tono gris azulado muy claro */
+            color: #333;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            margin: 0;
+            position: relative; /* Necesario para fijar el logo */
+        }
+
+        /* Diseño del logo en la parte izquierda */
+        .logo-cobat {
+            position: absolute;
+            top: 30px;
+            left: 40px;
+            width: 260px; /* Tamaño término medio */
+            height: auto;
+        }
+        
+        /* Contenedor principal tipo tarjeta */
+        .contenedor {
+            text-align: center;
+            background-color: #ffffff;
+            padding: 40px 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            max-width: 90%;
+            width: 400px;
+            z-index: 10; /* Asegura que la tarjeta quede por encima si la pantalla es muy pequeña */
+        }
+        
+        /* Tipografía */
+        h1 {
+            font-size: 1.6rem;
+            color: #003366; /* Azul académico */
+            margin-top: 0;
+            margin-bottom: 10px;
+        }
+        
+        p {
+            font-size: 1rem;
+            color: #555;
+            margin-bottom: 30px;
+        }
+        
+        /* Diseño del botón */
+        .boton {
+            background-color: #3a1f58;
+            color: #ffffff;
+            text-decoration: none;
+            padding: 14px 28px;
+            border-radius: 6px;
+            font-size: 1.1rem;
+            font-weight: bold;
+            display: inline-block;
+            transition: background-color 0.3s ease;
+        }
+        
+        .boton:hover {
+            background-color: #981861;
+        }
+
+        /* Ajuste para pantallas pequeñas (celulares) */
+        @media (max-width: 768px) {
+            body {
+                flex-direction: column;
+                justify-content: flex-start;
+                padding-top: 30px;
+            }
+            .logo-cobat {
+                position: static; /* Quita la posición fija en móviles */
+                margin-bottom: 40px;
+                width: 220px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Logotipo insertado -->
+    <img src="/assets/images/COBAT_nueva_historia.png" alt="Logo COBAT" class="logo-cobat">
+
+    <div class="contenedor">
+        <h1>Valoración</h1>
+        <p>Diagnóstica</p>
+        
+        <!-- Reemplaza el "#" con el enlace real de tu formulario -->
+        <a href="https://forms.gle/VPFEpDr3QeXmGNta8" class="boton">Presiona aquí</a> <!--https://forms.gle/VPFEpDr3QeXmGNta8-->
+    </div>
+
+</body>
+</html>
