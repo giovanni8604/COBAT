@@ -457,7 +457,7 @@ header
 }
 
 .header-area .main-nav .logo {
-  line-height: 100px;
+  line-height: 50px;
   color: #fff;
   font-size: 28px;
   font-weight: 700;
@@ -873,7 +873,7 @@ banner
 
 .video-overlay {
     position: absolute;
-    background-color: #3a1f586b;
+    background-color: #3a1f582b;
     top: 0;
     left: 0;
     bottom: 0;
